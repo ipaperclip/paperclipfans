@@ -1,4 +1,4 @@
-## Vol.002 如何制造爆款冥币
+# Vol.002 如何制造爆款冥币
 
 
 在消费升级的浪潮下，冥币也得与时俱进。
@@ -6,13 +6,12 @@
 新冥币的精髓是对当代生活原样复刻，今天我们所拥有的一切，最好都能够烧给祖宗。
 
 在淘宝，一份畅销冥币套餐含有多达 21 种产品。这些五颜六色的时尚冥币是如何被设计和制造的？
-
-
+<br />
 
 <div align=center>
   <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101171921.gif">
 </div>
-
+<br />
 
 
 根据功能，冥币可以分为两类：货币和礼物。
@@ -24,7 +23,7 @@
 <div align=center>
   <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172118.gif">
 </div>
-
+<br />
 
 
 海龟、相机、跳舞机等小众产品只能依赖定制。但对于手机、别墅等畅销爆款，则需要提高产能。
@@ -44,7 +43,7 @@
 <div align=center> 
   <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172313.jpeg"> 
 </div>
-
+<br />
 
 
 相比烧纸，制造元宝简单的多。
@@ -58,9 +57,7 @@
 <div align=center> 
   <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172338.gif">
 </div>
-
-
-
+<br />
 真正考验设计能力的，是高仿人民币。
 
 尽管 2000 年实施的《中华人民共和国人民币管理条例》第二十七条中，禁止制作、仿制、买卖人民币图样。但印有毛泽东头像的高仿冥币仍然可以轻松买到。
@@ -84,30 +81,30 @@
 <div align=center> 
   <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172517.gif">
 </div>
-
-
+<br />
 
 头像则没有太多选择，毛泽东和玉皇大帝是最保守安全的方案。需要注意的是，为了保证和人民币相似的质感，头像还需要添加雕刻效果。
 
-
-
 <div align=center> 	<img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172538.gif" width=""> </div>
+<br />
 人民币正面右上角的「中国人民银行」字样源自央行老员工马文蔚，风格与魏碑体近似。以方正字库的吕建德魏碑体为基础，略作修改就可以做到近似马先生的字迹。
 
-
-
 <div align=center> 	<img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172845.gif" width=""> </div>
-
+<br />
 
 表示面额的数字和汉字由衬线字体调整而成。冥币通货膨胀相当严重，别忘了多加几个零。
 
 最后，添加冥币风味的装饰图案，调整图层样式、图层不透明度来模拟防伪效果，一张当代冥币就设计完成了。
 
-
-
 <div align=center> 	<img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172810.gif" width=""> </div>
-
+<br />
 
 一台冥币印刷机，每小时可以制造 240 平米，约 2 万张冥币，按批发价折算，约为人民币 400 元。
 
 开始数钱吧。
+
+
+---
+<a href="https://github.com/ipaperclip/paperclipfans/blob/master/Wiki/Vol.002%20%E5%A6%82%E4%BD%95%E5%88%B6%E9%80%A0%E7%88%86%E6%AC%BE%E5%86%A5%E5%B8%81.md" rel="nofollow" target="_blank">Edit On Github >
+<br />
+在Github上编辑此篇文章 > </a>
