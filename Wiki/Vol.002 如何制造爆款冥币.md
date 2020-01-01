@@ -102,9 +102,3 @@
 一台冥币印刷机，每小时可以制造 240 平米，约 2 万张冥币，按批发价折算，约为人民币 400 元。
 
 开始数钱吧。
-
-
----
-<a href="https://github.com/ipaperclip/paperclipfans/blob/master/Wiki/Vol.002%20%E5%A6%82%E4%BD%95%E5%88%B6%E9%80%A0%E7%88%86%E6%AC%BE%E5%86%A5%E5%B8%81.md" rel="nofollow" target="_blank">Edit On Github >
-<br />
-在Github上编辑此篇文章 > </a>
