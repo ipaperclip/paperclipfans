@@ -1,3 +1,8 @@
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101190652.gif">
+</div>
+<br />
+
 # Vol.002 如何制造爆款冥币
 
 
