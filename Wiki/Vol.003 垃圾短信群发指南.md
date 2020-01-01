@@ -1,8 +1,4 @@
-<style type="text/css">
-			.markdown-body img{
-				text-align: center;
-			}
-		</style>
+
 
 <div align=center>
   <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101191314.gif">
