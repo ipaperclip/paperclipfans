@@ -7,3 +7,6 @@ Hi,这里是回形针 Wiki 收录仓库，您可以前往 https://github.com/ipa
 
 # 视频
 回形针 PaperClip 每期都有内容丰富的视频，但无法支付相关视频费用（CDN/存储费），所以在文档里暂时还没有。
+
+# 贡献者
+- FlyingSky-CN
