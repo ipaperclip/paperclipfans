@@ -1,8 +1,3 @@
-<style type="text/css">
-    .img {
-    	text-align:center;
-    }
-</style>
 
 <div class="img">
 <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200104152603.gif"> </div>
