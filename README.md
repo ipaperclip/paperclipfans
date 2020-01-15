@@ -1,6 +1,6 @@
 # PaperClip Fans
 
-Hi,这里是回形针 Wiki 收录仓库，您可以前往 https://github.com/ipaperclip/paperclipfans/tree/master/Wiki 查看往期节目，或者移步至 【临时域名:https://test.noxer.cn 】  https://paperclip.wiki 进行查看~
+Hi,这里是回形针 Wiki 收录仓库，您可以前往 https://github.com/ipaperclip/paperclipfans/tree/master/Wiki 查看往期节目，或者移步至 ~~【临时域名:https://test.noxer.cn 】~~  https://paperclip.wiki 进行查看~
 
 # 贡献
 如果您想要贡献文档资料，您可以 Fork 本仓库，修改后提交 PR.
