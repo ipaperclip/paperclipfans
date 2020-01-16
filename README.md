@@ -10,3 +10,4 @@ Hi,这里是回形针 Wiki 收录仓库，您可以前往 https://github.com/ipa
 
 # 贡献者
 - FlyingSky-CN
+- XxLittleCxX
