@@ -1,30 +1,4 @@
-<meta name="referrer" content="no-referrer">
-<script src="https://cdn.jsdelivr.net/npm/vue"></script>
-<script src='https://unpkg.com/element-ui@2.13.0/lib/index.js'></script>
-
 # <i class="fa fa-hashtag" aria-hidden="true"></i> Vol.118 你的 App 对你的隐私做了什么？
-
-<link href="https://cdn.bootcss.com/video.js/7.6.5/video-js.css" rel="stylesheet">
-<center><video id="myVideo" class="video-js vjs-default-skin vjs-big-play-centered vjs-16-9" playsinline="true" controls preload="auto" width="640" height="auto" data-setup='{}' poster="https://cdn.jsdelivr.net/gh/a77uu/blogimg/img/20200306120119.jpg">      
-        <source id="source" src="https://v.noxer.top/play/7af825517c7d4e41.m3u8"  type="application/x-mpegURL">  
-    </video> </center>
-<script src="https://cdn.bootcss.com/video.js/7.6.5/video.js"></script>
-
-
-<div id="app">
-<div class="block">
-  <el-timeline>
-    <el-timeline-item timestamp="2020/1/16" placement="top">
-      <el-card>
-        <h4>更新 Vol.0114 文字稿</h4>
-        <p>站长</el-tag> </el-link> 提交于 2020/3/6 15:55</p>
-      </el-card>
-    </el-timeline-item>
-</div>
-</div>
-<div id="hr">
-    <el-divider content-position="center">文字稿</el-divider>
-    </div>
 
 当你注册微信的时候，你需要阅读一份8300个字的隐私协议，必须勾选我已阅读，并同意上述条款，才能进行下一步。
 
@@ -65,12 +39,3 @@ ISO27001 包含了信息安全、人力安全、物理安全在内的14个模块
 然而在二审中，百度辨析的存储和传播这两个概念，在不干涉用户存储隐私的同时，百度也会积极切断盗版内容的传播路径，从而奇迹般的逆转了判决。连4万元案件受理费都让从那年掏了。
 
 我是吴松磊，如果你喜欢本期节目请转发支持我们，你可以在微博、微信、B站、YouTube、微信搜索回形针PaperClip关注我们，在我们公众号后台回复隐私，可以获取本期节目当中用的几份文件，我们下期节目见。
-	
-</div>
-
-
-<script>
-new Vue().$mount('#hr')
-new Vue().$mount('#app')
-new Vue().$mount('#link')
-</script>
