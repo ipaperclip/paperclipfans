@@ -7,7 +7,7 @@
 
 # Vol.006 烂牙修复指南
 
-视频：[Vol.006 (喜馬拉雅)烂牙修复指南 | 回形针](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.006%20%28%E5%96%9C%E9%A6%AC%E6%8B%89%E9%9B%85%29%E7%83%82%E7%89%99%E4%BF%AE%E5%A4%8D%E6%8C%87%E5%8D%97%20%7C%20%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
+视频：[Vol.006 (喜馬拉雅)烂牙修复指南 | 回形针](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Vol.006%20%28%E5%96%9C%E9%A6%AC%E6%8B%89%E9%9B%85%29%E7%83%82%E7%89%99%E4%BF%AE%E5%A4%8D%E6%8C%87%E5%8D%97%20%7C%20%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
 
 IPFS：QmaT6xuUeqG3v9YwG346TV5jHvKnRnG2ESrmawYeaui1Cw
 

@@ -1,6 +1,6 @@
 # Vol.106 过山车如何让你尖叫
 
-视频：[Vol.106 过山车如何让你尖叫？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.106%20%E8%BF%87%E5%B1%B1%E8%BD%A6%E5%A6%82%E4%BD%95%E8%AE%A9%E4%BD%A0%E5%B0%96%E5%8F%AB%EF%BC%9F.mp4)
+视频：[Vol.106 过山车如何让你尖叫？](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Vol.106%20%E8%BF%87%E5%B1%B1%E8%BD%A6%E5%A6%82%E4%BD%95%E8%AE%A9%E4%BD%A0%E5%B0%96%E5%8F%AB%EF%BC%9F.mp4)
 
 IPFS：QmbwcHVdpHk2wJzaV86JkoQAzcGmcxZbcn29UDVSXwghQX
 

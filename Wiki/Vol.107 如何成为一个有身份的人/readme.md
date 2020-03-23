@@ -1,6 +1,6 @@
 # Vol.107 如何成为一个有身份的人
 
-视频：[Vol.107 如何成为一个有身份的人？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.107%20%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E6%9C%89%E8%BA%AB%E4%BB%BD%E7%9A%84%E4%BA%BA%EF%BC%9F.mp4)
+视频：[Vol.107 如何成为一个有身份的人？](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Vol.107%20%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E6%9C%89%E8%BA%AB%E4%BB%BD%E7%9A%84%E4%BA%BA%EF%BC%9F.mp4)
 
 IPFS：QmUitTWwoDkpJGnGV5eUDLqu2KFbaArRGd9jNqbybLCpLp
 

@@ -22,7 +22,7 @@ Youtube：[Vol.003 垃圾短信群发指南 | 回形针](https://www.youtube.com
 
 知乎：[垃圾短信群发指南](https://zhuanlan.zhihu.com/p/33642480)
 
-视频：[Vol.003 垃圾短信群发指南 | 回形针](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.003%20%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E7%BE%A4%E5%8F%91%E6%8C%87%E5%8D%97%20%7C%20%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
+视频：[Vol.003 垃圾短信群发指南 | 回形针](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Vol.003%20%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E7%BE%A4%E5%8F%91%E6%8C%87%E5%8D%97%20%7C%20%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
 
 IPFS：QmY4GexUm8BCmMG31teCnWV7SaMgcuTqNqSGp3SXJPPLSw
 

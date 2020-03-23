@@ -1,6 +1,6 @@
 # Vol.094 假肢如何拯救身体残疾
 
-视频：[Vol.094 假肢如何拯救身体残疾？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.094%20%E5%81%87%E8%82%A2%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91%E8%BA%AB%E4%BD%93%E6%AE%8B%E7%96%BE%EF%BC%9F.mp4)
+视频：[Vol.094 假肢如何拯救身体残疾？](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Vol.094%20%E5%81%87%E8%82%A2%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91%E8%BA%AB%E4%BD%93%E6%AE%8B%E7%96%BE%EF%BC%9F.mp4)
 
 IPFS：QmQftJ7z3M37BQ7cKcDzdwhLQJ2TBt9Aj22Ch68yLNe2XJ
 

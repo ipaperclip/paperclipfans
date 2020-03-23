@@ -1,6 +1,6 @@
 # Vol.105 如何科学地管理图书馆
 
-视频：[Vol.105 如何科学地管理图书馆？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.105%20%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%9C%B0%E7%AE%A1%E7%90%86%E5%9B%BE%E4%B9%A6%E9%A6%86%EF%BC%9F.mp4)
+视频：[Vol.105 如何科学地管理图书馆？](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Vol.105%20%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%9C%B0%E7%AE%A1%E7%90%86%E5%9B%BE%E4%B9%A6%E9%A6%86%EF%BC%9F.mp4)
 
 IPFS：QmZu5Hw9kcmGQrVBrLSUSunqSHg62RZzJSrocyQ8kh4Y8w
 

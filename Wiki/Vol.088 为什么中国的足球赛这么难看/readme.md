@@ -1,6 +1,6 @@
 # Vol.088 为什么中国的足球赛这么难看
 
-视频：[Vol.088 为什么中国的足球赛这么难看？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.088%20%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B6%B3%E7%90%83%E8%B5%9B%E8%BF%99%E4%B9%88%E9%9A%BE%E7%9C%8B%EF%BC%9F.mp4)
+视频：[Vol.088 为什么中国的足球赛这么难看？](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Vol.088%20%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B6%B3%E7%90%83%E8%B5%9B%E8%BF%99%E4%B9%88%E9%9A%BE%E7%9C%8B%EF%BC%9F.mp4)
 
 IPFS：QmXAu1tuwXC9qceCar8qeDeKomGoYfNAhwabA3TCm6E9Kz
 

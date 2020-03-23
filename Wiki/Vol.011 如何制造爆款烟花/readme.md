@@ -1,6 +1,6 @@
 # Vol.011 如何制造爆款烟花
 
-视频：[Vol.010 混音师如何拯救歌手｜回形针](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.012%20%E5%9D%A6%E5%85%8B%E9%A9%BE%E9%A9%B6%E6%8C%87%E5%8D%97%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
+视频：[Vol.010 混音师如何拯救歌手｜回形针](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Vol.012%20%E5%9D%A6%E5%85%8B%E9%A9%BE%E9%A9%B6%E6%8C%87%E5%8D%97%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
 
 IPFS：QmU18NdcTWscYYDTyrbPVxAPVLb79J6Eo5uktmAyqzSDrS
 

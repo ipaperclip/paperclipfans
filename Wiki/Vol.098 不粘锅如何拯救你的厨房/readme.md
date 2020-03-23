@@ -1,6 +1,6 @@
 # Vol.098 不粘锅如何拯救你的厨房
 
-视频：[Vol.098 不粘锅如何拯救你的厨房？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.098%20%E4%B8%8D%E7%B2%98%E9%94%85%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91%E4%BD%A0%E7%9A%84%E5%8E%A8%E6%88%BF%EF%BC%9F.mp4)
+视频：[Vol.098 不粘锅如何拯救你的厨房？](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Vol.098%20%E4%B8%8D%E7%B2%98%E9%94%85%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91%E4%BD%A0%E7%9A%84%E5%8E%A8%E6%88%BF%EF%BC%9F.mp4)
 
 IPFS：QmemT7vwVA2o3ccBXimhPUwEgMu586RUtpscXBVLMXzXqd
 

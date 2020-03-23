@@ -1,6 +1,6 @@
 # Vol.096 如何科学地矫正牙齿
 
-视频：[Vol.096 如何科学地矫正牙齿？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.096%20%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%9C%B0%E7%9F%AB%E6%AD%A3%E7%89%99%E9%BD%BF%EF%BC%9F.mp4)
+视频：[Vol.096 如何科学地矫正牙齿？](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Vol.096%20%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%9C%B0%E7%9F%AB%E6%AD%A3%E7%89%99%E9%BD%BF%EF%BC%9F.mp4)
 
 IPFS：QmURKBk2Hpb54Nvgte6pLyb1dDeM33AFVoY7aRz13ZSEbk
 

@@ -1,6 +1,6 @@
 # Vol.104 你好！查水表
 
-视频：[Vol.104 你好！查水表！](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.104%20%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%9F%A5%E6%B0%B4%E8%A1%A8%EF%BC%81.mp4)
+视频：[Vol.104 你好！查水表！](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Vol.104%20%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%9F%A5%E6%B0%B4%E8%A1%A8%EF%BC%81.mp4)
 
 IPFS：QmQvfu6sVhWcf3E11jjAPp8dsV6steCNBsiEEUUcf7VMSD
 

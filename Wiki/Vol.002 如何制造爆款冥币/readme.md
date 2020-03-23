@@ -5,7 +5,7 @@
 
 # Vol.002 如何制造爆款冥币
 
-视频：[Vol.002 如何制造爆款冥币｜回形针](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.002%20%E5%A6%82%E4%BD%95%E5%88%B6%E9%80%A0%E7%88%86%E6%AC%BE%E5%86%A5%E5%B8%81%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
+视频：[Vol.002 如何制造爆款冥币｜回形针](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Vol.002%20%E5%A6%82%E4%BD%95%E5%88%B6%E9%80%A0%E7%88%86%E6%AC%BE%E5%86%A5%E5%B8%81%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
 
 IPFS：QmWpjpwZr691kJmaVVb9jXPamq1JQp3Qw68WUzUBkCPU4r
 

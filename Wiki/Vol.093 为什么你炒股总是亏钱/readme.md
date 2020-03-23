@@ -1,6 +1,6 @@
 # Vol.093 为什么你炒股总是亏钱
 
-视频：[Vol.093 为什么你炒股总是亏钱？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.093%20%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E7%82%92%E8%82%A1%E6%80%BB%E6%98%AF%E4%BA%8F%E9%92%B1%EF%BC%9F.mp4)
+视频：[Vol.093 为什么你炒股总是亏钱？](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Vol.093%20%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E7%82%92%E8%82%A1%E6%80%BB%E6%98%AF%E4%BA%8F%E9%92%B1%EF%BC%9F.mp4)
 
 IPFS：QmbfHu1mSzUBgb6hL1uB9b7y6Sqc8kJQGuSCyUYzREKTg7
 

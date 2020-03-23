@@ -1,6 +1,6 @@
 # Vol.089 如何打造一款强劲的马达
 
-视频：[Vol.089 如何打造一款强劲的马达？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.089%20%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E4%B8%80%E6%AC%BE%E5%BC%BA%E5%8A%B2%E7%9A%84%E9%A9%AC%E8%BE%BE%EF%BC%9F.mp4)
+视频：[Vol.089 如何打造一款强劲的马达？](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Vol.089%20%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E4%B8%80%E6%AC%BE%E5%BC%BA%E5%8A%B2%E7%9A%84%E9%A9%AC%E8%BE%BE%EF%BC%9F.mp4)
 
 IPFS：QmUwqWLAQy3jt7zm8NugMZtGGRBcaFFVi4qeveKRSXfagD
 

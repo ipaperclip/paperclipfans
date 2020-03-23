@@ -1,5 +1,11 @@
 # Sp.003 解谜 PaperClip100：球赛、机票、 脚本和 DDos 攻击
 
+视频：[Sp.003 解谜 PaperClip100：球赛、机票、 脚本和 DDos 攻击](http://dweb.link/ipfs/QmcpCpJ48PRTNaKuztBDBva82NUP7YmK6cBM3iAvRDAWTZ/Sp.003%20%E8%A7%A3%E8%B0%9C%20PaperClip100%EF%BC%9A%E7%90%83%E8%B5%9B%E3%80%81%E6%9C%BA%E7%A5%A8%E3%80%81%20%E8%84%9A%E6%9C%AC%E5%92%8C%20DDos%20%E6%94%BB%E5%87%BB.mp4)
+
+IPFS：QmQc6SG4iPBpBKXHWhnTQHSYQnrtzb2RPFhR3ykiB77oZB
+
+---
+
 嗨，我是回形针的制作人吴松磊。
 
 11 月 13 号晚，我们发布了回形针的第 100 期视频。
