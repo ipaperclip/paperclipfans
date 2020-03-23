@@ -8,6 +8,22 @@
 
 # Vol.003 垃圾短信群发指南
 
+哔哩哔哩：[【回形针PaperClip】垃圾短信群发指南](https://www.bilibili.com/video/av19215628/)
+
+爱奇艺：[回形针PaperClip : 垃圾短信群发指南](https://www.iqiyi.com/v_19rr4s4980.html)
+
+梨视频：[Vol.003 垃圾短信群发指南](https://www.pearvideo.com/video_1438217)
+
+腾讯视频：[垃圾短信群发指南](https://v.qq.com/x/page/q0546s8o6w9.html)
+
+微博：[【垃圾短信群发指南】](https://weibo.com/6414205745/G1TVFySQw)
+
+Youtube：[Vol.003 垃圾短信群发指南 | 回形针](https://www.youtube.com/watch?v=3AOFnqHMeoE)
+
+知乎：[垃圾短信群发指南](https://zhuanlan.zhihu.com/p/33642480)
+
+---
+
 今天，如果不是未读信息的提醒，你恐怕根本不会打开手机短信，因为短信功能被垃圾短信彻底干掉了。
 
 请注意，这些短信号码的前缀不是 1065 就是 1069。
