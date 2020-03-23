@@ -1,5 +1,11 @@
 # Vol.099 造假币为什么这么难
 
+视频：[Vol.099 造假币为什么这么难？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.099%20%E9%80%A0%E5%81%87%E5%B8%81%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%9A%BE%EF%BC%9F.mp4)
+
+IPFS：QmUN99sZJRknVgwdcGN9Ud2qDdDG7u868gMkRet4CcHakN
+
+---
+
 哪个男孩不想造出逼真的假（哔）
 
 这是 2015 版的百元人民币，两侧排布着与钞票唯一对应的冠字号码；票面左侧在透光时可以看到人像、数字水印，和前后对印而成的 100 字样。

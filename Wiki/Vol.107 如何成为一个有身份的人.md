@@ -1,5 +1,11 @@
 # Vol.107 如何成为一个有身份的人
 
+视频：[Vol.107 如何成为一个有身份的人？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.107%20%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E6%9C%89%E8%BA%AB%E4%BB%BD%E7%9A%84%E4%BA%BA%EF%BC%9F.mp4)
+
+IPFS：QmUitTWwoDkpJGnGV5eUDLqu2KFbaArRGd9jNqbybLCpLp
+
+---
+
 这是你的身份证，在正面印有签发机关的名称和有效期限，背面则印有你的姓名、性别、住址、头像等信息，而其中最重要的就是身份号码，这些数字是怎么定出来的？
 
 身份号码在你出生办理户口登记时就已定好，共有 18 位，分为四段。1-6 位是地址码，根据中国的行政区划代码，两两一组，分别对应你出生登记地点的省、市、县级行政区，比如 350121 就表示福建省福州市闽侯县。

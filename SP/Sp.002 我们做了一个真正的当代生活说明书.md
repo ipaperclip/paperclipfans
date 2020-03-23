@@ -1,5 +1,11 @@
 # Sp.002 我们做了一个真正的当代生活说明书
 
+视频：[Sp.002 我们做了一个真正的当代生活说明书 | 回形针](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Sp.002%20%E6%88%91%E4%BB%AC%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%BD%93%E4%BB%A3%E7%94%9F%E6%B4%BB%E8%AF%B4%E6%98%8E%E4%B9%A6%20%7C%20%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
+
+IPFS：QmVTzf1LN4fbdoVXNz6FT8UGCdaUETcXj9kX7GUYkdubjM
+
+---
+
 嗨，我是回形针的制作人吴松磊。今天我们要发布一个全新的产品，回形针手册（ ipaperclip.net ）。
 
 ![Pic](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200322100000.gif)

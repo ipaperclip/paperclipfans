@@ -1,5 +1,11 @@
 # Vol.098 不粘锅如何拯救你的厨房
 
+视频：[Vol.098 不粘锅如何拯救你的厨房？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.098%20%E4%B8%8D%E7%B2%98%E9%94%85%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91%E4%BD%A0%E7%9A%84%E5%8E%A8%E6%88%BF%EF%BC%9F.mp4)
+
+IPFS：QmemT7vwVA2o3ccBXimhPUwEgMu586RUtpscXBVLMXzXqd
+
+---
+
 这是什么？这是你的锅，实际上并不平滑。当你想用你最拿手的煎鸡蛋招待朋友时，鸡蛋就会像这样粘在锅上。如果你长期被粘锅这一普遍性难题困扰，一口不粘锅也许能成功拯救你的煎蛋。
 
 食物中的蛋白质与锅内的金属原子接触，形成化学键，表面的凹陷正好为粘锅提供条件。不粘锅的核心则是往锅内加入不粘涂层，阻隔二者直接接触。

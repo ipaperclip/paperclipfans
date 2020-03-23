@@ -1,11 +1,17 @@
 # Vol.007 如何科学地执行死刑
 
+视频：[Vol.007 (喜馬拉雅)如何科学地执行死刑 | 回形针](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.007%20%28%E5%96%9C%E9%A6%AC%E6%8B%89%E9%9B%85%29%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%9C%B0%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%20%7C%20%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
+
+IPFS：QmfAY1CoFwkmKr81tdMU1CFuPrECWgKagjL9WDjUrFtAfx
+
+---
+
 <div align=center>
   <img src="https://cdn.jsdelivr.net/gh/XxLittleCxX/paperclip-static/007/cover.gif">
 </div>
 <br />
 
-处死一个犯人有哪些方法？ 
+处死一个犯人有哪些方法？
 
 从借助自然之力的火刑、石刑，到使用简单器具的十字架刑、绞刑，再到要求复杂机械的断头台、枪决，死刑的每一次进化都体现了人类社会的科技发展。
 

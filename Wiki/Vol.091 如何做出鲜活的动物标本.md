@@ -1,5 +1,11 @@
 # Vol.091 如何做出鲜活的动物标本
 
+视频：[Vol.091 (B站)如何做出鲜活的动物标本？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.091%20%28B%E7%AB%99%29%E5%A6%82%E4%BD%95%E5%81%9A%E5%87%BA%E9%B2%9C%E6%B4%BB%E7%9A%84%E5%8A%A8%E7%89%A9%E6%A0%87%E6%9C%AC%EF%BC%9F.mp4)
+
+IPFS：QmT2RTe2KJyo7gH4WkywfvDcd2i5ZN4PNEhAATUG9syx89
+
+---
+
 处理尸体的方法有很多，土埋、火葬、水化、扔进太空，你也可以选择制成标本，以另一种形态获得永生。不过，人体标本的制作有点难度，我们先从相对简单的动物朋友开始。
 
 尸体腐烂的本质是微生物分解蛋白质等有机物， 只需四周，一整条蜥蜴就会面目全非。将肉、脂肪和软骨这些容易腐烂的部分去除或做防腐处理，保留较完整的形态，就得到了标本。

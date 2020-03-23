@@ -1,5 +1,11 @@
 # Vol.010 混音师如何拯救歌手
 
+视频：[Vol.010 混音师如何拯救歌手｜回形针](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.010%20%E6%B7%B7%E9%9F%B3%E5%B8%88%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91%E6%AD%8C%E6%89%8B%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
+
+IPFS：QmdBtNvTovV5weDZadmnGyDanE7cTWnEGThbLjKnSvvDDf
+
+---
+
 <div align=center>
   <img src="https://cdn.jsdelivr.net/gh/XxLittleCxX/paperclip-static/010/cover.gif">
 </div>

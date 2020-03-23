@@ -1,5 +1,3 @@
-
-
 <div align=center>
   <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101191314.gif">
 </div>
@@ -7,6 +5,12 @@
 <br />
 
 # Vol.003 垃圾短信群发指南
+
+视频：[Vol.003 垃圾短信群发指南 | 回形针](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.003%20%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E7%BE%A4%E5%8F%91%E6%8C%87%E5%8D%97%20%7C%20%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
+
+IPFS：QmY4GexUm8BCmMG31teCnWV7SaMgcuTqNqSGp3SXJPPLSw
+
+---
 
 今天，如果不是未读信息的提醒，你恐怕根本不会打开手机短信，因为短信功能被垃圾短信彻底干掉了。
 

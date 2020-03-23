@@ -1,5 +1,11 @@
 # Vol.103 防弹衣如何救你的命
 
+视频：[Vol.103 防弹衣如何救你的命？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.103%20%E9%98%B2%E5%BC%B9%E8%A1%A3%E5%A6%82%E4%BD%95%E6%95%91%E4%BD%A0%E7%9A%84%E5%91%BD%EF%BC%9F.mp4)
+
+IPFS：QmXoXykbzKeCgoywMQ177buEjQCwA2jfUCFHry7ry8Ds9d
+
+---
+
 这是今天最常见的自动步枪 AK-47，它的子弹口径是 7.62 毫米，射出枪口的初速度可达 725 米/秒，击中人体的瞬间会撕裂出一个巨大的空腔破坏内脏，并裂出碎片嵌在体内。
 
 但只要穿上这样一件防弹衣，你就可以在 15 米开外近乎毫发无损地挨上一枪。

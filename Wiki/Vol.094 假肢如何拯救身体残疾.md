@@ -1,5 +1,11 @@
 # Vol.094 假肢如何拯救身体残疾
 
+视频：[Vol.094 假肢如何拯救身体残疾？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.094%20%E5%81%87%E8%82%A2%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91%E8%BA%AB%E4%BD%93%E6%AE%8B%E7%96%BE%EF%BC%9F.mp4)
+
+IPFS：QmQftJ7z3M37BQ7cKcDzdwhLQJ2TBt9Aj22Ch68yLNe2XJ
+
+---
+
 每隔 30 秒，世界上就会有一个人因为糖尿病导致的血管病变而面临腿部截肢。此外，癌症、先天畸形和外伤同样可能让身体不再完整。
 
 对于这些病患，要想重新自如地行动，就得靠各种各样的假肢，这些假肢是怎么工作的？如何让假肢看上去更自然？

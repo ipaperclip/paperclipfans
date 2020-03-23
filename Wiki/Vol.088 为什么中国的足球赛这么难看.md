@@ -1,5 +1,11 @@
 # Vol.088 为什么中国的足球赛这么难看
 
+视频：[Vol.088 为什么中国的足球赛这么难看？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.088%20%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B6%B3%E7%90%83%E8%B5%9B%E8%BF%99%E4%B9%88%E9%9A%BE%E7%9C%8B%EF%BC%9F.mp4)
+
+IPFS：QmXAu1tuwXC9qceCar8qeDeKomGoYfNAhwabA3TCm6E9Kz
+
+---
+
 这是 2019 年，英超的足球比赛画面。而这是中超的比赛画面，仔细看，你会发现，中超的足球场在外围总会多一圈田径跑道，这条跑道不仅把现场观众远远隔开，影响观赛体验，更让转播画面看起来像是学校运动会。
 
 一个专业的场地是比赛好看的基础，可为什么中国最顶级的足球赛还非得搞这么一圈难看的跑道？

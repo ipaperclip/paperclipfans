@@ -5,6 +5,11 @@
 
 # Vol.002 如何制造爆款冥币
 
+视频：[Vol.002 如何制造爆款冥币｜回形针](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.002%20%E5%A6%82%E4%BD%95%E5%88%B6%E9%80%A0%E7%88%86%E6%AC%BE%E5%86%A5%E5%B8%81%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
+
+IPFS：QmWpjpwZr691kJmaVVb9jXPamq1JQp3Qw68WUzUBkCPU4r
+
+---
 
 在消费升级的浪潮下，冥币也得与时俱进。
 
@@ -45,8 +50,8 @@
 
 
 
-<div align=center> 
-  <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172313.jpeg"> 
+<div align=center>
+  <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172313.jpeg">
 </div>
 <br />
 
@@ -59,7 +64,7 @@
 
 
 
-<div align=center> 
+<div align=center>
   <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172338.gif">
 </div>
 <br />
@@ -71,8 +76,8 @@
 
 
 
-<div align=center> 
-  <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172419.gif"> 
+<div align=center>
+  <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172419.gif">
 </div>
 
 
@@ -83,7 +88,7 @@
 
 人民币底纹的基础单位是三条纵向交错的波浪线。在 155:77 的白色背景上，批量复制粉色曲线交错横向排列，就能成功制造纸币质感。
 
-<div align=center> 
+<div align=center>
   <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172517.gif">
 </div>
 <br />

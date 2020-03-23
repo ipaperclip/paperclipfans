@@ -1,5 +1,11 @@
 # Vol.089 如何打造一款强劲的马达
 
+视频：[Vol.089 如何打造一款强劲的马达？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.089%20%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E4%B8%80%E6%AC%BE%E5%BC%BA%E5%8A%B2%E7%9A%84%E9%A9%AC%E8%BE%BE%EF%BC%9F.mp4)
+
+IPFS：QmUwqWLAQy3jt7zm8NugMZtGGRBcaFFVi4qeveKRSXfagD
+
+---
+
 当代生活离不开马达。
 
 你家里的吹风机、剃须刀、电风扇，乃至你手里会震动的手机，今天几乎所有插上电能动的机器，里面都少不了马达。

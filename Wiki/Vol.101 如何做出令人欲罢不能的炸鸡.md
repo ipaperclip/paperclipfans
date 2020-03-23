@@ -1,5 +1,11 @@
 # Vol.101 如何做出令人欲罢不能的炸鸡
 
+视频：[Vol.101 如何做出令人欲罢不能的炸鸡？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.101%20%E5%A6%82%E4%BD%95%E5%81%9A%E5%87%BA%E4%BB%A4%E4%BA%BA%E6%AC%B2%E7%BD%A2%E4%B8%8D%E8%83%BD%E7%9A%84%E7%82%B8%E9%B8%A1%EF%BC%9F.mp4)
+
+IPFS：QmVVCUi3odSp3Av3nHnh6LDTVPYEq1ZmPr2cBJ2HksQPRE
+
+---
+
 这是一只鸡，它最好的归宿就是做成炸鸡，然后被你吃掉。
 
 为什么炸鸡这么好吃？怎样才能做出令人欲罢不能的炸鸡？

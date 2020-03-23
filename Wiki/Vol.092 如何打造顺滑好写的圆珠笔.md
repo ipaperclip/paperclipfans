@@ -1,5 +1,11 @@
 # Vol.092 如何打造顺滑好写的圆珠笔
 
+视频：[Vol.091 (B站)如何做出鲜活的动物标本？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.092%20%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E9%A1%BA%E6%BB%91%E5%A5%BD%E5%86%99%E7%9A%84%E5%9C%86%E7%8F%A0%E7%AC%94%EF%BC%9F.mp4)
+
+IPFS：QmRX3WaGvxfE58EXmM7hdMcg7YojawhVXZ8T5kq1AsXNm9
+
+---
+
 这是一支圆珠笔，这也是一支圆珠笔，这还是一支圆珠笔，今天，我们生活中 99% 的笔都是圆珠笔。
 
 这些圆珠笔按墨水类型可分为油性、中性、水性 3 类，但工作原理都一样，里面的笔芯存有墨水，在重力作用下会通过笔尖内的沟槽附着在一颗球珠表面，球珠在球座中的旋转就会将墨水转移到纸上形成笔迹。

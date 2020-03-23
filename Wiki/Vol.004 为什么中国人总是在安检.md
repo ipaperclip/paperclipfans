@@ -4,6 +4,12 @@
 
 # Vol.004 为什么中国人总是在安检
 
+视频：[Vol.004 (喜馬拉雅)为什么中国人总是在安检 | 回形针](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.004%20%28%E5%96%9C%E9%A6%AC%E6%8B%89%E9%9B%85%29%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%80%BB%E6%98%AF%E5%9C%A8%E5%AE%89%E6%A3%80%20%7C%20%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
+
+IPFS：QmbqJhzSnw2GGAjDKxN13yqgHKJPgCR7NWLjQo6zdnioJ6
+
+---
+
 走进地铁，首先你需要把行李放在一条传送带上，然后穿过一个塑料门，最后安检人员会对你挥舞一根黑色的棒子。
 
 <div align="center">
@@ -121,4 +127,3 @@ X光检查仪传送带的标准速度是 0.22 米/秒，一次标准安检大概
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101200144.gif">
 </div>
-

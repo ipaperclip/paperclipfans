@@ -1,5 +1,11 @@
 # <i class="fa fa-hashtag" aria-hidden="true"></i> Vol.118 你的 App 对你的隐私做了什么？
 
+视频：[Vol.118 你的 App 对你的隐私做了什么？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.118%20%E4%BD%A0%E7%9A%84%20App%20%E5%AF%B9%E4%BD%A0%E7%9A%84%E9%9A%90%E7%A7%81%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F.mp4)
+
+IPFS：Qma7UbdyzKzdg2q5pMbJKhrBp4xLiZJ6P8VQAFUqCMDwb7
+
+---
+
 当你注册微信的时候，你需要阅读一份8300个字的隐私协议，必须勾选我已阅读，并同意上述条款，才能进行下一步。
 
 但我们都知道，其实你并没有读，也不知道你究竟同意了什么条款，理论上只要你同意你的APP里填写的住址、电话号码、聊天记录、手机里的通讯录、照片、短信、通话记录，都可以被APP们自由的采集和分析。他们对你的隐私数据到底做了什么？

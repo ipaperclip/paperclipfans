@@ -6,6 +6,12 @@
 
 # Vol.005 如何实现逼真的砍头
 
+视频：[Vol.005 (喜馬拉雅)如何实现逼真的砍头 | 回形针](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.005%20%28%E5%96%9C%E9%A6%AC%E6%8B%89%E9%9B%85%29%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E9%80%BC%E7%9C%9F%E7%9A%84%E7%A0%8D%E5%A4%B4%20%7C%20%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
+
+IPFS：QmX6xvCoor7KA9YeH3psSfdCor8Pd5yZ5WqPwLDLyRGHVV
+
+---
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101201516.jpeg">
 </div>
@@ -132,4 +138,3 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101210441.jpeg">
 </div>
-

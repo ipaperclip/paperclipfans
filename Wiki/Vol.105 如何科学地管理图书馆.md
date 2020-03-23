@@ -1,5 +1,11 @@
 # Vol.105 如何科学地管理图书馆
 
+视频：[Vol.105 如何科学地管理图书馆？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.105%20%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%9C%B0%E7%AE%A1%E7%90%86%E5%9B%BE%E4%B9%A6%E9%A6%86%EF%BC%9F.mp4)
+
+IPFS：QmZu5Hw9kcmGQrVBrLSUSunqSHg62RZzJSrocyQ8kh4Y8w
+
+---
+
 这里是中国国家图书馆，里面的书架上摆放着 3700 多万册文献书籍，平均每天要接待 1.2 万名读者，如何保证这些读者找到自己想要的书？什么样的书才有资格进入图书馆？
 
 一座图书馆的核心竞争力是藏书的数量与质量，然而，仅中国每年出版的新书就多达 25 万本，这么多书该怎么挑？

@@ -1,5 +1,11 @@
 # Sp.001 2018 年回形针如何赚钱？
 
+视频：[Sp.001 2018 年回形针如何赚钱？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Sp.001%202018%20%E5%B9%B4%E5%9B%9E%E5%BD%A2%E9%92%88%E5%A6%82%E4%BD%95%E8%B5%9A%E9%92%B1%EF%BC%9F.mp4)
+
+IPFS：QmYhYQdTnv2p5MAtLjeXUenRjpRp2TDdDGv7PPYG1bgyBq
+
+---
+
 嗨，我是回形针的制作人吴松磊。在这支视频中，我们将回答一个大家关心的问题：回形针是怎么赚钱的。
 
 今年 3 月，我们开始独立运营，到现在为止一共制作了 45 支视频。截止到今天，我们的收入是62.7 万元，其中 9.7 万元来自视频制作，53 万元来自广告。
