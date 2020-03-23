@@ -1,5 +1,9 @@
 # Vol.001 摄像头如何监控十三亿人
 
+哔哩哔哩视频：[【回形针PaperClip】摄像头如何监控十三亿人？](https://www.bilibili.com/video/av16814286/)
+
+哔哩哔哩专栏：[摄像头如何监控十三亿人](https://www.bilibili.com/read/cv391102/)
+
 ---
 
 过去十年，中国是监控摄像头增长最快的国家。
@@ -60,5 +64,9 @@
 
 也许在不久的未来，摄像头将直接喊出你的名字。
 
+---
 
-
++ [本次视频用到的几份文件](https://shimo.im/docs/4xhDnnJJJYQpMKNI)
+  + [惠州市社会治安视频监控系统建设三年规划.pdf](https://raw.githubusercontent.com/ipaperclip/paperclipfans/master/Wiki/Vol.001%20%E6%91%84%E5%83%8F%E5%A4%B4%E5%A6%82%E4%BD%95%E7%9B%91%E6%8E%A7%E5%8D%81%E4%B8%89%E4%BA%BF%E4%BA%BA/Resource/%E6%83%A0%E5%B7%9E%E5%B8%82%E7%A4%BE%E4%BC%9A%E6%B2%BB%E5%AE%89%E8%A7%86%E9%A2%91%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E5%BB%BA%E8%AE%BE%E4%B8%89%E5%B9%B4%E8%A7%84%E5%88%92.pdf)
+  + [青岛市北区平安城市监控系统建设方案（最终方案）.pdf](https://raw.githubusercontent.com/ipaperclip/paperclipfans/master/Wiki/Vol.001%20%E6%91%84%E5%83%8F%E5%A4%B4%E5%A6%82%E4%BD%95%E7%9B%91%E6%8E%A7%E5%8D%81%E4%B8%89%E4%BA%BF%E4%BA%BA/Resource/%E9%9D%92%E5%B2%9B%E5%B8%82%E5%8C%97%E5%8C%BA%E5%B9%B3%E5%AE%89%E5%9F%8E%E5%B8%82%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E5%BB%BA%E8%AE%BE%E6%96%B9%E6%A1%88%EF%BC%88%E6%9C%80%E7%BB%88%E6%96%B9%E6%A1%88%EF%BC%89.pdf)
+  + [湖北省社会治安视频监控系统共享平台建设指导意见.pdf](https://raw.githubusercontent.com/ipaperclip/paperclipfans/master/Wiki/Vol.001%20%E6%91%84%E5%83%8F%E5%A4%B4%E5%A6%82%E4%BD%95%E7%9B%91%E6%8E%A7%E5%8D%81%E4%B8%89%E4%BA%BF%E4%BA%BA/Resource/%E6%B9%96%E5%8C%97%E7%9C%81%E7%A4%BE%E4%BC%9A%E6%B2%BB%E5%AE%89%E8%A7%86%E9%A2%91%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E5%85%B1%E4%BA%AB%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E6%8C%87%E5%AF%BC%E6%84%8F%E8%A7%81.pdf)
