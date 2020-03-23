@@ -9,7 +9,7 @@ AD https://v.paperclip.wiki 回形针论坛 - 真正属于针针的论坛
 # 视频
 回形针 PaperClip 每期都有内容丰富的视频，所有视频均已上传到IPFS以进行永久存储。单击文档中的链接以观看视频或使用IPFS观看视频，让其他观众更快地加载。
 
-#IPFS
+# IPFS
 如果您有一定的计算机知识，并且想为这个项目做贡献。 请Pin我们的IPFS视频文件夹，以便其他观众更快地加载。
 ```
 ipfs pin add QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK
