@@ -4,6 +4,10 @@
 
 哔哩哔哩专栏：[摄像头如何监控十三亿人](https://www.bilibili.com/read/cv391102/)
 
+喜马拉雅：[Vol.001 摄像头如何监控十三亿人 | 回形针](https://www.ximalaya.com/keji/16999516/111609061)
+
+Youtube：~~[Vol.001 摄像头如何监控十三亿人 | 回形针](https://www.youtube.com/watch?v=sUlvS0lJhcc)~~
+
 ---
 
 过去十年，中国是监控摄像头增长最快的国家。
