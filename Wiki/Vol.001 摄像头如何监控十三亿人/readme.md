@@ -1,6 +1,12 @@
 # Vol.001 摄像头如何监控十三亿人
 
+哔哩哔哩视频：~~[【回形针PaperClip】摄像头如何监控十三亿人？](https://www.bilibili.com/video/av16814286/)~~
+
 哔哩哔哩专栏：[摄像头如何监控十三亿人](https://www.bilibili.com/read/cv391102/)
+
+喜马拉雅：[Vol.001 摄像头如何监控十三亿人 | 回形针](https://www.ximalaya.com/keji/16999516/111609061)
+
+Youtube：~~[Vol.001 摄像头如何监控十三亿人 | 回形针](https://www.youtube.com/watch?v=sUlvS0lJhcc)~~
 
 视频：[Vol.001 (喜馬拉雅)摄像头如何监控十三亿人 | 回形针](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Vol.001%20%28%E5%96%9C%E9%A6%AC%E6%8B%89%E9%9B%85%29%E6%91%84%E5%83%8F%E5%A4%B4%E5%A6%82%E4%BD%95%E7%9B%91%E6%8E%A7%E5%8D%81%E4%B8%89%E4%BA%BF%E4%BA%BA%20%7C%20%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
 

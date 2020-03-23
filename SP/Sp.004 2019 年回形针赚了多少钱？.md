@@ -1,11 +1,5 @@
 # Sp.004 2019 年回形针赚了多少钱？
 
-视频：[Sp.004 2019 年回形针赚了多少钱？](http://dweb.link/ipfs/QmZwFjoJRVF6bKCwwSZQsYCTJD8nGKTkT9xfpWxqGnTGzK/Sp.004%202019%20%E5%B9%B4%E5%9B%9E%E5%BD%A2%E9%92%88%E8%B5%9A%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1%EF%BC%9F.mp4)
-
-IPFS：QmewMQ78tpRvRYam9uDyE3TususZYkD8B1okKysH8P9K5t
-
----
-
 嗨，我是回形针的制作人吴松磊。今天是 2019 年的最后一天，和去年一样，我们会在这支视频里回答一个大家关心的问题：2019 年回形针赚了多少钱？
 
 首先要告诉大家，我们今年盈利了，不仅盈利，去年亏的钱都赚回来了。
