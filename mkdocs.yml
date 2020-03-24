@@ -1,0 +1,35 @@
+site_name: 'PaperClip Fans'
+site_description: 'Hi~ 这里是回形针非官方的资料整理仓库. '
+
+# Repository
+repo_name: 'ipaperclip/paperclipfans'
+repo_url: 'https://github.com/ipaperclip/paperclipfans'
+edit_uri: "https://github.com/ipaperclip/paperclipfans/?file="
+
+# Copyright
+copyright: ''
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'zh'
+  palette:
+    primary: 'white'
+    accent: 'blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  include_search_page: false
+  search_index_only: true
+  feature:
+    tabs: true
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.toc:
+      permalink: true
+
+nav:
