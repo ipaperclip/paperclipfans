@@ -12,3 +12,4 @@ AD https://v.paperclip.wiki 回形针论坛 - 真正属于针针的论坛
 # 贡献者
 - FlyingSky-CN
 - XxLittleCxX
+- Lcandy2
