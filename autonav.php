@@ -13,7 +13,12 @@ function addNav($name, $dir) {
     );
     $yml .= "\n  - $name: ";
     foreach ($files as $name) {
-        $yml .= "\n    - $name: $name/readme.md";
+        if (is_dir($dir.'/'.$name)) {
+            $yml .= "\n    - $name: $name/readme.md";
+        } else {
+            $file = str_replace('.md', '', $name);
+            $yml .= "\n    - $file: $name";
+        }
     }
     return true;
 }
