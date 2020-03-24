@@ -1,6 +1,6 @@
 name: Publish docs via GitHub Pages
 on:
-  push:
+  pull_request:
     branches:
       - master
 
@@ -11,6 +11,12 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v1
+      
+      - name: Check dir
+        run: |
+          mkdir docs
+          mv SP/* docs/
+          mv Wiki/* docs/
 
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
