@@ -12,9 +12,8 @@ function addNav($name, $dir) {
         ['.', '..']
     );
     $yml .= "\n  - $name: ";
-    foreach ($files as $file) {
-        $name = str_replace('.md', '', $file);
-        $yml .= "\n    - $name: $file";
+    foreach ($files as $name) {
+        $yml .= "\n    - $name: $name/readme.md";
     }
     return true;
 }
