@@ -23,7 +23,7 @@ function addNav($name, $dir) {
     return true;
 }
 
-addNav('Vol.', Wiki_dir);
-addNav('Sp.', SP_dir);
+addNav('Vol', Wiki_dir);
+addNav('Sp', SP_dir);
 
 file_put_contents('mkdocs.yml', $yml);

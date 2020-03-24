@@ -4,7 +4,7 @@ site_description: 'Hi~ 这里是回形针非官方的资料整理仓库. '
 # Repository
 repo_name: 'ipaperclip/paperclipfans'
 repo_url: 'https://github.com/ipaperclip/paperclipfans'
-edit_uri: "https://github.com/ipaperclip/paperclipfans/?file="
+edit_uri: "https://github.com/ipaperclip/paperclipfans"
 
 # Copyright
 copyright: ''
@@ -33,3 +33,4 @@ markdown_extensions:
       permalink: true
 
 nav:
+  - Start: homepage.md
