@@ -17,6 +17,9 @@ jobs:
           mkdir docs
           mv SP/* docs/
           mv Wiki/* docs/
+      
+      - name: Nav auto create
+        run: php autonav.php
 
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
