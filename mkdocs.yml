@@ -33,4 +33,4 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - start: homepage.md
+  - Start: homepage.md
