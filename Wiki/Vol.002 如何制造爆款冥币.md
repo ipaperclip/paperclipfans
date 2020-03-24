@@ -1,35 +1,20 @@
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101190652.gif">
-</div>
-<br />
+![20200101190652.gif](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101190652.gif)
 
 # Vol.002 如何制造爆款冥币
-
 
 在消费升级的浪潮下，冥币也得与时俱进。
 
 新冥币的精髓是对当代生活原样复刻，今天我们所拥有的一切，最好都能够烧给祖宗。
 
 在淘宝，一份畅销冥币套餐含有多达 21 种产品。这些五颜六色的时尚冥币是如何被设计和制造的？
-<br />
 
-<div align=center>
-  <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101171921.gif">
-</div>
-<br />
-
+![20200101171921.gif](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101171921.gif)
 
 根据功能，冥币可以分为两类：货币和礼物。
 
 当代生活的一切实体是都可以烧给先人的礼物。除了相对好制作的存折，户口，医保卡，还有各类立体道具。这些由纸板或泡沫板组装的模型在业内被统称为纸扎。
 
-
-
-<div align=center>
-  <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172118.gif">
-</div>
-<br />
-
+![20200101172118.gif](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172118.gif)
 
 海龟、相机、跳舞机等小众产品只能依赖定制。但对于手机、别墅等畅销爆款，则需要提高产能。
 
@@ -43,13 +28,7 @@
 
 根据需求，烧纸可以添加皱纹、压泡、木粉、印花、打孔等多种效果，而每一种效果，都对应着不同的设备。
 
-
-
-<div align=center> 
-  <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172313.jpeg"> 
-</div>
-<br />
-
+![20200101172313.jpeg](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172313.jpeg)
 
 相比烧纸，制造元宝简单的多。
 
@@ -57,25 +36,15 @@
 
 但手工还是无法满足量产需求，元宝自动折叠机应运而生。今天，只需要花费 2 万买下一台元宝折叠机，每小时就收获一万个金元宝。
 
+![20200101172338.gif](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172338.gif)
 
-
-<div align=center> 
-  <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172338.gif">
-</div>
-<br />
 真正考验设计能力的，是高仿人民币。
 
 尽管 2000 年实施的《中华人民共和国人民币管理条例》第二十七条中，禁止制作、仿制、买卖人民币图样。但印有毛泽东头像的高仿冥币仍然可以轻松买到。
 
 如果你只想完全山寨人民币，那么只需要用一张真实的人民币图片稍加修改就可以完成。
 
-
-
-<div align=center> 
-  <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172419.gif"> 
-</div>
-
-
+![20200101172419.gif](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172419.gif)
 
 而原创设计需要对人民币有更深的理解。
 
@@ -83,26 +52,21 @@
 
 人民币底纹的基础单位是三条纵向交错的波浪线。在 155:77 的白色背景上，批量复制粉色曲线交错横向排列，就能成功制造纸币质感。
 
-<div align=center> 
-  <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172517.gif">
-</div>
-<br />
+![20200101172517.gif](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172517.gif)
 
 头像则没有太多选择，毛泽东和玉皇大帝是最保守安全的方案。需要注意的是，为了保证和人民币相似的质感，头像还需要添加雕刻效果。
 
-<div align=center> 	<img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172538.gif" width=""> </div>
-<br />
+![20200101172538.gif](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172538.gif)
+
 人民币正面右上角的「中国人民银行」字样源自央行老员工马文蔚，风格与魏碑体近似。以方正字库的吕建德魏碑体为基础，略作修改就可以做到近似马先生的字迹。
 
-<div align=center> 	<img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172845.gif" width=""> </div>
-<br />
+![20200101172845.gif](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172845.gif)
 
 表示面额的数字和汉字由衬线字体调整而成。冥币通货膨胀相当严重，别忘了多加几个零。
 
 最后，添加冥币风味的装饰图案，调整图层样式、图层不透明度来模拟防伪效果，一张当代冥币就设计完成了。
 
-<div align=center> 	<img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172810.gif" width=""> </div>
-<br />
+![20200101172810.gif](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101172810.gif)
 
 一台冥币印刷机，每小时可以制造 240 平米，约 2 万张冥币，按批发价折算，约为人民币 400 元。
 
