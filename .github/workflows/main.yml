@@ -12,15 +12,18 @@ jobs:
       - name: Checkout master
         uses: actions/checkout@v1
       
+      - name: Nav auto create
+        run: php autonav.php
+
       - name: Check dir
         run: |
           mkdir docs
           mv SP/* docs/
           mv Wiki/* docs/
-      
-      - name: Nav auto create
-        run: php autonav.php
 
+      - name: Throw mkdocs.yml
+        run: cat mkdocs.yml
+      
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
