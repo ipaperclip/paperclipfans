@@ -1,4 +1,10 @@
 <?php
+/**
+ * Paperclip Fans
+ * 自动构建 Mkdocs Nav
+ * 
+ * @author FlyingSky-CN
+ */
 
 define('Wiki_dir', __DIR__.'/Wiki', true);
 define('SP_dir', __DIR__.'/SP', true);

@@ -12,3 +12,7 @@ cp -r Wiki/ docs/
 cp -r Start/* docs/
 
 mkdocs serve
+
+cp -rf docs/SP/* SP/
+cp -rf docs/Wiki/* Wiki/
+cp -f docs/*.md Start/
