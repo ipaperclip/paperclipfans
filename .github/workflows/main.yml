@@ -20,7 +20,7 @@ jobs:
           mkdir docs
           mv SP/* docs/
           mv Wiki/* docs/
-          mv homepage.md docs/
+          mv index.md docs/
 
       - name: Throw mkdocs.yml
         run: cat mkdocs.yml
