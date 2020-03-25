@@ -55,3 +55,15 @@
 虽然这看起来像是一个不求回报的公益项目，但实际上还是商业行为，通过可靠优质的内容，帮助我们获得流量和更多赚钱的可能性。如果你也认同，希望你能帮忙转发，让更多人知道回形针手册。
 
 期待和你共同创造一个更可靠的中文互联网，拜拜。
+
+!!! note "该文件编辑日志"
+
+	* 	Mar 22, 2020.
+		By [FlyingSky-CN](https://github.com/FlyingSky-CN)
+
+			创建文件
+
+	* 	Mar 25, 2020.
+		By [FlyingSky-CN](https://github.com/FlyingSky-CN)
+
+			Markdown 格式化

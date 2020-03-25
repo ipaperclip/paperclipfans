@@ -1,6 +1,6 @@
 # Vol.001 摄像头如何监控十三亿人
 
-!!! abstract
+!!! abstract ""
 
 	哔哩哔哩视频：[【回形针PaperClip】摄像头如何监控十三亿人？](https://www.bilibili.com/video/av16814286/)
 
@@ -68,7 +68,7 @@
 
 也许在不久的未来，摄像头将直接喊出你的名字。
 
-!!! quote "本次视频用到的几份文件"
+!!! quote "本期视频用到的几份文件"
 
   	[惠州市社会治安视频监控系统建设三年规划.pdf](https://raw.githubusercontent.com/ipaperclip/paperclipfans/master/Wiki/Vol.001%20%E6%91%84%E5%83%8F%E5%A4%B4%E5%A6%82%E4%BD%95%E7%9B%91%E6%8E%A7%E5%8D%81%E4%B8%89%E4%BA%BF%E4%BA%BA/Resources/%E6%83%A0%E5%B7%9E%E5%B8%82%E7%A4%BE%E4%BC%9A%E6%B2%BB%E5%AE%89%E8%A7%86%E9%A2%91%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E5%BB%BA%E8%AE%BE%E4%B8%89%E5%B9%B4%E8%A7%84%E5%88%92.pdf)
 	
