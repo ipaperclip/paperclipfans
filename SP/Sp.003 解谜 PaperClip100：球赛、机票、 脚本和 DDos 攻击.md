@@ -181,3 +181,15 @@ ipaperclip.net 是我们今年 4 月底发布的当代百科全书回形针手�
 另一方面，我也发现很多观众在解谜群里找到了自己的同类，找到和自己兴趣一样的人并不容易，让回形针的观众都能成为朋友，也是我们第 100 期节目的初衷。
 
 无论如何，和你们在一起玩很开心，拜拜。
+
+!!! note "该文件编辑日志"
+
+	* 	Mar 22, 2020.
+		By [FlyingSky-CN](https://github.com/FlyingSky-CN)
+
+			创建文件
+
+	* 	Mar 25, 2020.
+		By [FlyingSky-CN](https://github.com/FlyingSky-CN)
+
+			Markdown 格式化
