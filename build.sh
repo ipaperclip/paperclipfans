@@ -9,6 +9,6 @@ php autonav.php
 
 cp -r SP/ docs/
 cp -r Wiki/ docs/
-cp -r Start/ docs/
+cp -r Start/* docs/
 
 mkdocs serve
