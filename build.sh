@@ -7,6 +7,6 @@ php autonav.php
 
 cp -r SP/* docs/
 cp -r Wiki/* docs/
-cp homepage.md docs/
+cp index.md docs/
 
-mkdocs build
+mkdocs serve
