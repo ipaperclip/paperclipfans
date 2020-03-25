@@ -20,9 +20,9 @@ jobs:
       - name: Check dir
         run: |
           mkdir docs
-          mv SP/* docs/
-          mv Wiki/* docs/
-          mv index.md docs/
+          mv SP/ docs/
+          mv Wiki/ docs/
+          mv Start/ docs/
 
       - name: Throw mkdocs.yml
         run: cat mkdocs.yml
