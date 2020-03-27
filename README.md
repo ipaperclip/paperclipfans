@@ -1,15 +1,5 @@
 # PaperClip Fans
 
-Hi,这里是回形针 Wiki 收录仓库，您可以前往 https://github.com/ipaperclip/paperclipfans/tree/master/Wiki 查看往期节目，或者移步至 ~~【临时域名:https://test.noxer.cn 】~~  https://paperclip.wiki 进行查看~
-AD https://v.paperclip.wiki 回形针论坛 - 真正属于针针的论坛
+![Publish docs via GitHub Pages](https://github.com/FlyingSky-CN/paperclipfans/workflows/Publish%20docs%20via%20GitHub%20Pages/badge.svg)
 
-# 贡献
-如果您想要贡献文档资料，您可以 Fork 本仓库，修改后提交 PR.
-
-# 视频
-回形针 PaperClip 每期都有内容丰富的视频，但无法支付相关视频费用（CDN/存储费），所以在文档里暂时还没有。
-
-# 贡献者
-- FlyingSky-CN
-- XxLittleCxX
-- Lcandy2
+氦，这里是 回形针 PaperClip 内容收录仓库，你可以在这里找到往期节目的相关内容。
