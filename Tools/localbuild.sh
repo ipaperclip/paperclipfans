@@ -1,4 +1,6 @@
 
+cd ..
+
 rm -rf docs/
 
 mkdir docs
