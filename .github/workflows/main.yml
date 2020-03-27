@@ -15,7 +15,7 @@ jobs:
       - name: Nav auto create
         run: |
           mv mkdocs.example.yml mkdocs.yml
-          php autonav.php
+          php Tools/autonav.php
 
       - name: Check dir
         run: |
