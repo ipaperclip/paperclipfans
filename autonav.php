@@ -6,15 +6,12 @@
  * @author FlyingSky-CN
  */
 
-define('Wiki_dir', __DIR__.'/Wiki', true);
-define('SP_dir', __DIR__.'/SP', true);
-
 $yml = file_get_contents('mkdocs.yml');
 
-function addNav($name, $dir, $way) {
+function addNav($name, $way) {
     global $yml;
     $files = array_diff(
-        scandir($dir),
+        scandir(__DIR__.'/'.$way),
         ['.', '..']
     );
     $yml .= "\n  - $name: ";
@@ -29,7 +26,7 @@ function addNav($name, $dir, $way) {
     return true;
 }
 
-addNav('Vol', Wiki_dir, "Wiki");
-addNav('Sp', SP_dir, "SP");
+addNav('Vol', "Vol");
+addNav('Sp', "Sp");
 
 file_put_contents('mkdocs.yml', $yml);
