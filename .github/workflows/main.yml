@@ -14,13 +14,13 @@ jobs:
       - name: Nav auto create
         run: |
           mv mkdocs.example.yml mkdocs.yml
-          php autonav.php
+          php autonav
 
       - name: Check dir
         run: |
           mkdir docs
-          mv SP/ docs/
-          mv Wiki/ docs/
+          mv Sp/ docs/
+          mv Vol/ docs/
           mv Start/* docs/
 
       - name: Throw mkdocs.yml
