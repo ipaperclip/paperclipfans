@@ -1,8 +1,7 @@
 name: Publish docs via GitHub Pages
 on:
   pull_request:
-    branches:
-      - master
+    branches: [ master ]
 
 jobs:
   build:
@@ -15,7 +14,7 @@ jobs:
       - name: Nav auto create
         run: |
           mv mkdocs.example.yml mkdocs.yml
-          php Tools/autonav.php
+          php autonav.php
 
       - name: Check dir
         run: |
