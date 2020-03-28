@@ -1,0 +1,33 @@
+name: Publish docs via GitHub Pages
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    name: Deploy docs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v2
+      
+      - name: Nav auto create
+        run: |
+          mv mkdocs.example.yml mkdocs.yml
+          php autonav
+
+      - name: Check dir
+        run: |
+          mkdir docs
+          mv Sp/ docs/
+          mv Vol/ docs/
+          mv Start/* docs/
+
+      - name: Throw mkdocs.yml
+        run: cat mkdocs.yml
+      
+      - name: Deploy docs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CUSTOM_DOMAIN: repo.paperclip.wiki
