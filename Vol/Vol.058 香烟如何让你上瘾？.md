@@ -110,7 +110,7 @@ FLOW 福禄的烟油就使用了更中性的尼古丁盐，通过加入苯甲酸
 
 !!! note "该文件编辑日志"
 
-	* 	Apr 29, 2020.
+	* 	Mar 29, 2020.
 		By [parozhao](https://github.com/parozhao)
 	
 			创建文件 & Markdown 格式化

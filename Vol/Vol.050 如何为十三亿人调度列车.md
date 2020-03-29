@@ -84,7 +84,7 @@
 
 普速铁路联控的通话是公开的，你甚至可以买个手台在家收听。
 
-**擅自加入或干扰联控通话是违法行为*
+**擅自加入或干扰联控通话是违法行为**
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/U6yRaDu1Naa7ZXPXPrzypibvHba2SQsyVf3BpeLoEiamTibNF089lmqiaGSiakowlOMuaMvDE5vPd1ysdDM1mU3CwibQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -118,7 +118,7 @@
 
 !!! note "该文件编辑日志"
 
-	* 	Apr 29, 2020.
+	* 	Mar 29, 2020.
 		By [parozhao](https://github.com/parozhao)
 	
 			创建文件 & Markdown 格式化

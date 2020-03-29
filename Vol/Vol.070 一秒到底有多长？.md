@@ -8,9 +8,9 @@
 	
 	`host` 存档：[Vol.070 一秒到底有多长？｜回形针](https://paperclip.host/%E5%B8%B8%E8%A7%84Vol/Vol.070%20%E4%B8%80%E7%A7%92%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%95%BF%EF%BC%9F%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
 
-	!!! note "该文件编辑日志"
+!!! note "该文件编辑日志"
 
-	* 	Apr 29, 2020.
+	* 	Mar 29, 2020.
 		By [parozhao](https://github.com/parozhao)
 	
 			创建文件 & 添加链接

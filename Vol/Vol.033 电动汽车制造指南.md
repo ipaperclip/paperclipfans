@@ -86,7 +86,7 @@ BMS 还要通过冷却系统给电池散热。
 
 !!! note "该文件编辑日志"
 
-	* 	Apr 29, 2020.
+	* 	Mar 29, 2020.
 		By [parozhao](https://github.com/parozhao)
 	
 			创建文件 & Markdown 格式化

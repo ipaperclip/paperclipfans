@@ -180,7 +180,7 @@ P 代表点的位置，包含 X，Y，Z 轴的坐标信息，P1 是这条直线�
 
 !!! note "该文件编辑日志"
 
-	* 	Apr 29, 2020.
+	* 	Mar 29, 2020.
 		By [parozhao](https://github.com/parozhao)
 	
 			创建文件 & Markdown 格式化

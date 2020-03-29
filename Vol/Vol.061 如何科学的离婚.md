@@ -144,7 +144,7 @@ CBOW 模型的训练方式，就是不断练习用上下文预测中间的词，
 
 !!! note "该文件编辑日志"
 
-	* 	Apr 29, 2020.
+	* 	Mar 29, 2020.
 		By [parozhao](https://github.com/parozhao)
 	
 			创建文件 & Markdown 格式化

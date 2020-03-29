@@ -5,7 +5,6 @@
 	哔哩哔哩视频：[【回形针PaperClip】如何科学地分析你的口水？](https://www.bilibili.com/video/BV1n4411K78M)
 	
 	`host` 存档：[Vol.071 如何科学地分析你的口水？｜回形针](https://paperclip.host/%E5%B8%B8%E8%A7%84Vol/Vol.071%20%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%9C%B0%E5%88%86%E6%9E%90%E4%BD%A0%E7%9A%84%E5%8F%A3%E6%B0%B4%EF%BC%9F%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4)
-原创 吴松磊/庄修修
 
 这是你的口水，98% 都是水，剩下的是各种各样的酶、电解质、细菌和细胞，最常见的，是白细胞和从你口腔黏膜脱落的上皮细胞。
 
@@ -89,7 +88,7 @@ HMM 要求状态和状态之间存在转换概率，而不是完全随机。对�
 
 !!! note "该文件编辑日志"
 
-	* 	Apr 29, 2020.
+	* 	Mar 29, 2020.
 		By [parozhao](https://github.com/parozhao)
 	
 			创建文件 & Markdown 格式化

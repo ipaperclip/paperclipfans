@@ -80,11 +80,7 @@ X 光能穿透人体，但体内不同密度的组织会让 X 光不同程度地
 
 所以用 CT 照完一圈后，只能得到这样一个图像，称为正弦图（Sinogram），横坐标上不同的位置就对应着不同角度获得的投影。
 
- 
-
 ![img](https://mmbiz.qpic.cn/mmbiz_gif/U6yRaDu1NabicGXIU8CMem4R6O2NsXQk16758YibFjQMD4DhkGG3qlvPicuWBzNLhOzOV9qibc32dBl42jYIxadXAQ/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
-
-  
 
 要想还原正弦图，最直接的方法是反投影。
 
@@ -132,7 +128,7 @@ X 光和 CT 虽然可以快速看穿你的颈椎、腰椎病，但也伴随着�
 
 !!! note "该文件编辑日志"
 
-	* 	Apr 29, 2020.
+	* 	Mar 29, 2020.
 		By [parozhao](https://github.com/parozhao)
 	
 			创建文件 & Markdown 格式化
