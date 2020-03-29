@@ -70,7 +70,7 @@ STR 算法在白天的车辆检测率可达 99%，夜间可达 95%。
 
 !!! note "该文件编辑日志"
 
-	* 	Apr 29, 2020.
+	* 	Mar 29, 2020.
 		By [parozhao](https://github.com/parozhao)
 	
 			创建文件 & Markdown 格式化

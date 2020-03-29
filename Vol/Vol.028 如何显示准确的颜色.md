@@ -78,7 +78,7 @@ Cell 阶段的目的是在玻璃基板与彩色滤光板之间注入液晶。
 
 关于液晶屏工艺，还有很多有意思的细节。如果你想了解更多，可以在我们的微信公众号发送「显示器」，获取吴玉祥博士这份一百页的详细说明。
 
-**吳玉祥，「TFT LCD顯示原理製程技術與設備」，光機電奈米量測系統科技整合研討會*
+**吳玉祥，「TFT LCD顯示原理製程技術與設備」，光機電奈米量測系統科技整合研討會**
 
 ![img](https://mmbiz.qpic.cn/mmbiz_gif/U6yRaDu1NaYbSu7r6cjkuQmnnyS76cbItY6V2XYNg73bLbbUDThiaIxkfreyFXwBkbJM42Y5WBJhxuoax0npmAw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 
@@ -96,7 +96,7 @@ Cell 阶段的目的是在玻璃基板与彩色滤光板之间注入液晶。
 
 !!! note "该文件编辑日志"
 
-	* 	Apr 29, 2020.
+	* 	Mar 29, 2020.
 		By [parozhao](https://github.com/parozhao)
 	
 			创建文件 & Markdown 格式化

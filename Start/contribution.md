@@ -8,7 +8,7 @@
 
 `Tools` 文件夹里有一些工具，可能会方便你的本地编辑。使用方法我会稍后补充，当然你也可以尝试自己研究下。
 
-!!! note "该文件编辑日志"、、
+!!! note "该文件编辑日志"
 
 	* 	Mar 27, 2020.
 		By [FlyingSky-CN](https://github.com/FlyingSky-CN)
