@@ -20,13 +20,13 @@
 
 ![img](https://mmbiz.qpic.cn/mmbiz_gif/U6yR
 
-![img](https://mmbiz.qpic.cn/mmbiz_gif/U6yRaDu1NaaaU49HA2sB5gZVYaK1ZMuz3zVjgQKFG1HCQdNonaC4U1zxVicSIs1OoCONr0ge2VGPRGDlgElu9qg/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+![img](https://cdn.jsdelivr.net/gh/paperclipcn/static/U6yRaDu1NaaaU49HA2sB5gZVYaK1ZMuz3zVjgQKFG1HCQdNonaC4U1zxVicSIs1OoCONr0ge2VGPRGDlgElu9qg.gif)
 
 数值越高，你对美女就越感兴趣。
 
 除了内容兴趣，这种算法思路可以在消费能力，消费兴趣，社交习惯等多个维度建立模型，计算你的偏好。
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/U6yRaDu1NaaaU49HA2sB5gZVYaK1ZMuz84a9UicPr3P3QmiaH5vtJfzZrfn37k1vc6wCPElbE0HWBTBOgfcbicnhA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![img](https://cdn.jsdelivr.net/gh/paperclipcn/static/U6yRaDu1NaaaU49HA2sB5gZVYaK1ZMuz84a9UicPr3P3QmiaH5vtJfzZrfn37k1vc6wCPElbE0HWBTBOgfcbicnhA.png)
 
 但行为数据只能计算偏好，无法判断你的性别、学历等个人属性。
 
@@ -48,7 +48,7 @@
 
 别太紧张，根据《个人信息安全规范》，商业广告平台的所有标签都应该避免精确定位到个人，以保护你的隐私安全 。
 
-![img](https://mmbiz.qpic.cn/mmbiz_gif/U6yRaDu1NaaaU49HA2sB5gZVYaK1ZMuzpjvd3xwgTMQQZXrJibbOt38Nd6OzAVys7mYd94L1TJTTtk2qK3Sj8xg/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+![img](https://cdn.jsdelivr.net/gh/paperclipcn/static/U6yRaDu1NaaaU49HA2sB5gZVYaK1ZMuzpjvd3xwgTMQQZXrJibbOt38Nd6OzAVys7mYd94L1TJTTtk2qK3Sj8xg.gif)
 
 !!! note "该文件编辑日志"
 

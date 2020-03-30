@@ -1,7 +1,7 @@
 # Vol.052 你的手机是怎么上网的？
 ![img](https://mmbiz.qpic.cn/mmbiz_png/U6yRaDu1
 
-![img](https://mmbiz.qpic.cn/mmbiz_gif/U6yRaDu1NaZzNKDx1EbkWKI51UIYJAr8dSEQKJRaJAKKWmzWcy3qxrL1TXhjWS4gJJ5Y0ibShsVCHFoVO4Hur5Q/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+![img](https://cdn.jsdelivr.net/gh/paperclipcn/static/U6yRaDu1NaZzNKDx1EbkWKI51UIYJAr8dSEQKJRaJAKKWmzWcy3qxrL1TXhjWS4gJJ5Y0ibShsVCHFoVO4Hur5Q.gif)
 
 ![img](https://mmbiz.qpic.cn/mmbiz_gif
 
@@ -39,7 +39,7 @@ GSM 的带宽只有 200 kHz，而 3G 通信标准 WCDMA则达到了 5 MHz，相�
 
 干涉指的是两列以上的波在空间上产生叠加形成新波的现象。
 
-![img](https://mmbiz.qpic.cn/mmbiz_gif/U6yRaDu1NaZzNKDx1EbkWKI51UIYJAr8icj3wTyuSQsIbM7Jf1mibOxRzdwQdA4pep0vZxtOiaX1tde7nMiatgiclXA/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_laz
+![img](https://cdn.jsdelivr.net/gh/paperclipcn/static/U6yRaDu1NaZzNKDx1EbkWKI51UIYJAr8icj3wTyuSQsIbM7Jf1mibOxRzdwQdA4pep0vZxtOiaX1tde7nMiatgiclXA.gif)
 
 ![img](https://mmbiz.qpic.cn/mmbiz_gif/U6yRaDu1NaZzNKDx1EbkWKI51UIYJAr8xNbx99WjdFm9Jd5B
 
