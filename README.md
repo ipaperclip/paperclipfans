@@ -2,6 +2,8 @@
 
 氦，这里是 回形针 PaperClip 内容收录仓库，你可以在这里找到往期节目的相关内容。
 
+# 使用
+
 ## 在线浏览
 
 目前，我们有以下站点供你在线浏览本仓库的内容。
@@ -27,3 +29,7 @@
 ```
 git clone https://github.com/ipaperclip/paperclipfans.git -b gh-pages
 ```
+
+# 贡献
+
+Redirect to <https://repo.paperclip.wiki/contribution/> .
