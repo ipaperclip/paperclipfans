@@ -8,12 +8,6 @@
 
 目前，我们有以下站点供你在线浏览本仓库的内容。
 
-### 主站
-
-<https://paperclip.wiki>
-
-如果你对该站点有任何疑问，可以直接发 issue 或联系 admin@paperclip.wiki 。
-
 ### GitHub Pages
 
 ![Publish docs via GitHub Pages](https://github.com/ipaperclip/paperclipfans/workflows/Publish%20docs%20via%20GitHub%20Pages/badge.svg)
@@ -32,4 +26,4 @@ git clone https://github.com/ipaperclip/paperclipfans.git -b gh-pages
 
 # 贡献
 
-Redirect to <https://repo.paperclip.wiki/contribution/> .
+Redirect to <https://paperclip.wiki/contribution/> .
