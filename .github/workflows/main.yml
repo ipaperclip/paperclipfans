@@ -30,4 +30,4 @@ jobs:
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CUSTOM_DOMAIN: repo.paperclip.wiki
+          CUSTOM_DOMAIN: paperclip.wiki
