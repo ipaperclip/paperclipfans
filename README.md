@@ -18,7 +18,7 @@
 
 ![Publish docs via GitHub Pages](https://github.com/ipaperclip/paperclipfans/workflows/Publish%20docs%20via%20GitHub%20Pages/badge.svg)
 
-<https://repo.paperclip.wiki>
+<https://paperclip.wiki>
 
 该站点由 GitHub Action 自动构建并部署在 GitHub Pages ，通常情况下，站点内容与仓库同步。如果你对该站点有任何疑问，可以直接发 issue 或联系 fly@paperclip.wiki 。
 
