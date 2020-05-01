@@ -1,0 +1,54 @@
+site_name: PaperClip Fans
+site_description: Hi~ 这里是回形针非官方的资料整理仓库. 
+
+# Repository
+repo_name: ipaperclip/paperclipfans
+repo_url: https://github.com/ipaperclip/paperclipfans
+edit_uri: https://paperclip.wiki/contribution/?file=
+
+# Copyright
+copyright: 
+
+# Configuration
+theme:
+  name: material
+  language: zh
+  palette:
+    primary: white
+    accent: blue
+  icon: 
+    logo: fontawesome/solid/paperclip
+    repo: fontawesome/brands/github
+  font:
+    text: Roboto
+    code: Roboto Mono
+  include_search_page: false
+  search_index_only: true
+  features:
+    - instant
+    - tabs
+
+extra:
+  social:
+    - icon: fontawesome/brands/telegram-plane
+      link: https://t.me/papercliphub
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/ipaperclip
+
+google_analytics:
+  - UA-154880396-4
+  - auto
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.toc:
+      permalink: true
+
+nav:
+  - Home: 
+    - 开始: index.md
+    - 贡献: contribution.md
+    - 声明: license.md

@@ -1,14 +1,11 @@
 
 rm -rf docs/
-
 mkdir docs
 
-cp mkdocs.example.yml mkdocs.yml
+cp Tools/mkdocs.example.yml mkdocs.yml
 
-php autonav
+php autobuild
 
-cp -r Sp/ docs/
-cp -r Vol/ docs/
 cp -r Start/* docs/
 
 mkdocs serve
