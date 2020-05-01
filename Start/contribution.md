@@ -1,16 +1,71 @@
 # 贡献
 
-我们十分欢迎你来与我们一起整理这个仓库。Fork 它，然后参考现在已有的内容进行修改，然后发 pull request （如果你不确定贡献是否符合格式，可以往 `format` 分支发，会有人来协助）。并且还请按格式填上`该文件编辑日志`，谢谢。
+我们十分欢迎你来与我们一起整理这个仓库。Fork 它，然后参考现在已有的内容进行修改，然后发 pull request （如果你不确定贡献是否符合格式，没关系，我们有 reviewer 协助核查）。如果有任何问题，可以发 issue 或者以其他联系方式联系我们。
+
+## 编辑格式
 
 `Vol.001` 或许是一个很好的格式范例。
 
-需要注意的是，请尽量不要更改文件结构或一枝独秀，防止自动构建程序出错。
+由于我们使用了程序进行自动构建站点并发布，所以在这里提出一些格式要求。
+
+### 目录结构
+
+目前我们的仓库目录结构是这样的：
+
+```
+paperclipfans
+ ├─ Sp/    # 特别节目
+ ├─ Start/ # 仓库相关
+ ├─ Tools/ # 自动化工具
+ ├─ Vol/   # 常规节目
+ └─ ...
+```
+
+还请不要修改目录结构并将文字稿的 Markdown 文件对应存放，对于内容还未被收录的节目（如 `回形针事务所`），如有需要，可以通过 issue 或其他方式联系我们创建新的目录。
+
+### 文件名
+
+文件名需要符合：
+
+```
+{{节目}}.{{期数}} {{标题}}.md
+```
+
+其中的 `.` 、`(空格)` 和 `.md` 是自动构建程序的定位符，用于分割内容。
+
+### 文件内容
+
+我们使用的是 Markdown 标记语言，文件内容需要遵从 Markdown 语法。顺便附上一份 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 。
+
+除了标准 Markdown 语法外，我们还用了一些 Extensions 来拓展格式。
+
+#### Admonition
+
+比如 [Vol.001](Vol.001.md) 中的： 
+
+!!! abstract ""
+
+	哔哩哔哩视频：[【回形针PaperClip】摄像头如何监控十三亿人？](https://www.bilibili.com/video/av16814286/)
+
+	哔哩哔哩专栏：[摄像头如何监控十三亿人](https://www.bilibili.com/read/cv391102/)
+
+	......
+
+就是用这个实现的，使用方法参见 [Admonition - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/extensions/admonition/) 。目前我们使用它来添加一些文字稿以外的文字内容。
+
+#### Footnotes
+
+引用到的文件、说明、补充、编辑者留言等，可以使用它，比如这样[^1]，使用方法参见 [Footnotes - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/extensions/footnotes/) 。
+
+[^1]:
+	[\[Contributor\] FlyingSky-CN](https://github.com/FlyingSky-CN)：就是这样。
+
+## 工具
 
 `Tools` 文件夹里有一些工具，可能会方便你的本地编辑。使用方法我会稍后补充，当然你也可以尝试自己研究下。
 
-!!! note "该文件编辑日志"
+## 贡献者
 
-	* 	Mar 27, 2020.
-		By [FlyingSky-CN](https://github.com/FlyingSky-CN)
-	
-			创建文件
+感谢各位为本仓库做出的贡献。
+
+<!-- 程序生成贡献者列表 -->

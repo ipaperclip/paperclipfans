@@ -41,11 +41,10 @@ google_analytics:
 
 # Extensions
 markdown_extensions:
-  - markdown.extensions.admonition
-  - markdown.extensions.codehilite:
+  - footnotes
+  - admonition
+  - codehilite:
       guess_lang: false
-  - markdown.extensions.toc:
-      permalink: true
 
 nav:
   - Home: 
