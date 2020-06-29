@@ -3,3 +3,5 @@ site
 mkdocs.yml
 img
 imglist
+vendor
+upload-*.json
