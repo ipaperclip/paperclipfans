@@ -47,6 +47,7 @@ $yml = file_get_contents('mkdocs.yml');
 
 addClass('Vol');
 addClass('Sp');
+addClass('Ad');
 
 file_put_contents('mkdocs.yml', $yml);
 
