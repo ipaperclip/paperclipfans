@@ -1,10 +1,10 @@
 # 贡献
 
-我们十分欢迎你来与我们一起整理这个仓库。Fork 它，然后参考现在已有的内容进行修改，然后发 pull request （如果你不确定贡献是否符合格式，没关系，我们有 reviewer 协助核查）。如果有任何问题，可以发 issue 或者以其他联系方式联系我们。
+我们十分欢迎你来与我们一起整理这个仓库。Fork 它，参考现在已有的内容进行修改，然后发起 pull request。如果你不确定贡献是否符合格式，没关系，我们有审稿人协助核查。如果有任何问题，可以开 issue 或者以其他联系方式联系我们。
 
 ## 编辑格式
 
-`Vol.001` 或许是一个很好的格式范例。
+[Vol.001](Vol.001.md) 或许是一个很好的格式范例。
 
 由于我们使用了程序进行自动构建站点并发布，所以在这里提出一些格式要求。
 
@@ -21,7 +21,7 @@ paperclipfans
  └─ ...
 ```
 
-还请不要修改目录结构并将文字稿的 Markdown 文件对应存放，对于内容还未被收录的节目（如 `回形针事务所`），如有需要，可以通过 issue 或其他方式联系我们创建新的目录。
+请将文字稿的 Markdown 文件存放在对应位置，不要修改目录结构。对于内容还未被收录的节目（如《回形针事务所》），如有需要，可以通过 issue 或其他方式联系我们创建新的目录。
 
 ### 文件名
 
@@ -35,9 +35,9 @@ paperclipfans
 
 ### 文件内容
 
-我们使用的是 Markdown 标记语言，文件内容需要遵从 Markdown 语法。顺便附上一份 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 。
+我们使用的是 Markdown 标记语言，文件内容需要遵从 Markdown 语法和 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 。
 
-除了标准 Markdown 语法外，我们还用了一些 Extensions 来拓展格式。
+除了标准 Markdown 语法外，我们还用了一些扩展语法来增强表现力：
 
 #### Admonition
 
@@ -55,7 +55,7 @@ paperclipfans
 
 #### Footnotes
 
-引用到的文件、说明、补充、编辑者留言等，可以使用它，比如这样[^1]，使用方法参见 [Footnotes - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/extensions/footnotes/) 。
+引用说明、补充、文件和编辑者留言等时，可以使用它，比如这样[^1] 。使用方法参见 [Footnotes - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/extensions/footnotes/) 。
 
 [^1]:
 	[\[Contributor\] FlyingSky-CN](https://github.com/FlyingSky-CN)：就是这样。
