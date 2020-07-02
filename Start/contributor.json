@@ -1,5 +1,15 @@
 [
     {
+        "github": "a77uu",
+        "avatar": "https://avatars0.githubusercontent.com/u/45524688?s=160",
+        "commit": true,
+        "email": "admin@paperclip.wiki",
+        "object": [
+            "📰 Editor",
+            "💡 Owner"
+        ]
+    },
+    {
         "github": "FlyingSky-CN",
         "avatar": "https://avatars0.githubusercontent.com/u/29764514?s=160",
         "commit": true,
@@ -8,6 +18,15 @@
             "📰 Editor",
             "💻 Developer",
             "🔍 Reviewer"
+        ]
+    },
+    {
+        "github": "lcandy2",
+        "avatar": "https://avatars0.githubusercontent.com/u/45784494?s=160",
+        "commit": true,
+        "email": "lcandy@paperclip.wiki",
+        "object": [
+            "📰 Editor"
         ]
     },
     {
@@ -20,10 +39,10 @@
         ]
     },
     {
-        "github": "lcandy2",
-        "avatar": "https://avatars0.githubusercontent.com/u/45784494?s=160",
+        "github": "voidge",
+        "avatar": "https://avatars1.githubusercontent.com/u/54477765?s=160",
         "commit": true,
-        "email": "lcandy@paperclip.wiki",
+        "email": false,
         "object": [
             "📰 Editor"
         ]
@@ -38,30 +57,12 @@
         ]
     },
     {
-        "github": "a77uu",
-        "avatar": "https://avatars0.githubusercontent.com/u/45524688?s=160",
-        "commit": true,
-        "email": false,
-        "object": [
-            "📰 Editor"
-        ]
-    },
-    {
         "github": "tnqzh123",
         "avatar": "https://avatars0.githubusercontent.com/u/16630630?s=160",
         "commit": false,
         "email": "tnqzh123@paperclip.wiki",
         "object": [
             "🔍 Reviewer"
-        ]
-    },
-    {
-        "github": "ipaperclip",
-        "avatar": "https://avatars0.githubusercontent.com/u/59405811?s=160",
-        "commit": false,
-        "email": "admin@paperclip.wiki",
-        "object": [
-            "📰 Editor"
         ]
     }
 ]
