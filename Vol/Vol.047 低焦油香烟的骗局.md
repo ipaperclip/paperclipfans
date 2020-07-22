@@ -81,6 +81,6 @@ MOTI 和 MOJO 可以帮你逐渐减少对尼古丁的依赖，尽快摆脱传统
 !!! note "该文件编辑日志"
 
 	* 	Mar 29, 2020.
-		By [parozhao](https://github.com/parozhao)
+		By [Zhao-Robert](https://github.com/Zhao-Robert)
 	
 			创建文件 & Markdown 格式化

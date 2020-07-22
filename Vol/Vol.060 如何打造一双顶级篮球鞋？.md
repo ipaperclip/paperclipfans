@@ -127,6 +127,6 @@ KD12 一举移除了中底布，直接使用全掌的 Zoom Air 和鞋面材料�
 !!! note "该文件编辑日志"
 
 	* 	Mar 29, 2020.
-		By [parozhao](https://github.com/parozhao)
+		By [Zhao-Robert](https://github.com/Zhao-Robert)
 	
 			创建文件 & Markdown 格式化
