@@ -97,6 +97,6 @@ Cell 阶段的目的是在玻璃基板与彩色滤光板之间注入液晶。
 !!! note "该文件编辑日志"
 
 	* 	Mar 29, 2020.
-		By [parozhao](https://github.com/parozhao)
+		By [Zhao-Robert](https://github.com/Zhao-Robert)
 	
 			创建文件 & Markdown 格式化

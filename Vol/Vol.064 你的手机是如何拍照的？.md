@@ -121,6 +121,6 @@ Reno 的传感器还使用了像素聚合技术，通过改变滤色片的排列
 !!! note "该文件编辑日志"
 
 	* 	Mar 29, 2020.
-		By [parozhao](https://github.com/parozhao)
+		By [Zhao-Robert](https://github.com/Zhao-Robert)
 	
 			创建文件 & Markdown 格式化

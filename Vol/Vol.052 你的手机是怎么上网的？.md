@@ -62,6 +62,6 @@ OPPO 还与4 家全球领先的运营商达成合作，有望在 2019 年成为�
 !!! note "该文件编辑日志"
 
 	* 	Mar 29, 2020.
-		By [parozhao](https://github.com/parozhao)
+		By [Zhao-Robert](https://github.com/Zhao-Robert)
 	
 			创建文件 & Markdown 格式化
