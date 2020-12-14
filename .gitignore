@@ -5,3 +5,4 @@ img
 imglist
 vendor
 upload-*.json
+.DS_Store
