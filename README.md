@@ -14,7 +14,7 @@
 
 <https://just-prog.github.io/paperclipfans>
 
-该站点由 GitHub Actions 自动构建并部署在 GitHub Pages。通常情况下，站点内容与仓库同步。如果你对该站点有任何疑问，可以直接发 issue ~~ 或联系 fly@paperclip.wiki 。~~
+该站点由 GitHub Actions 自动构建并部署在 GitHub Pages。通常情况下，站点内容与仓库同步。如果你对该站点有任何疑问，可以直接发 issue ~~或联系 fly@paperclip.wiki~~ 。
 
 ### 离线浏览
 
@@ -23,7 +23,3 @@
 ```
 git clone https://github.com/just-prog/paperclipfans.git -b gh-pages
 ```
-
-## 贡献
-
-若要为原项目提供内容贡献，请前往 [这里](https://paperclip.wiki/contribution/) 。
