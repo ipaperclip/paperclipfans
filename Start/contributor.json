@@ -69,7 +69,7 @@
         "github": "Just-Prog",
         "avatar": "https://avatars0.githubusercontent.com/u/62735122?s=160",
         "commit": false,
-        "forkcommit": false,
+        "forkcommit": true,
         "email": false,
         "object": [
             "📰 Editor"
