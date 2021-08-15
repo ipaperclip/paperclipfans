@@ -37,7 +37,7 @@ function listContributor() {
     foreach ($contributors as $contributor) {
         $contributor['link'] = [];
         if ($contributor['commit']) $contributor['link'][] = '📦 <a href="https://github.com/ipaperclip/paperclipfans/commits?author='.$contributor['github'].'">Commits</a>';
-        if ($contributor['forkcommit']) $contributor['link'][] = '📦 <a href="https://github.com/just-prog/paperclipfans/commits?author='.$contributor['github'].'">Commits</a>';
+        if ($contributor['forkcommit']) $contributor['link'][] = '📦 <a href="https://github.com/just-prog/paperclipfans/commits?author='.$contributor['github'].'">Fork Commits</a>';
         if ($contributor['email']) $contributor['link'][] = '📧 <a href="mailto:'.$contributor['email'].'">Email</a>';
         $out .= '<div class="mdui-col mdui-p-a-1"><div class="mdui-card"><div class="mdui-card-header"><img class="mdui-card-header-avatar" src="'.$contributor['avatar'].'"/><div class="mdui-card-header-title"><a href="https://github.com/'.$contributor['github'].'">'.$contributor['github'].'</a></div><div class="mdui-card-header-subtitle">Contributor</div></div><div class="mdui-card-content">'.implode(' / ', $contributor['object']).'<br/>'.implode(' / ', $contributor['link']).'</div></div></div>';
     }
