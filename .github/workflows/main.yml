@@ -1,4 +1,4 @@
-name: Publish docs via GitHub Pages
+name: 自动生成 GitHub Pages
 on:
   push:
     branches: [ master ]
@@ -8,21 +8,21 @@ jobs:
     name: Deploy docs
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout master
+      - name: 查验
         uses: actions/checkout@v2
       
-      - name: Pretreatment
+      - name: 预处理
         run: |
           mkdir docs
           cp Tools/mkdocs.example.yml mkdocs.yml
           cp Start/* docs/
           php autobuild
           
-      - name: Throw mkdocs.yml (debugger)
+      - name: 打印 mkdocs 配置文件 （调试用）
         run: cat mkdocs.yml
       
-      - name: Deploy docs
+      - name: 部署
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CUSTOM_DOMAIN: paperclip.wiki
+          BRANCH: gh-pages
