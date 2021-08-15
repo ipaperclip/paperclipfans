@@ -2,9 +2,9 @@ site_name: PaperClip Fans
 site_description: Hi~ 这里是回形针非官方的资料整理仓库. 
 
 # Repository
-repo_name: ipaperclip/paperclipfans
-repo_url: https://github.com/ipaperclip/paperclipfans
-edit_uri: https://paperclip.wiki/contribution/?file=
+repo_name: Just-Prog/paperclipfans
+repo_url: https://github.com/Just-Prog/paperclipfans
+edit_uri: https://just-prog.github.io/paperclipfans/contribution/?file=
 
 # Copyright
 copyright: 
