@@ -33,6 +33,8 @@ paperclipfans
 
 其中的 `.` 、`(空格)` 和 `.md` 是自动构建程序的定位符，用于分割内容。
 
+请注意不要在文件名中使用如 `:` 等符号，会导致部署失败。 
+
 ### 文件内容
 
 我们使用的是 Markdown 标记语言，文件内容需要遵从 Markdown 语法和 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 。
@@ -46,9 +48,9 @@ paperclipfans
 !!! abstract ""
 
 	哔哩哔哩视频：[【回形针PaperClip】摄像头如何监控十三亿人？](https://www.bilibili.com/video/av16814286/)
-
+	
 	哔哩哔哩专栏：[摄像头如何监控十三亿人](https://www.bilibili.com/read/cv391102/)
-
+	
 	......
 
 就是用这个实现的，使用方法参见 [Admonition - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/extensions/admonition/) 。目前我们使用它来添加一些文字稿以外的文字内容。
