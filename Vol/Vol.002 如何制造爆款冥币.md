@@ -80,12 +80,15 @@
 !!! note "该文件编辑日志"
     *   JAN 1, 2020.
         By [ipaperclip](https://github.com/ipaperclip)
+        
             文件创建
 
     *   MAR 27, 2020.
         By [FlyingSky-CN](https://github.com/FlyingSky-CN)
+
             目录修改
 
     *	SEP 19, 2021.
 		By [Just-Prog](https://github.com/Just-Prog)
+        
 			视频存档链接修复

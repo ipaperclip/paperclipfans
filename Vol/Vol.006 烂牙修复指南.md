@@ -91,12 +91,15 @@ DSD 方案听上去并不太难，但在实际操作中，摄影位置，图像�
 !!! note "该文件编辑日志"
 	*	JAN 1, 2020.
 		By [ipaperclip](https://github.com/ipaperclip)
+		
 			创建文件
 
     *   MAR 27, 2020.
         By [FlyingSky-CN](https://github.com/FlyingSky-CN)
+
             目录修改
 
     *	SEP 19, 2021.
 		By [Just-Prog](https://github.com/Just-Prog)
+		
 			视频存档链接添加
