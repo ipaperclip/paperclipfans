@@ -60,7 +60,7 @@
 
 说回来，我参与回形针变少，是因为我一直扑在去年年底就预告的交视频项目上。
 
-![动画](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112246729.gif)
+![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109120923125.gif)
 
 对，就是这个。这个项目本来计划在今年春天发售，但我还是太乐观了。
 
