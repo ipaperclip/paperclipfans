@@ -3,6 +3,12 @@
 
 # Vol.004 为什么中国人总是在安检
 
+!!! abstract ""
+
+	Youtube：[Vol.004 为什么中国人总是在安检 | 回形针](https://www.youtube.com/watch?v=sUlvS0lJhcc)
+
+	`流浪回形针` 存档：[Vol.004 为什么中国人总是在安检 | 回形针](https://ipaperclip.justprogsan.workers.dev/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E5%B8%B8%E8%A7%84Vol/Vol.004%20%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%80%BB%E6%98%AF%E5%9C%A8%E5%AE%89%E6%A3%80%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4?preview)
+
 走进地铁，首先你需要把行李放在一条传送带上，然后穿过一个塑料门，最后安检人员会对你挥舞一根黑色的棒子。
 
 ![20200101195013.gif](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101195013.gif)
@@ -70,3 +76,17 @@ X光检查仪传送带的标准速度是 0.22 米/秒，一次标准安检大概
 实际上，不仅是中国人需要被各种安检，中国的鸽子也要被安检。每逢节日庆典，在天安门广场放飞的一万只和平鸽，都要被信鸽协会逐一检查肛门，才能送达天安门。
 
 ![20200101200144.gif](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101200144.gif)
+
+!!! note "该文件编辑日志"
+	*	JAN 1, 2020.
+		By [ipaperclip](https://github.com/ipaperclip)
+
+			创建文件
+
+    *   MAR 27, 2020.
+        By [FlyingSky-CN](https://github.com/FlyingSky-CN)
+            目录修改
+
+    *	SEP 19, 2021.
+		By [Just-Prog](https://github.com/Just-Prog)
+			视频存档链接修复
