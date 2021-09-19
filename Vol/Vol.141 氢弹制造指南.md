@@ -1,3 +1,5 @@
+# Vol.141 氢弹制造指南
+
 哪个男孩不想在造完一颗原子弹后，再造一颗氢弹呢？
 
  ![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282239934.jpeg)
