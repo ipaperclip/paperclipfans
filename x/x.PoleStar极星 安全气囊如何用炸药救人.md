@@ -1,3 +1,5 @@
+# PaperClip x Polestar 极星 - 安全气囊如何用炸药救人？
+
 ![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151005138.png)
 
 这是即将撞墙的车，你的头因惯性将狠狠拍在方向盘上。不过还好有安全气囊可以护你要害。

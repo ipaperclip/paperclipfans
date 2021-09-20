@@ -2,6 +2,8 @@
 
 ![cover.gif](https://cdn.jsdelivr.net/gh/XxLittleCxX/paperclip-static/007/cover.gif)
 
+
+
 处死一个犯人有哪些方法？ 
 
 从借助自然之力的火刑、石刑，到使用简单器具的十字架刑、绞刑，再到要求复杂机械的断头台、枪决，死刑的每一次进化都体现了人类社会的科技发展。

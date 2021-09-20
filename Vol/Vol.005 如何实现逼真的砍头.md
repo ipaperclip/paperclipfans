@@ -4,9 +4,11 @@
 # Vol.005 如何实现逼真的砍头
 
 !!! abstract ""
-    Youtube：[Vol.005 如何实现逼真的砍头 | 回形针](https://www.youtube.com/watch?v=rVu3R9N8GJU)
+
+​    Youtube：[Vol.005 如何实现逼真的砍头 | 回形针](https://www.youtube.com/watch?v=rVu3R9N8GJU)
 
 	`流浪回形针` 存档：[Vol.005 如何实现逼真的砍头 | 回形针](https://ipaperclip.justprogsan.workers.dev/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E5%B8%B8%E8%A7%84Vol/Vol.005%20%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E9%80%BC%E7%9C%9F%E7%9A%84%E7%A0%8D%E5%A4%B4%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4?preview)
+
 
 ![20200101201516.jpeg](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101201516.jpeg)
 
@@ -37,7 +39,7 @@
 <pre><code>
 
 ![20200101201922.gif](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101201922.gif)
- 
+
 </code></pre>
 </details>
 
@@ -88,13 +90,13 @@
 		By [ipaperclip](https://github.com/ipaperclip)
 
 			创建文件
-
-    *   MAR 27, 2020.
-        By [FlyingSky-CN](https://github.com/FlyingSky-CN)
-
-            目录修改
-
-    *	SEP 19, 2021.
+	
+	*   MAR 27, 2020.
+	    By [FlyingSky-CN](https://github.com/FlyingSky-CN)
+	
+	        目录修改
+	
+	*	SEP 19, 2021.
 		By [Just-Prog](https://github.com/Just-Prog)
 		
 			视频存档链接修复

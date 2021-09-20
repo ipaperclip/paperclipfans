@@ -78,6 +78,7 @@ X光检查仪传送带的标准速度是 0.22 米/秒，一次标准安检大概
 ![20200101200144.gif](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101200144.gif)
 
 !!! note "该文件编辑日志"
+
 	*	JAN 1, 2020.
 		By [ipaperclip](https://github.com/ipaperclip)
 

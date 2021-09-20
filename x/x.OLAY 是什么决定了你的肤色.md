@@ -1,3 +1,5 @@
+# PaperClip × OLAY 是什么决定了你的肤色？
+
 这是一张色谱图，从黑到棕到黄到白，基本涵盖了地球所有人的肤色。无论你来自哪里，都跳不出这个范围。
 
 ![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282217134.jpeg)
