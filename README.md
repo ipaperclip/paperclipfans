@@ -23,3 +23,7 @@
 ```
 git clone https://github.com/just-prog/paperclipfans.git -b gh-pages
 ```
+
+## 贡献
+
+请前往 [原项目贡献地址](https://paperclip.wiki/contribution/)  或 [提起 Pull Request](https://github.com/Just-Prog/paperclipfans/pulls)。
