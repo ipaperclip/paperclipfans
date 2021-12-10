@@ -1,6 +1,6 @@
 # Vol.045 今天的汽车和百年前有什么区别？
 
-这是世界上第一辆汽车，由奔驰于 1886 年发明。   
+这是世界上第一辆汽车，由奔驰于 1886 年发明。
 
 ![img](https://paperclip.host/static/U6yRaDu1Naa5WIfy4EEFia4I8Ta89wib2D6ZgA1icGumHzmaJvAwzKiaJ1JvpfPkZ9MrwdbTYtPS41l48QO1TpgELg.png)
 

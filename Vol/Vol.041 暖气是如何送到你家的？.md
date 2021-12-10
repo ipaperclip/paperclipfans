@@ -18,11 +18,11 @@
 
 这是一个典型的燃气-蒸汽联合循环机组，燃气轮机带动发电机发电时，会产生 500 ℃ 左右的高温烟气。
 
-高温烟气进入余热锅炉中把换热管里的冷水加热成 300~400℃ 的高温蒸汽驱动蒸汽轮机发电。
+高温烟气进入余热锅炉中把换热管里的冷水加热成 300&#126;400℃ 的高温蒸汽驱动蒸汽轮机发电。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZITcViaF6cXZfTvC2liciabXT58cgcmkorGSRlXlER7IXryKpaeblknZibkF62oopicx6fHuR66Xt3HgA.gif)
 
-其中部分蒸汽会在汽水换热器里把冷水加热至 110~150℃ 用于供暖。
+其中部分蒸汽会在汽水换热器里把冷水加热至 110&#126;150℃ 用于供暖。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZITcViaF6cXZfTvC2liciabXTJ3T3t67jZticl6WNh7ibgLDFAo2gtdFOX5HDiabOw6ib34DIOaDqNicrNibw.png)
 

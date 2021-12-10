@@ -1,9 +1,10 @@
 # Vol.052 你的手机是怎么上网的？
-![img](https://mmbiz.qpic.cn/mmbiz_png/U6yRaDu1
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/U6yRaDu1)
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZzNKDx1EbkWKI51UIYJAr8dSEQKJRaJAKKWmzWcy3qxrL1TXhjWS4gJJ5Y0ibShsVCHFoVO4Hur5Q.gif)
 
-![img](https://mmbiz.qpic.cn/mmbiz_gif
+![img](https://mmbiz.qpic.cn/mmbiz_gif)
 
 而你的手机使用的通信标准，就直接影响你的上网体验。
 
@@ -41,7 +42,7 @@ GSM 的带宽只有 200 kHz，而 3G 通信标准 WCDMA则达到了 5 MHz，相�
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZzNKDx1EbkWKI51UIYJAr8icj3wTyuSQsIbM7Jf1mibOxRzdwQdA4pep0vZxtOiaX1tde7nMiatgiclXA.gif)
 
-![img](https://mmbiz.qpic.cn/mmbiz_gif/U6yRaDu1NaZzNKDx1EbkWKI51UIYJAr8xNbx99WjdFm9Jd5B
+![img](https://mmbiz.qpic.cn/mmbiz_gif/U6yRaDu1NaZzNKDx1EbkWKI51UIYJAr8xNbx99WjdFm9Jd5B)
 
 单天线系统发射的电磁波会因为建筑物反射等原因，引起干涉进而导致信号衰落，这就需要交织编码来改善衰落导致的信号差错。这一过程会产生至少 33ms 的延迟。
 

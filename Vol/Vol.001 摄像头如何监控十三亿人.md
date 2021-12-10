@@ -52,7 +52,7 @@
 
 视频的存储和处理则相对简单，普通硬盘接入硬盘录像机就可以实现。
 
-一台分辨率为 720*576，变化运动率为 70% 的摄像设备其每秒产生的数据约为 0.25M，一天将产生 21G 数据。
+一台分辨率为 720\*576，变化运动率为 70% 的摄像设备其每秒产生的数据约为 0.25M，一天将产生 21G 数据。
 
 要实现视频储存时间不低于 15 天，一台摄像头需要配置 316G 以上的空间。尽管数据量不小，但对于每路设备动辄 4、5 万的预算来说，储存数据的成本并不高，3000块 1T 硬盘，就足以满足一万台摄像设备。
 
@@ -71,13 +71,13 @@
 也许在不久的未来，摄像头将直接喊出你的名字。
 
 [^1]:
-  	[惠州市社会治安视频监控系统建设三年规划.pdf](https://ipaperclip.justprogsan.workers.dev/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E5%B8%B8%E8%A7%84Vol/%E7%94%A8%E5%88%B0%E7%9A%84%E6%96%87%E4%BB%B6/Vol.001%20%E6%91%84%E5%83%8F%E5%A4%B4/%E6%83%A0%E5%B7%9E%E5%B8%82%E7%A4%BE%E4%BC%9A%E6%B2%BB%E5%AE%89%E8%A7%86%E9%A2%91%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E5%BB%BA%E8%AE%BE%E4%B8%89%E5%B9%B4%E8%A7%84%E5%88%92.pdf)
+	[惠州市社会治安视频监控系统建设三年规划.pdf](https://ipaperclip.justprogsan.workers.dev/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E5%B8%B8%E8%A7%84Vol/%E7%94%A8%E5%88%B0%E7%9A%84%E6%96%87%E4%BB%B6/Vol.001%20%E6%91%84%E5%83%8F%E5%A4%B4/%E6%83%A0%E5%B7%9E%E5%B8%82%E7%A4%BE%E4%BC%9A%E6%B2%BB%E5%AE%89%E8%A7%86%E9%A2%91%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E5%BB%BA%E8%AE%BE%E4%B8%89%E5%B9%B4%E8%A7%84%E5%88%92.pdf)
 	
 [^2]:
-  	[青岛市北区平安城市监控系统建设方案（最终方案）.pdf](https://ipaperclip.justprogsan.workers.dev/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E5%B8%B8%E8%A7%84Vol/%E7%94%A8%E5%88%B0%E7%9A%84%E6%96%87%E4%BB%B6/Vol.001%20%E6%91%84%E5%83%8F%E5%A4%B4/%E9%9D%92%E5%B2%9B%E5%B8%82%E5%8C%97%E5%8C%BA%E5%B9%B3%E5%AE%89%E5%9F%8E%E5%B8%82%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E5%BB%BA%E8%AE%BE%E6%96%B9%E6%A1%88_%E6%9C%80%E7%BB%88%E6%96%B9%E6%A1%88_.pdf?preview)
+	[青岛市北区平安城市监控系统建设方案（最终方案）.pdf](https://ipaperclip.justprogsan.workers.dev/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E5%B8%B8%E8%A7%84Vol/%E7%94%A8%E5%88%B0%E7%9A%84%E6%96%87%E4%BB%B6/Vol.001%20%E6%91%84%E5%83%8F%E5%A4%B4/%E9%9D%92%E5%B2%9B%E5%B8%82%E5%8C%97%E5%8C%BA%E5%B9%B3%E5%AE%89%E5%9F%8E%E5%B8%82%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E5%BB%BA%E8%AE%BE%E6%96%B9%E6%A1%88_%E6%9C%80%E7%BB%88%E6%96%B9%E6%A1%88_.pdf?preview)
 	
 [^3]:
-  	[湖北省社会治安视频监控系统共享平台建设指导意见.pdf](https://ipaperclip.justprogsan.workers.dev/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E5%B8%B8%E8%A7%84Vol/%E7%94%A8%E5%88%B0%E7%9A%84%E6%96%87%E4%BB%B6/Vol.001%20%E6%91%84%E5%83%8F%E5%A4%B4/%E6%B9%96%E5%8C%97%E7%9C%81%E7%A4%BE%E4%BC%9A%E6%B2%BB%E5%AE%89%E8%A7%86%E9%A2%91%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E5%85%B1%E4%BA%AB%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E6%8C%87%E5%AF%BC%E6%84%8F%E8%A7%81.pdf)
+	[湖北省社会治安视频监控系统共享平台建设指导意见.pdf](https://ipaperclip.justprogsan.workers.dev/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E5%B8%B8%E8%A7%84Vol/%E7%94%A8%E5%88%B0%E7%9A%84%E6%96%87%E4%BB%B6/Vol.001%20%E6%91%84%E5%83%8F%E5%A4%B4/%E6%B9%96%E5%8C%97%E7%9C%81%E7%A4%BE%E4%BC%9A%E6%B2%BB%E5%AE%89%E8%A7%86%E9%A2%91%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E5%85%B1%E4%BA%AB%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E6%8C%87%E5%AF%BC%E6%84%8F%E8%A7%81.pdf)
 	
 [^4]:
 	文件来自 <https://shimo.im/docs/4xhDnnJJJYQpMKNI> ，由 <https://ipaperclip.justprogsan.workers.dev> 存放。
@@ -106,5 +106,5 @@
 	
 	*	SEP 19, 2021.
 		By [Just-Prog](https://github.com/Just-Prog)
-		
+
 			资料、视频链接修复

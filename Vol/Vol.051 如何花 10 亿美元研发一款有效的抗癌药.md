@@ -28,7 +28,7 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZyziaHRnURfum9mCvc26TFWwlpCHXdrd5L8OK7yzFzxZOBibq9eZdxhkQKGMYzk0gIWb1v9ELADr9Q.gif)
 
-而对应的靶向药格列卫，其有效成分甲磺酸伊马替尼，就是以这种酪氨酸激酶为主要靶点，通过与其结合抑制细胞增殖，从而治疗慢性粒细胞白血病。   
+而对应的靶向药格列卫，其有效成分甲磺酸伊马替尼，就是以这种酪氨酸激酶为主要靶点，通过与其结合抑制细胞增殖，从而治疗慢性粒细胞白血病。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZyziaHRnURfum9mCvc26TFWazv8W1boWaI9JHNYooIuYDb9uZOwRFbZa487JfA1hll543ibOd4zjRA.gif)
 
@@ -52,7 +52,7 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZyziaHRnURfum9mCvc26TFWWqpGGg5JeRqTquN3pCzsmeiaeekNfcl6iaZKnXJRCxKLxTvALuYPaBaw.gif)
 
-格列卫在开发初期，花了 3 年才选出先导化合物 2-苯氨基嘧啶。   
+格列卫在开发初期，花了 3 年才选出先导化合物 2-苯氨基嘧啶。
 
 借助已有的化合物数据库，先导化合物需要再经修饰强化效果，比如往 2-苯氨基嘧啶上的 3 号位添加吡啶基团能增强在细胞内的活性，往侧链添加 N-甲基哌嗪增强溶解度使其适合口服。
 
@@ -70,7 +70,7 @@
 
 为了征集病人，药企会和多家医院合作，而在中国还有很多个人中介。
 
-根据我们联系到的一位中介，一期试药的病人可获得 5000~8000 元补贴。中介则会获得几百到上千的抽成。在利益驱动下，甚至有临床数据涉嫌造假。
+根据我们联系到的一位中介，一期试药的病人可获得 5000&#126;8000 元补贴。中介则会获得几百到上千的抽成。在利益驱动下，甚至有临床数据涉嫌造假。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZyziaHRnURfum9mCvc26TFWhwPHGiculcelm16xEE2bKdXoX18tsfPk1Ku2pYdbU2IbBDUMOhKCcZg.gif)
 
@@ -78,7 +78,7 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZyziaHRnURfum9mCvc26TFWP6nmLDGVEfVJWRM8DzyiaREQLavaYiaWHk3Waa3ppw42RO56EoeXzG7A.gif)
 
-《美国医学会杂志》研究了 2006~2015 年上市的 10 款抗癌药，研发耗时中位数 7.3 年，成本中位数 6.48 亿美元。
+《美国医学会杂志》研究了 2006&#126;2015 年上市的 10 款抗癌药，研发耗时中位数 7.3 年，成本中位数 6.48 亿美元。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZyziaHRnURfum9mCvc26TFWhehTLvVodd1JhdOF5hvSP2AP5urpkOIPMePicwYsNsDydCWMX3RQBvA.gif)
 

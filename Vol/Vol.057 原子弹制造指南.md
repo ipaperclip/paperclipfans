@@ -10,7 +10,7 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NaYPETr8gxdG0fSteB1sYIat91Ao5A7uGA0tqAxOKguhh8J1UKfPyeDQdF4VyVY8yuvSEPjSHfqnHg.gif)
 
-当一个中子快速轰击铀-235 的原子核时，会分裂出另外两个元素——钡和氪，并释放 2-3 个中子，以及约 200 兆电子伏的能量。   
+当一个中子快速轰击铀-235 的原子核时，会分裂出另外两个元素——钡和氪，并释放 2-3 个中子，以及约 200 兆电子伏的能量。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaYPETr8gxdG0fSteB1sYIat52IHKIbrP11H2DQmQFAYDEMVEDWY4hgM3QoJnQEJh7iaOOedpVXvVxg.gif)
 
@@ -50,7 +50,7 @@
 
 有了这些理论知识，就可以开造了。
 
-这两张解密图纸，是 1945 年，美国在日本投放的两颗原子弹：小男孩和胖子，分别代表了两种典型的原子弹结构。   
+这两张解密图纸，是 1945 年，美国在日本投放的两颗原子弹：小男孩和胖子，分别代表了两种典型的原子弹结构。
 
 其中，小男孩属于枪式，内部主要有这些部件，像一个枪膛。
 

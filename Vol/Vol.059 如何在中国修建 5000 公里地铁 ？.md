@@ -82,8 +82,6 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NaalSFKSctGKyLPe87Ecfb8Iz56rOX5sdrF88UOBgljFXzNMsZI7cf14qggTJG9u5m2IiaM2OWE75AQ.gif)
 
-  
-
 除了隧道，每条地铁线路还都需要建设停车场，称为车辆段。通过车辆段与铁路相连，用铁路把列车运进地铁。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaalSFKSctGKyLPe87Ecfb8IzDayF8Ly75rvcwLr4gW0xkiajyZ2xOviaNqTrWYCyMKa6a3n2NS9gdGQ.png)

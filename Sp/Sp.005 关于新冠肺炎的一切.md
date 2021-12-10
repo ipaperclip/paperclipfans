@@ -1,12 +1,10 @@
-# SP.005 关于新冠肺炎的一切
+# Sp.005 关于新冠肺炎的一切
 
-::: tip
+!!! abstract ""
 
 	哔哩哔哩视频：[【回形针PaperClip】关于新冠肺炎的一切](https://www.bilibili.com/video/av86216616/)
 	
 	`Wandering PaperClip` 存档：[Sp.005 关于新冠肺炎的一切 | 回形针](https://ipaperclip.justprogsan.workers.dev/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E7%89%B9%E6%AE%8ASp/Sp.005%20%E5%85%B3%E4%BA%8E%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%9A%84%E4%B8%80%E5%88%87%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4?preview)
-
-:::
 
 嗨，我是回形针的制作人吴松磊。
 
