@@ -1,127 +1,127 @@
 # 回形针事务所 001 - 运动鞋和非牛顿流体的秘密
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/1.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/1.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/1.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/1.gif)
 
 2019 年 4 月 17 日，我们收到了一封来自匹克的邮件。
 
 在邮件中，这家老牌中国运动品牌向我们介绍了他们 18 年年末发布的全新跑鞋，态极 1.0。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/2.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/2.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/2.gif)
 
 在这支宣传片中，这双鞋在走路时像是踩在海绵球上，跑步时又像是在弹力球上。
 
 根据匹克的描述，这种让鞋底硬度动态变化的神奇效果来自他们独家研发的高分子材料——P4U 。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/3.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/3.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/3.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/3.gif)
 
 这种「不可能」「颠覆式」「自适应」的「智能高分子材料」听起来非常可疑，但在和匹克的进一步接触中，我们找到了答案。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/4.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/4.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/4.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/4.gif)
 
 作为今天运动鞋最核心的结构，中底对两个重要性能负责——减震和回弹。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/5.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/5.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/5.gif)
 
 表现在参数上，就是你的脚在着地受到冲击时，鞋跟处加速度更低，在起跳时，离地加速度更高。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/6.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/6.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/6.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/6.gif)
 
 匹克提供的数据中，态极 1.0 的表现还不错。
 
 这是一份由北京体育大学运动生物力学教研室完成的测试报告。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/7.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/7.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/7.gif)
 
 两名被试需要穿戴惯性传感器，在跑步机和三维测力台上完成走、跑、跳等一系列动作，对比包括态极 1.0 在内的 6 双跑鞋性能。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/8.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/8.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/8.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/8.gif)
 
 可以看到，在以每秒 2.5m 或 3m 的速度跑动时，态极 1.0 的左右脚着地鞋跟加速度要明显低于其他跑鞋。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/9.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/9.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/9.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/9.gif)
 
 奇怪的是回弹数据，从 40 cm 处跳下再起跳时态极 1.0 的离地加速度和其他鞋差不多，但从 75cm 处深跳时，离地加速度却下降到只有其他跑鞋的一半。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/10.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/10.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/10.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/10.gif)
 
 铅球测试进一步证实了 P4U 的奇怪特性。
 
 图中横坐标是铅球的下落次数，纵坐标是垂直方向上的地面反作用力。让4kg 和 5kg 的铅球分 从 30cm，50cm，70cm，100cm 处下落到 EVA 和 P4U 材质上，我们可以得到 4 张这样的曲线图。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/11.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/11.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/11.gif)
 
 可以发现， 在 P4U 材料上， 30cm50cm 高度落下的铅球回弹力很弱，只有 2000N 左右，低于 EVA 材料。
 
 但面对 100cm 处落下的铅球时，P4U 的回弹力能提升到 8000N，远高于 EVA。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/12.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/12.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/12.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/12.gif)
 
 测试报告印证了匹克在邮件中提到的特性，但这是如何做到的？
 
 答案是非牛顿流体。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/13.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/13.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/13.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/13.gif)
 
 今天的网上流传着很多这种视频，把玉米淀粉和水按 5:3 的比例混合，就能得到一种吃软不吃硬的神奇物质，可以同时呈现固体和流体两种性质。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/14.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/14.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/14.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/14.gif)
 
 要理解非牛顿流体，我们需要知道什么是粘度。
 
 你可以把粘度理解为流体抵抗形变的能力，粘度越高，流的越慢。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/15.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/15.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/15.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/15.gif)
 
 水和油是标准的牛顿流体，外力无法改变粘度，而可以通过外力改变粘度的，就是非牛顿流体，比如你的鼻涕。
 
 当你用力时，鼻涕的粘度降低，流的越快。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/16.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/16.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/16.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/16.gif)
 
 除了鼻涕，还有蜂蜜、牙膏、番茄酱，他们都是这种受力时粘度降低流的更快的物质，被称为剪切稀化流体。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/17.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/17.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/17.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/17.gif)
 
 非牛顿流体里，除了剪切稀化流体，还有像玉米淀粉混合液一样的剪切增稠流体。受力时，粘度变高，更难发生形变，出现接近固体的性状，和 P4U 展现出的特性非常相似。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/18.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/18.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/18.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/18.gif)
 
 这张图可以进一步说明原理。
 
 受力时，剪切稀化流体聚合物间的氢键或其它二级结构会被破坏，让流体更容易发生形变，而对于剪切增稠流体，冲击会导致聚合物链纠缠在一起，提升粘度。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/19.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/19.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/19.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/19.gif)
 
 P4U 的专利文件《改性聚硅氧烷/双组份发泡硅胶复合材料的制备方法》，也证实了这一点。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/20.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/20.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/20.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/20.gif)
 
 但非牛顿流体这个方向其实是错的。
 
 > 李峰：这就是我们合成出的 P4U ，这是固体，不是流体，完全没有流动性。所以也就不存在剪切增稠这种特性，也不能被定义为非牛顿流体。实际上，固体材料一样也能有应变率敏感这种特性。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/21.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/21.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/21.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/21.gif)
 
 李峰教授是 P4U 的专利发明人，和他沟通后，我们放弃了剪切增稠理论，开始研究弹性固体的剪切硬化。
 
 P4U 和其参考的国外版本 D3O 一样，本质是硼酸改性二甲基硅油，简称 PBDMS，由质量比为 8:100-16:100 的硼酸和二甲基硅油，在 250-300℃ 下搅拌 72h 制造而成。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/22.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/22.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/22.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/22.gif)
 
 这就是 PBDMS 的分子结构，缺电子的硼原子会从相邻分子中带电子对的氧原子上获得电子，这样， PBDMS 分子之间就形成了决定 P4U 性质的关键结构—— B-O 交联键。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/23.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/23.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/23.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/23.gif)
 
 根据这两份论文，B-O 交联键在室温条件下会吸收热能活化断裂，所以在受力时会让材料拥有像橡皮泥一样的形变特性。
 
 而遇到高速冲击或高频震动时，因为作用时间比交联键热化断裂的时间更短，反而能让分子形成网状结构，展现出减震，高回弹等特性。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/24.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/24.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/24.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/24.gif)
 
 值得一提的是，相比同类材料 D3O ，P4U 解决了和 EVA 共混发泡的难题，让这种材料首次出现在了运动鞋的中底。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/25.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/25.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/25.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/25.gif)
 
 而态极 1.0 的更新版 1.0  PLUS ，也用了优化配方后的 P4U ，进一步提升了态极系列的中底灵敏度和回弹能力，为你的每一次跑动提供动力。
 
-![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/26.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/26.gif)
+![Ad/回形针事务所 001 - 运动鞋和非牛顿流体的秘密/26.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20001%20-%20运动鞋和非牛顿流体的秘密/26.gif)

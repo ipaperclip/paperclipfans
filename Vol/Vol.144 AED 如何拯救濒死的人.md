@@ -14,7 +14,7 @@
 
 4 分钟过去了，倒在地上的人，因为严重缺氧，脑细胞开始发生永久性损伤。一旦超过 10 分钟，他会彻底进入脑死亡阶段，活下来的几率微乎其微。
 
-![Vol/Vol.144 AED 如何拯救濒死的人/1.png](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/1.png)
+![Vol/Vol.144 AED 如何拯救濒死的人/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/1.png)
 在这要命的空等中，如果将希望完全寄托于专业救援的到来，反而会耽误最佳救治的前 4 分钟。也许在当下，你，可以救他一命。
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/SlOqFKqEO4E4IicLxFibb1unpaCqWCIxywFeDKQFYm55s5SomDqCe9BI6AfUBBPRgvDp7JIzQo23xWKp6rxynoYA/640?wx_fmt=png)
@@ -25,11 +25,11 @@
 
 这是一颗正常跳动的心脏。心脏的跳动节奏由窦房结主导，电流信号率先从这里发出，沿传导系统刺激心房、心室收缩，将心房里的血液挤压进心室，紧接着推动血液向主动脉和肺动脉流动。每分钟心脏跳动 60\~100 次，称为窦性心律。
 
-![Vol/Vol.144 AED 如何拯救濒死的人/2.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/2.gif)
+![Vol/Vol.144 AED 如何拯救濒死的人/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/2.gif)
 
 而当心脏电信号异常，就会打乱原本正常的节奏。比如心室肌细胞出现快速而不协调的收缩，导致心室无法向动脉泵出血液，颤动频率达到每分钟 250\~500 次，称为心室纤维性颤动，也叫室颤，是心源性猝死最常见的心律失常。
 
-![Vol/Vol.144 AED 如何拯救濒死的人/3.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/3.gif)
+![Vol/Vol.144 AED 如何拯救濒死的人/3.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/3.gif)
 
 要让心律重新恢复正常，最有效的办法，就是对心脏进行电除颤。
 
@@ -37,7 +37,7 @@
 
 而这一注关键的脉冲电流，来自 AED，自动体外除颤仪，你可以在机场、地铁、商场找到它。AED 如何救人一命？怎样让没有医学专业知识的普通人也会用 AED？
 
-![Vol/Vol.144 AED 如何拯救濒死的人/4.png](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/4.png)
+![Vol/Vol.144 AED 如何拯救濒死的人/4.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/4.png)
 
 AED 很容易操作，它由两块电极片通过导线与主机连接。打开电源，将电极片牢牢地贴在胸前的对应位置，接着，它会自动检测心律，在 5\~15 秒内判断是否需要电击除颤，并给出语音提示。
 
@@ -45,7 +45,7 @@ AED 很容易操作，它由两块电极片通过导线与主机连接。打开�
 
 这样才能让电流在两个电极之间流经心脏。另外，在 AED 自动检测和放电时，施救者必须确保与患者没有接触，以免干扰心律分析和被意外电击。
 
-![Vol/Vol.144 AED 如何拯救濒死的人/5.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/5.gif)
+![Vol/Vol.144 AED 如何拯救濒死的人/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/5.gif)
 
 不过，在真正的心脏骤停抢救中，光靠 AED 是不够的。
 
@@ -53,7 +53,7 @@ AED 很容易操作，它由两块电极片通过导线与主机连接。打开�
 
 与此同时，你需要对患者进行心肺复苏（CPR），清理他的口腔异物，如食物、假牙，然后以每分钟 100\~120 次的频率按压胸部，至少向下压深 5 厘米；如果你接受过人口呼吸的训练，就在每轮 30 下按压之后进行 2 次吹气。
 
-![Vol/Vol.144 AED 如何拯救濒死的人/6.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/6.gif)
+![Vol/Vol.144 AED 如何拯救濒死的人/6.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/6.gif)
 
 直到 AED 到场，听机器指令在每次除颤后立刻进行 CPR，让胸骨和脊柱之间的心脏受到挤压，驱使血液流动。
 
@@ -68,11 +68,11 @@ AED 的作用毋庸置疑，可问题是，我们的 AED 够用吗？
 
 目前，深圳、海口、上海是国内 AED 资源最富饶的城市，每十万人拥有超过十台 AED。但这远远不够。对比美国的 700 台、日本的 276 台、以及专家建议的「每十万人配置 100\~200 台」的标准，国内 AED 的缺位尤其明显。
 
-![Vol/Vol.144 AED 如何拯救濒死的人/7.png](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/7.png)
+![Vol/Vol.144 AED 如何拯救濒死的人/7.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/7.png)
 
 此外，现有 AED 的投放也存在不合理。以北京为例，东三环的 AED 通常相隔 2 公里左右，再加上寻找时间，很难在十分钟内完成急救除颤。标识不明显、安装场所不全天开放、工作人员不会操作……同样削减了它的功用。
 
-![Vol/Vol.144 AED 如何拯救濒死的人/8.gif](https://cdn.jsdelivr.net/gh/qiaoshouzi/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/8.gif)
+![Vol/Vol.144 AED 如何拯救濒死的人/8.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.144%20AED%20如何拯救濒死的人/8.gif)
 
 今年九月，《中国心血管健康与疾病报告 2019》带来了最新的数据，相比上一年，大约增加了四千万患有心血管疾病的中国人，而它的死亡率，一直高居榜首。
 
