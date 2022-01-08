@@ -2,20 +2,20 @@
 
 哪个男孩不想搏一搏，单车变摩托？
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212241957.gif)
+![Vol/Vol.162 赌场为什么稳赚不赔/1.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.162%20赌场为什么稳赚不赔/1.gif)
 
 《中华人民共和国刑法》中，已经明确了组织及参与赌博会面临的种种惩罚。但在澳门，幸运博彩业已经合法经营了 200 年。1999 年的《中华人民共和国澳门特别行政区基本法》，让这一行业可以继续开花。
 
 从 2002 年起，澳门特区政府共向澳博、永利、银河娱乐等公司颁发了 6 张博彩经营许可证。在许可的 20 年间，共有 46 间赌场拔地而起，一同贡献了澳门 70% 的财政收入。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212241731.gif)
+![Vol/Vol.162 赌场为什么稳赚不赔/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.162%20赌场为什么稳赚不赔/2.gif)
 
 是什么让人们在赌场里纸醉金迷？赌场的经营有什么奥秘？
 
 以金沙中国旗下的威尼斯人酒店为例，有 153 部往返于港口、机场的穿梭巴士，从清晨到午夜不间断将顾客免费送到这里。
 这座面积 18 万平米金碧辉煌的宫殿里，除了 2900 间豪华套房外，还有威尼斯小镇泛舟、明星演唱会、网红艺术展以及美食、购物中心等眼花缭乱的娱乐体验。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212241150.gif)
+![Vol/Vol.162 赌场为什么稳赚不赔/3.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.162%20赌场为什么稳赚不赔/3.gif)
 
 根据金沙集团 2019 年的财报，酒店、餐饮、购物、演艺的所有营收，也不及其中的赌场——威尼斯人娱乐场收入的零头。
 
@@ -25,7 +25,7 @@
 
 每家获准经营的赌场，都由澳门博彩监察协调局统一监管。所有博彩项目都要采用博监局规定的统一规则。牌具、赌桌也只能使用博监局许可的供应商提供的产品，保证你在每家赌场都能公平公开地赌。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212241664.png)
+![Vol/Vol.162 赌场为什么稳赚不赔/4.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.162%20赌场为什么稳赚不赔/4.png)
 
 获准经营的项目中除了全世界都常见的百家乐、21点、角子机外，还涵盖了麻将、牌九、鱼虾蟹骰宝等具有地方特色的传统项目。
 
@@ -33,13 +33,13 @@
 
 你可以用现金兑换的筹码在庄胜、闲胜、和局三种结果中下注，押中就赢钱，除了和局，下注庄、闲获胜的赔率都是一赔一。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212241050.gif)
+![Vol/Vol.162 赌场为什么稳赚不赔/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.162%20赌场为什么稳赚不赔/5.gif)
 
 这是一场游戏中庄胜、闲胜和和局分别出现的概率，惊人的是：庄胜的概率比闲高 1.235 个百分点，也就是，只要无脑下注庄家，胜利的天平就会向你倾倒。
 
 「all in」可能会一把输光，而一次投注一块钱，直到投注到天荒地老也决不出胜负。该怎么办？
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212241975.gif)
+![Vol/Vol.162 赌场为什么稳赚不赔/6.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.162%20赌场为什么稳赚不赔/6.gif)
 
 这篇 1956 年的论文提出了下注的最优解，你只要有高中的数学知识就能理解。
 
@@ -47,7 +47,7 @@ p 和 q 是你获胜和失败的概率，为了让你手上的现金永远不会
 
 经过简化和求取对数，可以得到这样一个描述单局资金指数增长率的对数函数，只要对其求导并导数为零，也就是当 f 等于胜利概率减去失败概率时，你就能最大化下注收益。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212242617.gif)
+![Vol/Vol.162 赌场为什么稳赚不赔/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.162%20赌场为什么稳赚不赔/7.gif)
 
 概率已经写定，只要每局都按当前本金的 1.235% 下注庄家，就能最快把赌场掏空。
 
@@ -55,13 +55,13 @@ p 和 q 是你获胜和失败的概率，为了让你手上的现金永远不会
 
 为了保障赌场盈利，博监局的规则中要求，下注庄家获胜，要接受 5% 的抽成。一举将玩家的期望收益扳成负值。同时，每桌还会限制投注额，使赌场可以在概率优势下缓慢均匀地赢走所有人的钱。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212241099.gif)
+![Vol/Vol.162 赌场为什么稳赚不赔/8.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.162%20赌场为什么稳赚不赔/8.gif)
 
 散客毕竟财力有限，根据各家财报公开的数据，贵宾厅里的豪客才是为赌场创收的核心。
 
 博彩中介人会四处物色财力雄厚并追求更强刺激的赌徒，邀请到贵宾厅，并提供等额于其博彩预算的专供筹码——「泥码」，也叫「死码」（dead chips），用于下注。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212241929.jpeg)
+![Vol/Vol.162 赌场为什么稳赚不赔/9.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.162%20赌场为什么稳赚不赔/9.jpeg)
 
 泥码不能兑换现金，但下注后可以赢取可兑换的现金筹码。贵宾唯一的选择，就是将泥码花光，赢取现金码。
 
@@ -69,7 +69,7 @@ p 和 q 是你获胜和失败的概率，为了让你手上的现金永远不会
 
 最终无论赢了多少现金，都要由赌客按消费的泥码等额偿还现金。中介人则获取泥码销售一定比例的佣金。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212241565.jpeg)
+![Vol/Vol.162 赌场为什么稳赚不赔/10.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.162%20赌场为什么稳赚不赔/10.jpeg)
 
 根据澳博的财报，赌场仅能赢走投注额的 3% 左右。这些利润不仅要按 35% 缴税，还要向政府缴纳 4% 左右用于回馈社会。
 
@@ -77,7 +77,7 @@ p 和 q 是你获胜和失败的概率，为了让你手上的现金永远不会
 
 剩下的利润，还要和中介人分账，而澳门经济财政司司长批示的中介人佣金比例上限就高达泥码投注的 1.25% ，中介比赌场赚得还狠。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212241877.jpeg)
+![Vol/Vol.162 赌场为什么稳赚不赔/11.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.162%20赌场为什么稳赚不赔/11.jpeg)
 
 作为澳门的「金饭碗」，中介人要经过澳门博监局的严格筛选，持证上岗。且高额收入还要不时为贵宾在澳门的昂贵开销买单，安抚输钱后的内心。最关键的是，遇到欠码跑路的贵宾，要想办法追债。
 
@@ -85,12 +85,12 @@ p 和 q 是你获胜和失败的概率，为了让你手上的现金永远不会
 
 2014 年起，博彩网站「美好世界」通过公开欠债人身份信息，成功追回了二十多亿坏账。但网站仅运营两年，创始人就因「未履行资料保护义务罪」及「加重违令罪」被判刑入狱。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212241572.gif)
+![Vol/Vol.162 赌场为什么稳赚不赔/12.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.162%20赌场为什么稳赚不赔/12.gif)
 
 「久赌必输」是不变的真理，赌场同时承担着劝诫赌徒的社会义务。
 
 这是博监局提供的《赌瘾自评量表》，当你确信自己陷入赌瘾的深渊，可以直接在各大赌场申请隔离服务，通过后会被所有赌场拒绝接待，被动实现「浪子回头」。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212241948.gif)
+![Vol/Vol.162 赌场为什么稳赚不赔/13.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.162%20赌场为什么稳赚不赔/13.gif)
 
 2020 年就有 254 人主动申请隔离，仅 29 人被亲属送来强制隔离。

@@ -4,25 +4,25 @@
 
 如果推近一点，气流实际上会经过硬颚、由结缔组织和肌肉组成的软腭、软腭游离缘向下突出的悬雍垂，也就是小舌、舌根、会厌、声带等部位。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212240584.png)
+![Vol/Vol.163 打呼噜到底有多危险/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.163%20打呼噜到底有多危险/1.png)
 
 清醒的时候还好说，但当你睡着，尤其平躺时，软腭、相连的小舌和舌根的肌肉组织会因为神经放松而变得松弛，再加上重力的作用，可能就会后坠，使上气道变窄，阻碍气流流动。
 
 因阻碍变湍急的气流带动小舌振动发出所谓呼噜声；亦或是舌根后坠，气流堵塞导致附近黏膜振动发出声响；再或像这样，声带上方的杓状软骨塌陷覆盖声带导致振动等等。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212240487.gif)
+![Vol/Vol.163 打呼噜到底有多危险/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.163%20打呼噜到底有多危险/2.gif)
 
 气流堵塞带动软组织振动，这就是打呼噜的原理。97% 以上的呼噜声都在吸气时出现。
 
 酒精、浓茶、过度疲倦、服用镇定性药物等会使咽腔过度放松；辛辣食物会使软腭、舌根充血肿胀；肥胖且脖子短粗会导致咽腔狭窄；年龄增长会使咽部肌肉张力减弱等等，使上气道变窄的因素都可能提高睡觉时打呼噜的几率。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212240931.png)
+![Vol/Vol.163 打呼噜到底有多危险/3.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.163%20打呼噜到底有多危险/3.png)
 
 我国《社会生活环境噪声排放标准》规定，即使在商住、工业混杂的 2 类功能区，室内夜间噪音排放也不得超过 35 分贝。
 
 而根据南加大的数据，打呼噜的音量平均在 50 ~ 60 分贝之间，近乎一台洗衣机，有时甚至可达 80 分贝，近乎耳边吸尘器，堪比环境噪音污染。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212240597.png)
+![Vol/Vol.163 打呼噜到底有多危险/4.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.163%20打呼噜到底有多危险/4.png)
 
 如果鼾声均匀，像这样，且起床后不觉疲惫无异样，那除了“扰邻”倒也还好，至少在规律呼吸。
 
@@ -30,7 +30,7 @@
 
 睡眠呼吸暂停，它的严重程度用呼吸暂停低通气指数AHI来衡量， AHI 大于 5 就有患阻塞性睡眠呼吸暂停综合征的可能。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212240525.png)
+![Vol/Vol.163 打呼噜到底有多危险/5.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.163%20打呼噜到底有多危险/5.png)
 
 刚刚的例子极有可能就是三种睡眠呼吸障碍中最常见的阻塞性呼吸暂停，占睡眠呼吸障碍总案例的 90% ～ 95%。
 
@@ -38,15 +38,15 @@
 
 根据美国睡眠医学会 07 年修订的最新睡眠分期标准，人入睡后会经历 4 ~ 6 个由非快速眼动期和快速眼动期组成的睡眠周期。经历完整的睡眠周期对身体恢复非常重要。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212241385.png)
+![Vol/Vol.163 打呼噜到底有多危险/6.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.163%20打呼噜到底有多危险/6.png)
 
 但对照阻塞性呼吸暂停患者的睡眠多导图就会发现，每次呼吸气流停止，患者脑电波就会因缺氧被激活，即大脑被唤醒，然后呼吸恢复、停止、大脑又被唤醒，不断重复。
 
 问题是，大脑每被唤醒一次，睡眠周期就会被打断一次，然后回到浅睡阶段重新开始。严重的甚至可能整晚都在浅睡阶段直到苏醒。
 
-正因如次，就算患者夜间睡眠时间足够，白天也会出现嗜睡疲倦，注意力不集中、记忆力下降、易怒等症状。 
+正因如次，就算患者夜间睡眠时间足够，白天也会出现嗜睡疲倦，注意力不集中、记忆力下降、易怒等症状。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212240450.png)
+![Vol/Vol.163 打呼噜到底有多危险/7.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.163%20打呼噜到底有多危险/7.png)
 
 如果你白天非常嗜睡疲倦，嗜睡情况可参考ess嗜睡量表，且被告知有严重的打呼情况，请一定去正规医院做专业睡眠检测。比如山东这位男子，一测就吓一跳。
 
@@ -54,27 +54,27 @@
 
 对于阻塞性睡眠呼吸暂停患者来说，治疗手段主要为一般性治疗及行为措施，比如像这样锻炼咽喉部肌肉；手术，比如这样切掉过大的组织；最主要的还是口腔矫治器治疗和佩戴持续气道正压通气装置。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212240469.png)
+![Vol/Vol.163 打呼噜到底有多危险/8.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.163%20打呼噜到底有多危险/8.png)
 
 口腔矫治器治疗指患者佩戴这样或这样的矫治器，即最常见的下颌前移矫治器。矫治器将下颌骨向前拉，间接带动舌肌前移，使舌后气道扩宽，为口咽获得额外体积空间，减少舌对软腭的向后压迫，使软腭后气道一起增宽。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212240356.gif)
+![Vol/Vol.163 打呼噜到底有多危险/9.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.163%20打呼噜到底有多危险/9.gif)
 
 国内外的数据统计均显示口腔矫治器对改善患者症状有明显效果。虽然矫治器总体不良反应少，但长期佩戴可能会造成下颌关节不适，咬合关系变化等问题，且更适合轻中度患者。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212240201.png)
+![Vol/Vol.163 打呼噜到底有多危险/10.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.163%20打呼噜到底有多危险/10.png)
 
 所以对于阻塞性睡眠呼吸暂停患者，尤其是重度患者，更首选有效的方式还是佩戴持续气道正压通气装置（CPAP）。
 
 当患者佩戴面罩，空气经压缩后，在整个呼吸周期过程持续向咽腔施加正压，减少吸气时产生的负压，将气道撑起并维持气道内压力水平，避免上气道塌陷，保证患者呼吸的通畅。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212240559.gif)
+![Vol/Vol.163 打呼噜到底有多危险/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.163%20打呼噜到底有多危险/11.gif)
 
 美国睡眠医学会在 2019 年发布的这篇回顾和分析中，对 184 篇符合标准的相关研究提供的数据进行了元分析。
 
 他们发现接受气道正压治疗后，患者AHI平均从 32.7 上下骤降至 4.1 左右，几乎拉回正常水平，且白天嗜睡的情况也得到显著改善，精神得到极大提升。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212240463.png)
+![Vol/Vol.163 打呼噜到底有多危险/12.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.163%20打呼噜到底有多危险/12.png)
 
 对于患高血压和顽固性高血压的中重度 OSA 患者，气道正压治疗也都能起到一定程度的辅助降压作用。
 

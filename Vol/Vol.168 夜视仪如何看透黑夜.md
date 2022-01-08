@@ -1,8 +1,6 @@
 # Vol.168 夜视仪如何看透黑夜
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212202408.png)
-
-
+![Vol/Vol.168 夜视仪如何看透黑夜/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/1.png)
 
 你看，你快看！你看到了吗？
 
@@ -10,58 +8,57 @@
 
 为什么夜视仪能看透黑夜？夜视技术如何发展至今？
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212216637.gif)
+![Vol/Vol.168 夜视仪如何看透黑夜/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/2.gif)
 
 最常见的夜视仪能捡拾自然环境中微弱的星光、月光，成千倍地放大。不过，这么一点点光怎么就能被你凭空放大得这么亮呢？
 
 以这款 1960 年代的 PVS-2 为例，由「光电阴极」「高压静电透镜」「荧光屏」三部分组成。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212202392.png)
+![Vol/Vol.168 夜视仪如何看透黑夜/3.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/3.png)
 
 「光电阴极」常由一些碱金属元素制成，负责把光子转为电子；「高压静电透镜」负责把电子变得更高能；最后「荧光屏」被电子轰击，从而让电子变回光子，呈现在你眼前。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212202455.gif)
+![Vol/Vol.168 夜视仪如何看透黑夜/4.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/4.gif)
 
 但要论成像效果，也就吃个毒蘑菇都能达到的水平。既不亮，又很糊。人还没找着，鬼倒说不定能先撞上一个。
 
 为什么会这么「阴间」？问题出在它的光电阴极和高压静电透镜，都不太能打。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212202339.png)
+![Vol/Vol.168 夜视仪如何看透黑夜/5.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/5.png)
 
-其光电阴极灵敏度只有 180~300 μА/lm，这个指标可以反应光子转为电子的效率，而这个数字并不高。
+其光电阴极灵敏度只有 180\~300 μА/lm，这个指标可以反应光子转为电子的效率，而这个数字并不高。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212202495.png)
+![Vol/Vol.168 夜视仪如何看透黑夜/6.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/6.png)
 
-因此很显然，如果从一开始对光子的拾取就不太灵敏，那后面再怎么放大也不会太亮。一代机的亮度增益因此只有 120~900 倍。
+因此很显然，如果从一开始对光子的拾取就不太灵敏，那后面再怎么放大也不会太亮。一代机的亮度增益因此只有 120\~900 倍。
 
 但这还不是硬伤。真正的硬伤是它的分辨力太拉胯了。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212202493.png)
+![Vol/Vol.168 夜视仪如何看透黑夜/7.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/7.png)
 
 用「美国空军 1951 透射式分辨力靶」来给它测分辨力，在大约 26 倍焦距位置的 2856 K 标准光源照明条件下看这块靶上的一组组横竖线条，从大到小像测视力那样寻找到刚好看不清的那组，根据计算公式和表格即可找到此时对应的分辨力—— 25.4 lp/mm 。
 
 这意味着它连基础版靶子都看不全，更不用说后续线条更小的升级版靶子了。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212203195.gif)
+![Vol/Vol.168 夜视仪如何看透黑夜/8.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/8.gif)
 
 主要还是这块「高压静电透镜」过于简陋，就是两片金属电极构成的小圆锥，给金属电极施加高压电产生静电场电势差使电子加速、增大能量。
 
-其中电子的能量增量为这个公式 △Ee=Q*U，即原有电子的电荷量 Q 乘以一个通常在 10 kV 以上的供电电压 U，这意味着你得随身带着一个高压电源跑，既麻烦又危险。其朴素的结构也使得图像更容易变形。
+其中电子的能量增量为这个公式 △Ee=Q\*U，即原有电子的电荷量 Q 乘以一个通常在 10 kV 以上的供电电压 U，这意味着你得随身带着一个高压电源跑，既麻烦又危险。其朴素的结构也使得图像更容易变形。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212203718.gif)
+![Vol/Vol.168 夜视仪如何看透黑夜/9.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/9.gif)
 
 这些问题让一代机并不可靠。有没有什么办法能让它看起来不这么又黑又糊？
 
 到了 1978 年，二代机的出现极大缓解了这一问题。它把中间的「高压静电透镜」换成了「MCP」微通道板。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212203706.png)
+![Vol/Vol.168 夜视仪如何看透黑夜/10.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/10.png)
 
 把它简化来说，就是一块由上百万根直径约 10 μm 细长通道组成的板子，并且通道与板之间有 5~15 度的倾斜角，这样单个电子进入通道后，就会撞上管道内壁，内壁自带的电子在一系列复杂作用下逸出，就能变成 2~3 个二次电子。
 
 然后撞击另一侧内壁，从而释放出更多的二次电子。重复多次撞击后，就会变成数百万电子。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212203673.gif)
-
+![Vol/Vol.168 夜视仪如何看透黑夜/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/11.gif)
 
 电子在放大过程中被严格约束在一根根通道中，与最初光子成比例保持相同位置排列，从而保证图像不会严重变形。
 
@@ -69,21 +66,21 @@
 
 现在你至少不会人畜不分了。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212203181.png)
+![Vol/Vol.168 夜视仪如何看透黑夜/12.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/12.png)
 
 但，这还是不够，还有没有什么办法能更清楚一点？
 
 三代机继续升级，把前面的「光电阴极」升级成了砷化镓材料。
 
-这种材料对 500~900 nm 波段的光都保持超高敏感度，比起一、二代机光电阴极的偏科，更像是一位全优生。
+这种材料对 500\~900 nm 波段的光都保持超高敏感度，比起一、二代机光电阴极的偏科，更像是一位全优生。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212203734.png)
+![Vol/Vol.168 夜视仪如何看透黑夜/13.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/13.png)
 
 更高的灵敏度意味着它能从一开始就捕捉到更多光子，便于后方进一步增亮。三代机增亮倍数因此来到了 3000 倍，看着也舒服多了。
 
 真正做到了，照亮你的美。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212203766.png)
+![Vol/Vol.168 夜视仪如何看透黑夜/14.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/14.png)
 
 但，为什么偏偏这么绿呢？
 
@@ -91,29 +88,29 @@
 
 此外也有用白磷的，呈现的就是更柔和的蓝白色图像。在这幅发射光谱图中，可以发现白磷屏的发射强度比硫化锌屏低了一个数量级，因此看上去会更柔和，但相应地也会损失一定亮度。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212203743.png)
+![Vol/Vol.168 夜视仪如何看透黑夜/15.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/15.png)
 
 除了这种单眼款夜视仪，还有双眼款和四眼款，它们的最大区别就在于不同的视角 。
 
 单眼款只有 40° ，双眼款也只有 45° ，这样的小视角实际观看起来非常膈应。而四眼款则高达 97° ，比较接近人眼，更广的视角在巷战中能更快发现身旁窜出来的敌人，但它的造价也高达 28 万。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212203334.gif)
+![Vol/Vol.168 夜视仪如何看透黑夜/16.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/16.gif)
 
 看是看得挺清楚了，但要是遭遇照明弹等突然射过来的强光，会不会把眼睛亮瞎？
 
 别着急，还有「AG 门控系统」，一旦侦测到光的强度过大，就实行「脉冲供电」，反复快速打开和关闭电源来减少进入光的总量。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212203096.gif)
+![Vol/Vol.168 夜视仪如何看透黑夜/17.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/17.gif)
 
 实际上，这种捕捉微光进行增强的夜视仪属于「微光夜视仪」，在这之外，还有「主动红外夜视仪」和「热成像夜视仪」。
 
 最朴素的「主动红外夜视仪」通过红外灯射出一束肉眼不可见的红外光，反射回来形成图像。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212203989.png)
+![Vol/Vol.168 夜视仪如何看透黑夜/18.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/18.png)
 
 「热成像夜视仪」则是通过感应红外辐射强弱来分辨物体温度，最大的优势在于能够看透雨雾。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212203012.png)
+![Vol/Vol.168 夜视仪如何看透黑夜/19.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/19.png)
 
 但每一种夜视仪都有缺陷。微光夜视仪在洞穴等完全无光的环境下，无法再捕捉到足够的光子进行增强，只能束手就擒。
 
@@ -123,4 +120,4 @@
 
 这些软肋也推动着科学家们继续异想天开。比如这款夜视仪，就将微光和热成像夜视仪的优点结合起来，形成融合图像。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212203762.gif)
+![Vol/Vol.168 夜视仪如何看透黑夜/20.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.168%20夜视仪如何看透黑夜/20.gif)

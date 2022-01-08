@@ -1,6 +1,7 @@
-# Vol.024 如何用煤烧出 4 万亿度电
 
 ![1.gif](https://cdn.jsdelivr.net/gh/paperclipfans/static-01/024/1.gif)
+
+# Vol.024 如何用煤烧出 4 万亿度电
 
 2017 年，中国用掉了近 6.3 万亿度电，其中约 4 万亿度来自燃煤发电。
 

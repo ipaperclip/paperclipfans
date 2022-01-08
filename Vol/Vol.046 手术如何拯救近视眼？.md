@@ -36,13 +36,13 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NaafxibaQomU4QchPy5ibt1L56awicRL7iagt7henfYIiaXtBYtzImn0qRQRyRKRd1rFVro7cibicRctJ2ic0A.gif)
 
-接着要用显微角膜板层刀切出一片 90~180 微米厚的角膜瓣，角膜瓣不用完全切开，留有一处仍与角膜粘连。
+接着要用显微角膜板层刀切出一片 90&#126;180 微米厚的角膜瓣，角膜瓣不用完全切开，留有一处仍与角膜粘连。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaafxibaQomU4QchPy5ibt1L56VGO16VFjacRGUAIicHoJSOONsiaqL2vCkxl45CGhn2NPdQfwtZU0jibJg.gif)
 
 不过，今天更常用飞秒激光设备来切割角膜瓣，比如蔡司的这台 VisuMax 。
 
-飞秒是时间单位，一千万亿飞秒才等于一秒。手术使用的飞秒激光就是单次只持续 220~580 飞秒的近红外激光，精度可达 3 微米，只有头发直径的三十分之一。
+飞秒是时间单位，一千万亿飞秒才等于一秒。手术使用的飞秒激光就是单次只持续 220&#126;580 飞秒的近红外激光，精度可达 3 微米，只有头发直径的三十分之一。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaafxibaQomU4QchPy5ibt1L56rwurl05ric9LXYwB2vUHFFPMLvSSU8SqMFJLMHBuSBvbZlfWict8cukw.gif)
 
@@ -62,7 +62,7 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NaafxibaQomU4QchPy5ibt1L56SSxicVYljZwF6Uk9TiaGL6vGhWEyiaT1oybJ7OtUR2pewWuHHry3p6s2A.gif)
 
-LASIK 一般 24 小时后即可恢复，适用于近视 1000 度以内的大部分人，费用约 10000~18000 元。
+LASIK 一般 24 小时后即可恢复，适用于近视 1000 度以内的大部分人，费用约 10000&#126;18000 元。
 
 需要注意，由于切开的角膜瓣只有外部会与周围愈合，内部并不能完全粘连，术后如果剧烈运动或受到撞击，角膜瓣就有可能移位甚至脱落。
 
@@ -72,11 +72,11 @@ LASIK 一般 24 小时后即可恢复，适用于近视 1000 度以内的大部�
 
 Trans-PRK——全准分子激光角膜切削术，直接使用准分子激光切削角膜，无切口。
 
-术后需一周左右完全恢复，适用于近视 700 度以内，费用 7000~15000 元。
+术后需一周左右完全恢复，适用于近视 700 度以内，费用 7000&#126;15000 元。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaafxibaQomU4QchPy5ibt1L567hib0bDy9zLgCEJxibKR3GWbyQxjvDjUrcWm7hgxqicCZttjxA6ASu3bw.gif)
 
-SMILE——全飞秒激光微创透镜切除术，则是利用飞秒激光直接在角膜内切出一块透镜，然后在角膜边缘切一个 2~3mm 的小口，拽出透镜即可。
+SMILE——全飞秒激光微创透镜切除术，则是利用飞秒激光直接在角膜内切出一块透镜，然后在角膜边缘切一个 2&#126;3mm 的小口，拽出透镜即可。
 
 术后需 3~5 天恢复，适用于近视 800 度以内，费用 16000~24000 元。
 
@@ -92,7 +92,7 @@ ICL 其实就是在眼球里植入隐形眼镜。在角膜上开一个 2mm 的�
 
 ![img](https://paperclip.host/static/U6yRaDu1NaafxibaQomU4QchPy5ibt1L5630ftUSksaN2ww8fzkJ32hHSsb9sXHaEibTAEKOFkyrSpngxwbJsicy7w.png)
 
-这些手术通常只需 5~10 分钟就能完成，且除了近视，还能治疗不同程度的远视和散光。
+这些手术通常只需 5&#126;10 分钟就能完成，且除了近视，还能治疗不同程度的远视和散光。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaafxibaQomU4QchPy5ibt1L56k3duOtNwNIoGC8QNWpEQ7Ivnxp8afBLhzo7s2hqwEmGn7PmJ3IfDZQ.png)
 

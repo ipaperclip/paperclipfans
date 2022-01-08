@@ -1,32 +1,32 @@
 # Vol.172 麻醉医生如何让你活着醒来
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151128774.png)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/1.png)
 
 这是一名冠心病病人，突然发作的心绞痛，随时可能要了他的性命，想要健康地活下去，手术刻不容缓。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151128945.gif)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/2.gif)
 
 早上 9 点，病人被推入手术室，麻醉医生给他戴上面罩，让他深呼吸。面罩的另一端连接着麻醉机，麻醉机会将液态的麻醉药物挥发成气体，与氧气混合后，给病人吸入。
 
 这是他手术中唯一记得的场景，2 分钟后，他会彻底失去意识，失去记忆，和他生命有关的一切，包括心跳、呼吸，都将由他身边的麻醉医生接管。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151128963.gif)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/3.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/3.gif)
 
 病人吸入的是名为「七氟烷」的镇静药物。镇静药物除了吸入类，还有静脉注射类，它们作用于中枢神经系统，镇静催眠，让人失去意识和记忆。
 
 但这只达到了手术的第一个要求，遗忘。而要顺利完成手术，还必须实现无痛和制动。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151128409.png)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/4.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/4.png)
 
 实现无痛，需要使用镇痛药，通常为阿片类。这类药物能影响痛觉相关神经递质的传递，使大脑无法感受疼痛。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151128704.gif)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/5.gif)
 
 此外，以往的麻醉医生需要通过增加镇静药剂量，使肌肉松弛来避免手术器械对器官造成损伤，直到肌松药投入使用。
 
 肌松药通过静脉注射作用于神经肌肉接头，在达到肌肉松弛的条件下减少全麻药的使用，使病人在较浅的麻醉深度下完成手术。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151128458.gif)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/6.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/6.gif)
 
 这些药物共同作用，会使病人停止呼吸，要让他活着，必须使用机械辅助通气，这需要先建立人工气道。
 
@@ -34,7 +34,7 @@
 
 气管导管的前端有一个储气囊，置入气管后，将气囊注气膨胀，使其封闭气道，病人的呼吸道就完全连接在麻醉机上了。从此，麻醉机就能将气体直接泵入病人肺部，维持吸入麻醉的同时保障他的呼吸。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151128360.gif)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/7.gif)
 
 手术期间，麻醉医生会持续泵入或分次推注麻醉药物，维持麻醉状态。
 
@@ -42,7 +42,7 @@
 
 虽然在术中病人看似平静，但手术的创伤依然会对他产生极大的刺激，继而影响生命体征。麻醉医生必须将这些指标控制在狭窄的安全范围内，以保住病人的生命。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151128835.gif)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/8.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/8.gif)
 
 对于冠心病而言，最重要的是维持心脏氧供需平衡，使氧供既能满足心脏的需求，又不让脆弱的心脏超负荷工作。
 
@@ -50,13 +50,13 @@
 
 简单来说，前负荷就是心肌即将收缩时受到的阻力，后负荷就是心肌收缩时所受的阻力。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151128931.gif)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/9.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/9.gif)
 
 在不同部位的血管置入导管，麻醉医生可以获得代表心脏负荷的各项指标，例如中心静脉压、肺动脉压、外周动脉压等。
 
 除此之外，还需要使用经食管超声心动图、5 导联心电监护、心排血量监测仪等对心脏功能进行连续监测。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151128548.png)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/10.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/10.png)
 
 有了这些监测设备，麻醉医生就能够判断病人的不同状态，继而应对手术中的各种情况。
 
@@ -64,7 +64,7 @@
 
 这次要做的，是非体外循环的「心脏搭桥」手术，外科医生需要切开病人的胸骨，将心脏暴露出来，再从病人大腿截取一段大隐静脉，缝合到跳动的心脏上，让血液绕开堵塞部位，重建血管。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151128193.gif)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/11.gif)
 
 这些操作将引发剧烈的循环波动，有时可能导致严重的后果。这需要麻醉医生清楚地了解手术的步骤与后果，并作出应对。
 
@@ -72,7 +72,7 @@
 
 这时，麻醉医生需要迅速注入多种药物，并且调整通气量，辅助降低肺动脉压力，帮助病人安全过关。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151128224.gif)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/12.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/12.gif)
 
 麻醉医生如何做出这些决策？让我们回到血液循环图，当麻醉医生发现动脉收缩压降低，肺动脉楔压升高时，能够推测血液被淤滞在了肺循环，但还须配合经食管超声心动图确认。
 
@@ -80,22 +80,22 @@
 
 而扩张静脉会使病人血压降低，身体的其他脏器得不到足够血液，因此，还需要去甲肾上腺素收缩动脉，保证全身脏器血液的供给。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151128996.png)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/13.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/13.png)
 
 当血管吻合完毕，外科医生解除心脏稳定器，病人的收缩压和肺动脉压趋于稳定。外科医生继续完成后续三根冠状动脉的吻合，关胸，缝合切口。
 
 手术结束并不意味着危险解除。心脏搭桥手术病人需要被送至 ICU 严密观察等待苏醒，一般病人则会被送至麻醉恢复室。在这期间，麻醉医生要防范「呼吸遗忘」的发生。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151128402.gif)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/14.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/14.gif)
 
 「呼吸遗忘」是指由于个体代谢等原因，手术结束后，病人体内残留的阿片类药物，继续抑制呼吸中枢，使病人无法自主呼吸的现象。若此时拔管，即使病人已恢复意识，也有发生窒息的风险。
 
 正确判断拔管时机，需要麻醉医生严格遵循拔管指征，过程中随时应对气道突发情况，做好紧急插管的准备。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151127235.gif)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/15.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/15.gif)
 
 好在病人一切平稳。一天后，他从 ICU 转入了普通病房，再过几天就能出院，过上新生活。他可能根本想不起手术的过程，也记不得麻醉医生做了什么。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151127650.gif)
+![Vol/Vol.172 麻醉医生如何让你活着醒来/16.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.172%20麻醉医生如何让你活着醒来/16.gif)
 
 但这个过程中麻醉医生所付出的努力值得更多人知道。

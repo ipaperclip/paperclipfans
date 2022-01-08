@@ -6,216 +6,108 @@
 
 冥昭瞢闇，谁能极之？
 
-
-
 天问一号的成功发射，标志着中国人也正式踏上行星探测的征程。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151126740.gif)
-
-
+![x/x.东方时空 天问一号：登陆火星/1.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/1.gif)
 
 为了让天问一号顺利抵达火星并成功着陆，都要克服哪些问题？
 
-
-
 相比抵达月球，抵达火星非常不易。火星公转周期 687 天，几乎是地球的 1.9 倍，地火距离因此不稳定，最远达 4 亿公里，最近也高达 5400 万公里 ，是相对稳定的地月距离的 140 多倍。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151126438.gif)
-
-
+![x/x.东方时空 天问一号：登陆火星/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/2.gif)
 
 距离遥远多变，飞行距离长，想把探测器送到火星非常困难。
 
-
-
 1925 年，德国工程师瓦尔特·霍曼在书中提出了著名的霍曼转移轨道。简单说，就是以大于第二宇宙速度的速度将探测器顺着地球公转方向发射。根据开普勒第一定律，摆脱地球引力的探测器随后会以太阳为近焦点做椭圆轨道运动。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151125767.gif)
-
-
+![x/x.东方时空 天问一号：登陆火星/3.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/3.gif)
 
 当发射速度够大，轨道远端就能与火星轨道相切。探测器在地球处于霍曼转移轨道的近日点时发射，进入「地火转移轨道」后，靠惯性飞行，然后在火星处于霍曼转移轨道的远日点时抵达。
 
-
-
 这就是目前从地球去火星最常见、省能量的方案。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151125446.gif)
-
-
+![x/x.东方时空 天问一号：登陆火星/4.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/4.gif)
 
 为了更好利用地球自转速度，使航天器获得足够速度，天问一号选择从纬度更低的文昌航天发射场发射，在长征五号遥四运载火箭强大运载能力帮助下，2000 多秒就能进入「地火转移轨道」。
 
-
-
 但，地球在动，火星也在动，时机不对就会错过，何时发射才能和火星同时到达呢 ？
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151125613.gif)
-
-
+![x/x.东方时空 天问一号：登陆火星/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/5.gif)
 
 我们简化情况估算一下。根据开普勒第三定律，绕日天体轨道半长轴的立方与其公转周期平方之比是常量。
 
-
-
 代入数据，就得出理想状态下，探测器走这个轨道的绕日周期约 520 天，到达火星轨道需 260 天。而火星公转周期 687 天，再通过简单计算，就得知 260 天前火星的相对位置，即发射的最佳窗口。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151125069.gif)
-
-
+![x/x.东方时空 天问一号：登陆火星/6.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/6.gif)
 
 但是，因为地火公转周期差，这种「探测发射窗口期」每 26 个月才出现一次，十分宝贵。这也是为什么美国和阿联酋也赶在去年七月发射了各自的探测器。
 
-
-
 当然，刚刚是简化各种因素后的运算。为了与火星精准相遇，天问一号途中进行了四次轨道微调和一次大的轨道调整。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151125030.png)
-
-
+![x/x.东方时空 天问一号：登陆火星/7.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/7.png)
 
 在飞行 4.75 亿公里，实际用时 202 天后，终于在 2021 年 2 月 10 日实施近火捕获制动，成功降速进入火星轨道。监测相机也记录下这珍贵时刻。
 
-
-
 天问一号随后通过「远火点平面机动」，将轨道从环火星赤道转为环南北极，并在两次近火制动调整后，于 2 月 24 日进入火星停泊轨道。从高分辨率相机拍摄的清晰画面中，你能清楚看见火星表面环形坑，山脉等地貌特征。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151125293.png)
-
-
+![x/x.东方时空 天问一号：登陆火星/8.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/8.png)
 
 随后三个月，探测器不断对火星地貌、气候和预着陆区的情况进行观测。待时机成熟，「登陆火星」。
 
-
-
 不过，相比 50 多年前载人登月，在过去 60 年间的近 50 次火星探索任务中，也仅有 9 个登陆器或火星车成功登陆。为什么会这么难？
-
-
 
 主要问题就是减速。 根据以往数据，登陆器进入火星大气速度非常快，一般在 16200 km/h ~ 20000 km/h 左右。天问一号的进入速度估计约为 17600 km/h。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151126304.gif)
-
-
+![x/x.东方时空 天问一号：登陆火星/9.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/9.gif)
 
 虽然火星大气的存在使登陆器能像卫星返回地球一样，利用大气摩擦做气动减速和降落伞减速。但火星大气的压力和密度只有地球的 1% 左右，十分稀薄，无法像地球大气一样提供足够的空气阻力。
 
-
-
 所以，还需增加登月时常用的反推发动机动力减速和降落前的着陆缓冲，才能实现最终的软着陆。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151125731.png)
-
-
+![x/x.东方时空 天问一号：登陆火星/10.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/10.png)
 
 而届时地火距离超 3 亿公里，通讯时延超 17 分钟，远超着陆时间，一切情况只能靠登陆器自主判断，风险极大。任何环节稍有差错都会使登陆器因降速不足而坠毁。
 
-
-
 同时，火星大气不稳定，尘暴较地球严重，影响着陆时参数的获取和确定。更不用提降落范围内，砂石遍布、崎岖不平的地表对最终着陆造成的挑战。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151125505.gif)
-
-
-
-
+![x/x.东方时空 天问一号：登陆火星/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/11.gif)
 
 当然，火星复杂的环境对着陆点选择也提出了很高要求。
 
-
-
 这是基于火星全球探勘者号数据绘制的火星地形图，从深蓝到红到白代表海拔的递增。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151126846.gif)
-
-
-
-
+![x/x.东方时空 天问一号：登陆火星/12.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/12.gif)
 
 为了延长登陆器在大气通过的行程，使减速时间更长，首先就要选择海拔较低，地势较平坦的地区。
 
-
-
 其次 ，由于火星气温很低，平均在 -60℃ 左右，最低可达 -140℃，且温度随赤道向两极递减。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151125338.png)
-
-
+![x/x.东方时空 天问一号：登陆火星/13.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/13.png)
 
 所以为使设备获得足够温度和能源，通常选择南北纬 30 度以内，温度较高、日照较充足的地区。
 
+同时，由于火星地表大面积覆盖松散的灰尘，有时可达 4\~5 米。我们还需结合这样的热惯量图和热反照率图，寻找热惯量值较高，反照率较低，也就是灰尘较少，承重能力更强，利于登陆和行动的地区。
 
-
-同时，由于火星地表大面积覆盖松散的灰尘，有时可达 4~5 米。我们还需结合这样的热惯量图和热反照率图，寻找热惯量值较高，反照率较低，也就是灰尘较少，承重能力更强，利于登陆和行动的地区。
-
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151125461.png)
-
-
+![x/x.东方时空 天问一号：登陆火星/14.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/14.png)
 
 其实，参与任务的工程师在每次火星登陆任务发射前四五年，都会制订这样的着陆区工程限制条件表圈定范围。行星科学家们随后再根据科考目标，逐步缩小范围。
 
-
-
 比如毅力号选择的杰泽罗陨石坑，就因地处古湖泊入口处，富含三角洲、流水地貌、沉积矿物和火山熔岩，从 30 多个地点中脱颖而出，成为最终选择。
-
-
 
 所以，在结合工程限制条件和科考目的后，天问一号最终选择了地势平坦、可能曾是海洋的乌托邦平原登陆。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151125816.png)
-
-
+![x/x.东方时空 天问一号：登陆火星/15.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/15.png)
 
 2021 年 5 月 15 日 7 时 18 分，天问一号成功在乌托邦平原南部着陆，完成「落」的目标，正式点燃中国人行星探测的火种。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151125583.gif)
-
-
+![x/x.东方时空 天问一号：登陆火星/16.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/16.gif)
 
 「天何所沓？十二焉分？」
 
 「日月安属？列星安陈？」
 
-
-
 两千多年前中国古人对苍茫宇宙的连连发问，正不断通过今天中国航天人的努力被带向深空。
-
-
 
 而天问一号，才只是中国人面向行星探测发出的第一问。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151125799.gif)
+![x/x.东方时空 天问一号：登陆火星/17.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.东方时空%20天问一号：登陆火星/17.gif)

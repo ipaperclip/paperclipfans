@@ -1,88 +1,88 @@
 # 回形针事务所 027：如何饿死你床上的螨虫？
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212116847.png)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/1.png)
 
 这里是回形针事务所，今天我们要研究的产品是舒飘儿 Life Cycle 防螨抗菌床品。它是怎么做到的？这期视频我们将分为三个问题来回答。
 
 被子、枕头、床垫，你每天都要与这些床上用品亲密接触。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212116559.gif)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/2.gif)
 
 正因为此，像舒飘儿 Life Cycle 这样自带防螨抗菌效果的床品就显得尤为重要，它不仅能高效抑制床品内的螨虫和有害细菌，还能避免伤害皮肤中的益生菌，降低过敏反应。
 
 要想做到这两点，我们首先要回答第一个问题：
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212116689.png)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/3.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/3.png)
 
 20 年前，许多人通过这些护肤品广告第一次认识了螨虫。
 
 这些白色小虫是蠕形螨，靠吸取细胞营养物质和皮脂腺分泌物为生。皮肤越油，蠕形螨越能大量繁殖、排泄。产生的粪便、虫卵、尸体最终就会堵塞毛孔。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212116670.gif)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/4.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/4.gif)
 
 除了脸上，我们的家中也不乏螨虫的痕迹，比如尘螨。室内每克灰尘中平均隐藏着 2000 只尘螨。它们以人类的皮屑为食，又喜欢温暖、潮湿的环境。因此，像床垫、被褥、枕头这样充满褶皱的地方，更容易成为尘螨的重灾区。
 
 虽然身边的螨虫很多，但每个人对这种动物的适应能力并不一样。有人毫无反应，有人一抖被子就会喷嚏不停。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212116494.gif)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/5.gif)
 
 以尘螨为例。它的全身上下（虫体本身、褪皮、排泄物、卵、尸体碎屑）均会致敏。这是因为它的肠道中存在一种酶，能诱导过敏患者分泌 IgE 抗体，最终与肥大细胞结合。
 
 这种细胞会在下一次接触尘螨抗原的时候释放出组胺、肝素，诱发炎症反应，最终导致过敏性鼻炎、过敏性结膜炎、荨麻疹与异位性皮肤炎等病症。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212116428.gif)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/6.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/6.gif)
 
 如果炎症发生在支气管，就可能会引发哮喘。据统计，中国的哮喘、鼻炎患者中，59% 的患者对粉尘螨过敏、57.6% 对屋尘螨过敏。而且越往南边，这一比例越高。
 
 当然，我们也不是束手无策。尘螨怕干怕热。只要定期曝晒、除湿、清洗，都能有效杀死尘螨。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212117059.gif)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/7.gif)
 
 听起来很简单，但大件的床上用品却很难做到频繁清洁。这就到了我们要回答的第二个问题：
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212116980.png)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/8.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/8.png)
 
 目前的做法大致可分为物理防螨、化学驱螨和功能纤维三种。高密度织物的密度、支数都很高，可以隔绝尘螨接触人体。这种做法虽然安全性好，但织物容易不透气，也不能彻底杀灭尘螨。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212116698.png)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/9.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/9.png)
 
 相比之下，化学防螨的出场次数更多一些。织物需泡入驱螨剂和固着剂进行浸轧，然后进行脱水、烘干、烘焙，最终得到防螨织物。
 
 然而，驱螨剂并没有进入纤维，而是最终固着在织物表面。虽然这样便于它溶出杀螨，但曝晒和水洗也会让它逐渐流失。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212116971.gif)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/10.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/10.gif)
 
 另一方面，溶出的防螨剂很容易破坏皮肤黏膜中的益生菌。这些益生菌原本可以吸食皮肤代谢产物（汗液、皮脂、死皮），维持皮肤微生物循环稳定。一旦被破坏，它们就会被有害病菌取代，引发红肿、瘙痒、红斑等应激反应。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212116919.png)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/11.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/11.png)
 
 所以，为了避免伤害皮肤中的益生菌，维持人体的微生物环境平衡，还得考虑一个重要问题：
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212116372.png)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/12.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/12.png)
 
 像舒飘儿的 Life Cycle 防螨抗菌纤维就并非用毒性物质杀死尘螨，而是切断尘螨的生命循环系统，让它活活饿死。
 
 它的关键，在于选用了有机硅季铵盐——一种广谱、低毒的杀菌剂。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212116300.gif)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/13.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/13.gif)
 
 想到除菌，你第一个想到的可能是「银离子」。带正电的银离子和负电的微生物细胞膜牢牢吸引，让银离子得以进入细胞内：蛋白质凝固，细胞丧失分裂增殖能力让死亡。
 
 但近年来，有关银离子的安全性却出现了许多争议。仅在瑞典，政府机构、学界、媒体仍未就银的毒性、污染性得出定论。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212116087.png)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/14.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/14.png)
 
 有机硅季铵盐的杀菌原理和银离子很像：季铵盐阳离子基团会吸引、溶解细菌微生物细胞膜，导致细胞液流出，破坏其 RNA 和酶。但它不含任何的重金属离子。因此，它被广泛用于处理婴儿尿布、女士内衣、甚至是无菌手术套。
 
 舒飘儿则更进一步：它将有机硅季铵盐填充到了纤维内部，创造了一个不适宜细菌、真菌生存的表面。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212116808.gif)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/15.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/15.gif)
 
 这不但阻止了有效成分的流失，也避免了与皮肤的直接接触。
 
 在 50 次的水洗后，舒飘儿的防螨抗菌纤维仍能达到 AAA 级抗菌标准，对大肠杆菌、金黄色葡萄球菌、肺炎杆菌、白色念珠菌、匍匐曲霉的抗菌率最高仍可到达 99%，并且溶出性为 0。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212117088.png)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/16.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/16.png)
 
 消灭匍匐曲霉，恰恰能切断尘螨生命周期。尘螨虽然以人的皮屑为食，但光凭自己的力量并不能消化坚固的皮肤细胞。
 
@@ -92,11 +92,11 @@
 
 经实验，舒飘儿 Life Cycle 防螨抗菌系列床品在法国 TEC 实验室中，经历水洗 10 次，42 天测试后，抑螨率仍高达 100%。加上耐水洗、不溢出的安全特点，它已成功在美国环境保护署 EPA 备案，并获得 OEKO-TEX Standard 100 婴儿级标准认证。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212117855.gif)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/17.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/17.gif)
 
 现在，舒飘儿已经使用这种纤维开发出了各系列床上用品，为你提供了防螨抗菌的整体解决解决方案。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212118479.gif)
+![Ad/回形针事务所 027：如何饿死你床上的螨虫？/18.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20027：如何饿死你床上的螨虫？/18.gif)
 
 对于尘螨，它做的并非毒杀，而是通过安全的方式切断了尘螨生命周期。这样不仅可以让你的睡眠可以安然无恙，更能保护皮肤屏障和益生菌环境，做到真正的「生态平衡」。
 

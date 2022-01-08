@@ -34,7 +34,7 @@
 
 以蔚来 ES8 为例，保险杠、侧视镜、挡风玻璃上一共装着 8 个摄像头、5 个毫米波雷达和 12 个超声波雷达。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211645816.jpeg)
+![x/x.蔚来_2 自动驾驶为什么这么难？/1.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.蔚来_2%20自动驾驶为什么这么难？/1.jpeg)
 
 其中三目摄像头提供了更丰富的视野。28 度摄像头负责远距离目标和红绿灯，52 度的摄像头负责路况检测，150 度的摄像头负责探测车身侧面和短距离插队的车辆。
 
@@ -68,4 +68,4 @@ LKS 的关键在于保持车道行驶。
 
 当然，在这一些到来之前，蔚来还是会时刻检查你有没有握住方向盘，提醒报警三次之后将关闭NIO Pilot 并减速，保证你的安全。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211646126.jpeg)
+![x/x.蔚来_2 自动驾驶为什么这么难？/2.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.蔚来_2%20自动驾驶为什么这么难？/2.jpeg)

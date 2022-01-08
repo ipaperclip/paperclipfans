@@ -2,19 +2,19 @@
 
 看，这是⼀颗⽔痘-带状疱疹病毒，从内向外依次是 DNA、核⾐壳、被膜、脂质包膜和糖蛋⽩刺突。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108290806643.jpeg)
+![Vol/Vol.142 水痘-带状疱疹病毒如何伴你一生/1.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.142%20水痘-带状疱疹病毒如何伴你一生/1.jpeg)
 
 像许多病毒⼀样，咳嗽、喷嚏都可以带着它传播。
 
 感染它以后，它会通过⾎液⼊侵你的上⽪细胞，使细胞肿胀、积累的组织液顶出⽪肤，形成⽔疱，充满你的躯⼲和四肢。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108290806752.jpeg)
+![Vol/Vol.142 水痘-带状疱疹病毒如何伴你一生/2.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.142%20水痘-带状疱疹病毒如何伴你一生/2.jpeg)
 
 这就是在你⼉童时期肆虐的⽔痘，得了它，你就可以获得⼀到两周的病假。
 
 之后，你⼏乎没有可能再得⼀次⽔痘。但是，当你免疫功能下降，这种病毒可能会以带状疱疹的形式卷⼟重来。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108290806268.jpeg)
+![Vol/Vol.142 水痘-带状疱疹病毒如何伴你一生/3.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.142%20水痘-带状疱疹病毒如何伴你一生/3.jpeg)
 
 带状疱疹会为你带来什么？怎样有效防治带状疱疹？
 
@@ -22,64 +22,64 @@
 
 病毒会在脊椎背根神经节或颅神经的感觉神经节中建⽴永久潜伏。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108290809624.gif)
+![Vol/Vol.142 水痘-带状疱疹病毒如何伴你一生/4.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.142%20水痘-带状疱疹病毒如何伴你一生/4.gif)
 
 随着年龄增⻓、免疫功能逐渐下降，病毒可能会通过轴突顺行重新来到皮肤细胞中，引发带状疱疹。
 
 和⽔痘不同的是，由于病毒顺着神经扩散，往往会在胸背部、腰部、颈部产⽣⽚状的成群的⽔疱，⽽⼊侵三叉神经时，会产⽣面部眼部带状疱疹。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108290810511.gif)
+![Vol/Vol.142 水痘-带状疱疹病毒如何伴你一生/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.142%20水痘-带状疱疹病毒如何伴你一生/5.gif)
 
-不过，与⽔痘相似的是，疱疹可能会在 2~4 周之后消失。
+不过，与⽔痘相似的是，疱疹可能会在 2\~4 周之后消失。
 
 但由于病毒不仅会⼊侵上⽪细胞，在神经元中⼤量复制的过程中，会破坏神经，造成神经节、神经根和周围神经出现纤维化，这就导致带状疱疹发病时，还会在患处感受到持续反复不断的剧痛。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108290806883.jpeg)
+![Vol/Vol.142 水痘-带状疱疹病毒如何伴你一生/6.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.142%20水痘-带状疱疹病毒如何伴你一生/6.jpeg)
 
 ⽽在⽪疹愈合后仍持续 1 个⽉及以上的疼痛，称作带状疱疹后神经痛，是带状疱疹最常⻅的并发症。
 
 病毒侵⼊不同部位的神经，会造成不同程度的神经性后遗症。⽐如，眼部带状疱疹会出现在头⽪、额头、眼睑上，引起三叉神经剧烈疼痛。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108290806071.jpeg)
+![Vol/Vol.142 水痘-带状疱疹病毒如何伴你一生/7.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.142%20水痘-带状疱疹病毒如何伴你一生/7.jpeg)
 
-由于⼈体免疫状况的不同，30％~50％ 的带状疱疹后神经痛患者疼痛持续超过 1 年，部分甚⾄达到 10 年或更⻓。
+由于⼈体免疫状况的不同，30％\~50％ 的带状疱疹后神经痛患者疼痛持续超过 1 年，部分甚⾄达到 10 年或更⻓。
 
 并且，带状疱疹后神经痛的持续时间，同样是随着年龄的增⻓⽽增加，根据这份研究，大于 50 岁的带状疱疹后神经痛患者中，35% 的疼痛持续时间超过了 6 个月。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108290806501.jpeg)
+![Vol/Vol.142 水痘-带状疱疹病毒如何伴你一生/8.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.142%20水痘-带状疱疹病毒如何伴你一生/8.jpeg)
 
 以北京市的调查数据为例，可以看出，带状疱疹发病率在 50 岁以上⼈群中急速上升。并且其中⼗例发展出带状疱疹后神经痛的病患中，8 例为 50 岁以上⼈群。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108290806858.jpeg)
+![Vol/Vol.142 水痘-带状疱疹病毒如何伴你一生/9.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.142%20水痘-带状疱疹病毒如何伴你一生/9.jpeg)
 
 童年时的⼀场⽔痘，可能在你 50 岁后带来⽣活质量的严重打击。
 
 那么如何治疗带状疱疹？
 
-在发疹后的 24~72 小时内或水疱仍在增加的状况下，可以采取抗病毒药物治疗，如阿昔洛⻙、伐昔洛⻙和泛昔洛⻙。
+在发疹后的 24\~72 小时内或水疱仍在增加的状况下，可以采取抗病毒药物治疗，如阿昔洛⻙、伐昔洛⻙和泛昔洛⻙。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108290806733.jpeg)
+![Vol/Vol.142 水痘-带状疱疹病毒如何伴你一生/10.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.142%20水痘-带状疱疹病毒如何伴你一生/10.jpeg)
 
 这些药物进⼊细胞后，可以通过替代脱氧⻦苷的位置，导致核苷酸之间⽆法连接，切断病毒 DNA 在体内的复制。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108290810726.gif)
+![Vol/Vol.142 水痘-带状疱疹病毒如何伴你一生/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.142%20水痘-带状疱疹病毒如何伴你一生/11.gif)
 
 药物能有效防⽌⽪损扩散、缓解急性期疼痛。但如果错过有效时机，就只能等待⽪疹消退，并随时可能⾯对剧烈的带状疱疹后神经痛发作。
 
 而目前的研究也无法证明，有效的抗病毒治疗能够防止带状疱疹后神经痛的发生。⼀旦进⼊漫⻓的疼痛折磨，就只能使⽤如⽌痛药或神经阻断术来缓解疼痛。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108290806985.jpeg)
+![Vol/Vol.142 水痘-带状疱疹病毒如何伴你一生/12.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.142%20水痘-带状疱疹病毒如何伴你一生/12.jpeg)
 
 所以，最好的⽅法，是预防。现在的主要预防⼿段，是接种疫苗。
 
 上海市 2018 年 8 月 1 日起，将水痘疫苗纳入上海市免疫规划。2014 年 8 月 1 日及以后出生、居住地在上海，包括在上海居住满 3 个月的非上海市户籍适龄对象都可以免费接种水痘疫苗。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108290806541.jpeg)
+![Vol/Vol.142 水痘-带状疱疹病毒如何伴你一生/13.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.142%20水痘-带状疱疹病毒如何伴你一生/13.jpeg)
 
 而对于⼤多数没有接种过⽔痘疫苗，或曾经感染过⽔痘的 80、90、00 后，以及他们的⽗⺟们，则可以选择带状疱疹疫苗。
 
 权威机构如世界卫生组织、中国医师协会皮肤科医师分会认为，接种疫苗是预防带状疱疹的有效手段，可显著降低带状疱疹的疾病负担。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108290808631.jpeg)
+![Vol/Vol.142 水痘-带状疱疹病毒如何伴你一生/14.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.142%20水痘-带状疱疹病毒如何伴你一生/14.jpeg)
 
 这就意味着你将可以用带状疱疹疫苗，来保卫猝不及防到来的中老年生活，像大爷大妈一样享受精彩人生。

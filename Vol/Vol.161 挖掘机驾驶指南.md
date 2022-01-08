@@ -2,19 +2,19 @@
 
 哪个男孩心中没有一个挖掘机之梦？在工地，它是神一般的存在；在水里，它是乘风破浪的舵手；在路上，它是自带威慑的加塞神器；在后院，它是孩子童年的纸飞机。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212243708.gif)
+![Vol/Vol.161 挖掘机驾驶指南/1.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.161%20挖掘机驾驶指南/1.gif)
 
 这种梦想将一直陪伴他的少年、中年以及晚年。假如给你一个机会，你要如何实现它？
 
 这是一台卡特挖掘机，机身的型号暴露了它的身份。第一个 3 代表工程机械类，30 代表工作质量为 30 吨。按工作质量大小，30 吨以上的为大挖，20 ~ 30 吨为中挖，20 吨以下的为小挖。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212242780.png)
+![Vol/Vol.161 挖掘机驾驶指南/2.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.161%20挖掘机驾驶指南/2.png)
 
 挖掘机通常分为三部分：工作装置，上体部分和下体部分。其中关键的工作装置由动臂、斗杆和铲斗组成。动臂和斗杆俗称大臂和小臂，由各自的油缸驱动。
 
 这是挖掘机的操纵界面，驾驶座的两侧各有一个操作杆。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212242792.png)
+![Vol/Vol.161 挖掘机驾驶指南/3.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.161%20挖掘机驾驶指南/3.png)
 
 以常见的「正手」挖掘机为例，左侧的操作杆控制着小臂的伸缩和上体的转动，右侧的操作杆控制着大臂的升降和铲斗的舀合及倾斜，面前的两根操作杆控制左右履带的转动以实现进退及转弯。
 
@@ -22,19 +22,19 @@
 
 这是因为斗杆伸得太长，斗杆油缸与斗杆夹角过大，油缸的动力无法有效传输给斗杆 。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212242281.gif)
+![Vol/Vol.161 挖掘机驾驶指南/4.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.161%20挖掘机驾驶指南/4.gif)
 
 为了使油缸推力最大，按照教程，尽量让斗杆油缸和斗杆之间夹角保持 90° ，同时调整铲斗角度与地面成 30° 以减小切土阻力。挖掘时，保持斗杆在远侧 45° 至内侧 30° 范围内。
 
 如果土质较硬，可以先将铲斗切入土中三分之一，然后提升大臂，用大臂力量将土破碎后挖出。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212242739.gif)
+![Vol/Vol.161 挖掘机驾驶指南/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.161%20挖掘机驾驶指南/5.gif)
 
 如果土质较松，可以增大铲斗与地面角度至 60°，一边降大臂，一边收斗杆，使铲斗的三分之二切入地面后开挖，这样能够提高 20% 的挖土效率。
 
 接下来，你可以开始挖一条沟。如果你一下一下地挖，老板一定让你回家。经验丰富的老司机通常会使用复合动作，左右配合，行云流水，由浅及深，分 7 个步骤，将土层层挖出，最后将底部整平。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212243272.png)
+![Vol/Vol.161 挖掘机驾驶指南/6.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.161%20挖掘机驾驶指南/6.png)
 
 在沟槽的两边，还需要挖这样的坡，目的是为了防止土体塌方。不同的土质对坡度有不同的要求，以排水管道沟槽为例，坡度从 1 : 0.10 ~ 1 : 1.50 不等。
 
@@ -42,7 +42,7 @@
 
 不过只要你肯花钱，就能给挖掘机加装一套坡度控制系统。输入修坡的参数，就能让挖掘机瞬间变成大号游戏机，完成你儿时梦想。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212242895.gif)
+![Vol/Vol.161 挖掘机驾驶指南/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.161%20挖掘机驾驶指南/7.gif)
 
 但通往工地梦想的路上还有水管、沟渠这样的障碍，你还需要学会各种闯关技能。
 
@@ -50,7 +50,7 @@
 
 必须注意，开挖掘机是非常危险的工作。工地的地形复杂，稍有不慎可能机毁人亡，而很多事故往往与平衡有关。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212243496.gif)
+![Vol/Vol.161 挖掘机驾驶指南/8.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.161%20挖掘机驾驶指南/8.gif)
 
 虽然挖掘机看起来很稳，但如果将操作臂伸到一定长度，就会因为重心偏向一侧而失去平衡。当挖掘机履带离地高度达到轨距的 2% 时，就达到了「倾翻状态」。
 
@@ -58,7 +58,7 @@
 
 而当挖掘机工作时，铲斗的荷载和运动会加大履带的压力，一旦土体内部的剪力超过抗剪强度，就会发生塌方。此外，履带至少需要距离开挖边缘一米。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212242489.gif)
+![Vol/Vol.161 挖掘机驾驶指南/9.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.161%20挖掘机驾驶指南/9.gif)
 
 另外，平时多跟工友搞好关系，出门在外，毕竟还有些事是一台挖掘机搞不定的。
 
@@ -66,14 +66,14 @@
 
 矿场通常需要驾驶员有 3 年以上驾驶经验，薪资也更高，底薪便能上万，每挖一立方还有 0.1 ~ 0.2 元的提成。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212242596.png)
+![Vol/Vol.161 挖掘机驾驶指南/10.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.161%20挖掘机驾驶指南/10.png)
 
 按大型挖掘机铲斗的容量 2 ~ 3.5 立方计算，一个熟练挖掘机手一天能够挖 2000 ~ 3000 立方，光提成就有 200 ~ 300 元。加上底薪，月入 2 万也不是梦，但还是得擦亮眼，不要被骗。
 
 除了常见的挖掘机，矿场更有这种重达 700 吨，高 9.4 米的超大型挖掘机，铲斗容量达 34 m³，2 ~ 3分钟就能装满一辆 300 吨的矿车，一铲斗就赚几十元。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212242791.gif)
+![Vol/Vol.161 挖掘机驾驶指南/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.161%20挖掘机驾驶指南/11.gif)
 
 最后，还有一条最重要的建议，千万记住这些牌子，远离它们。万一实在不小心，记得按时吃饭，好好劳动，争取早日回归社会。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212242754.gif)
+![Vol/Vol.161 挖掘机驾驶指南/12.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.161%20挖掘机驾驶指南/12.gif)

@@ -26,7 +26,7 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NaaDTzt1fRB7Z4QWOsAmoba548R1sf5T1YxYhPT4WE56bnl76FAFtv5vSAAFPpvYhaC0EGNxMH3icPw.gif)
 
-根据 Hossein Maleki 等人的实验，当电池达到 167℃ 时，反应会突然加剧、电解液迅速分解燃烧，温度攀升，这被称为热失控。   
+根据 Hossein Maleki 等人的实验，当电池达到 167℃ 时，反应会突然加剧、电解液迅速分解燃烧，温度攀升，这被称为热失控。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaaDTzt1fRB7Z4QWOsAmoba58tdOumIawVliaxzDLvxTjkVUvvJhFHIgbeNbyX2PD8csbO1Hkj3F8icw.gif)
 

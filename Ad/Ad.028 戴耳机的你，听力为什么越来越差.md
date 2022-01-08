@@ -1,38 +1,34 @@
 # 回形针事务所 028：戴耳机的你，听力为什么越来越差？
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010456.png)
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/1.png)
 
 这里是回形针事务所，今天我们要研究的产品是 OPPO Enco Free2 降噪耳机。这款耳机支持个性化降噪，还你一片安宁。它是怎么做到这一切的？这期视频我们将分为三个问题来回答。
 
 每年 3 月 3 日是国际爱耳日，因为两个 3 形似一对耳朵。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010907.gif)
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/2.gif)
 
 世卫组织于今年的爱耳日发布了一份《世界听力报告》：这份 272 页的报告证实，目前听力损失正影响全球超 15 亿人，其中 4.3 亿人达到中度以上。这两个数字在未来几十年还将继续增加 1.5 倍。
 
-
-
 听力损失到底离你有多远？除了抽吸香烟、营养不良、病毒感染等之外，报告明确指出，噪声暴露是造成听力损失的重要因素，而一个很容易被忽视的噪声源，是你的耳机。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010524.gif)
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/3.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/3.gif)
 
 比如报告中特别提到的这样一个案例：这位 22 岁的小伙子在跑步机锻炼时，为了盖过跑步机发出的噪声，习惯戴耳机大声听音乐。
 
 由于「掩蔽效应」的存在，即想要屏蔽吵闹的声音就要用更吵的声音「以毒攻毒」，他最终面临永久性听力损伤。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010880.gif)
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/4.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/4.gif)
 
 比如地铁局部噪音最高可达 110 dB，如果你想听清耳机里的音频，就得把耳机音量调到更高，只需 10 分钟即可损害听力。
 
 那么第一个问题来了：
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010289.png)
-
-
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/5.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/5.png)
 
 如果以人的听阈为 0 dB 起点，那么风吹落叶沙沙声就有 10 dB，与他人日常交谈有 60 dB，繁忙的城市道路为 80 dB。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010108.gif)
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/6.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/6.gif)
 
 当代城市生活，耳机音量一不小心就容易超过 100 dB，而 100 dB 并非只是比 10 dB 落叶声大 10 倍这么简单。
 
@@ -40,27 +36,23 @@
 
 人耳刚好能分辨出来的声压为 0.00002 Pa，将这个值作为标准值，所求声压与标准值之比的以 10 为底的对数再乘以 20，才是分贝值。这也就是说，100 dB 实际的声压要比 10 dB 落叶声大 31700 倍。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010799.gif)
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/7.gif)
 
 如何才能更好地保护听力呢？随着 ANC 技术，即主动噪声消除近年来的民用化普及，人们看到了一个不错的选项。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010956.png)
-
-
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/8.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/8.png)
 
 要解释这个问题，首先得了解声音到底是怎么传递的。发声体的振动对空气造成扰动，具体在微观上的表现，就是空气粒子的间距产生周期性的、疏密交替的变化。
 
 密集时压强大，稀疏时压强小，这样的变化就是声压。那么，要实现降噪，就是要削弱声压之差、努力把空气粒子重新变得均匀。把耳机结构简化来说，关键是得靠扬声器的「振膜」。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151011544.gif)
-
-
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/9.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/9.gif)
 
 正常情况下，耳机内空气粒子间隔与大气粒子间隔应为一致。若探测到空气粒子有变稀疏趋势，说明此时正有一波声压小于 0 的空气在通过耳机，那么就要借助振膜向前压缩这一波空气，从而削弱这种趋势。
 
 相反地，若探测到空气粒子有变紧密趋势，说明此时正有一波声压大于 0 的空气通过，那么就要将振膜向后收缩让出更多空间。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010742.gif)
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/10.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/10.gif)
 
 这样，就可以通过振膜在原本的声波上叠加一段反向声波，进而两相抵消，实现降噪。
 
@@ -68,38 +60,38 @@
 
 比如在这篇研究中，比较多数正常外耳道和整体狭窄的外耳道，发现耳道狭窄程度越大、鼓膜位移振幅越低。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010088.jpeg)
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/11.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/11.jpeg)
 
 于是第三个问题来了：
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010612.png)
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/12.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/12.png)
 
 在声学传播过程中，对降噪效果影响最大的两条路径分别是噪声源到耳朵鼓膜的「主要路径 P(z) 」和耳机喇叭到耳朵鼓膜的「次级路径 S(z) 」，你最终听到的声音，便是这两路声音的叠加效果。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151012493.gif)
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/13.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/13.gif)
 
 但问题在于，现有技术既不能测得 P(z)，也不能测得 S(z)。
 
 对 P(z) 来说，耳机很难快速测出噪声源在哪儿，不同佩戴状态也会造成泄漏量差异；对 S(z) 来说，耳机也不可能拿到鼓膜前的最终声压。因此，P(z) 只能近似取前馈麦到后馈麦的路径，S(z) 只能近似取耳机喇叭到后馈麦的路径。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010558.gif)
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/14.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/14.gif)
 
 一些耳机产品会利用耳机中前馈麦实时监听外部环境，分析用户所处场景，从而自动匹配深度、均衡降噪等预设。
 
 但这并不能很好控制用户实际聆听体验。比如在这份某耳机的测试数据中，以完全自然空放和用手完全堵住耳塞播放为两个极端，测量出了各种截然不同的 S(z) 曲线，每个用户的佩戴结果都不一样，主要分布在这两个极端内。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010171.png)
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/15.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/15.png)
 
 而 OPPO Enco Free2 耳机采用的「个性化降噪」方案，核心算法主要基于 OPPO 采集的大量用户真实佩戴数据和上千组真耳模型。
 
 开启「个性化降噪」功能后，耳机会先建议用户处于相对嘈杂的环境下，这时前后馈麦会快速采集环境噪音和耳内噪音，结合声压差结果，三核处理芯片将自动分析用户耳机佩戴方式，从包含大量降噪方案的芯片数据库中匹配出最适合你的降噪方案，实现最大 42 dB 降噪深度，让你安安静静地一人独美。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010976.gif)
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/16.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/16.gif)
 
 根据 OPPO 耳机实验室数据，开启「个性化降噪」功能后，每个人的最大降噪深度相比于普通的主动降噪技术，平均都提升了 4 dB，甚至还录得了提升 10 dB 的最大值：
 
 如今，耳机音量过高正成为导致听力损失的重要因素。而听力损失带来的往往不止是丢失的声音，还有缺了一块的生活。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151010547.gif)
+![Ad/回形针事务所 028：戴耳机的你，听力为什么越来越差？/17.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20028：戴耳机的你，听力为什么越来越差？/17.gif)
 
 保护听力健康，或许可以更早一点开始。

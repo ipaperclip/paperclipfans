@@ -1,4 +1,4 @@
-## Vol.036 如何设计一个逼真的三维模型
+# Vol.036 如何设计一个逼真的三维模型
 
 画一条曲线，画很多条曲线，让曲线连接、旋转、平移，就能建出曲面，进而搭建出模型。今天的一切工业产品设计，需都要曲面建模完成产品的参数定义。
 
@@ -78,8 +78,6 @@ P 代表点的位置，包含 X，Y，Z 轴的坐标信息，P1 是这条直线�
 
 ![img](https://paperclip.host/static/U6yRaDu1NabeonUNQUgBITiafiauVVFe2T16gcLCI0lk7W7O32K63PHQia8pWiclFicE8RCtUQLQcPzsibwa9c6ZXoPQ.jpg)
 
-   
-
 为了生成曲线，我们需要先确定 n+1 个控制点，记作 Pi，让每个控制点与一个基函数相乘，再把结果相加，就可以获得参数 t 对应的 P(t) 坐标，连起来就是一条逼近控制点的曲线。  
 
 ![img](https://paperclip.host/static/U6yRaDu1NabeonUNQUgBITiafiauVVFe2TcUApBnWwfdeGYt2TUWhEGFv0SQVRTtiahlsg7IcdwwQ2oZX4h23jCDA.gif)
@@ -96,7 +94,7 @@ P 代表点的位置，包含 X，Y，Z 轴的坐标信息，P1 是这条直线�
 
 ![img](https://paperclip.host/static/U6yRaDu1NabeonUNQUgBITiafiauVVFe2TuK9N1Oe6GmqtdC7hjApMl0z7KOKqQzXSsmqsrRfLM0EQC6kp46XbJw.gif)
 
-而 B 样条则通过分段函数多次递归的方式解决了贝塞尔曲线的问题。可以看到，B 样条和贝塞尔的函数逻辑并无区别，但基函数和定义域 t 发生了变化。   
+而 B 样条则通过分段函数多次递归的方式解决了贝塞尔曲线的问题。可以看到，B 样条和贝塞尔的函数逻辑并无区别，但基函数和定义域 t 发生了变化。
 
 ![img](https://paperclip.host/static/U6yRaDu1NabeonUNQUgBITiafiauVVFe2TDmyqa9jPNQFA6cWLpCcrTJiar2ibMsQgYXpPTHkZqTOql2E87NjItqEQ.jpg)
 
@@ -130,7 +128,7 @@ P 代表点的位置，包含 X，Y，Z 轴的坐标信息，P1 是这条直线�
 
 ![img](https://paperclip.host/static/U6yRaDu1NabeonUNQUgBITiafiauVVFe2T59BOHXvOASF8yoOsAnaZWEaG1yt9q5qicSA4Wvt6N7mZficfEGHdBWLg.gif)
 
-之后，可以再计算得出 2 次基函数，N0,2 到 N3,2 。再计算出 3次基函数。N0,3，N1,3，N2,3，N3,3 。最后带入公式中，就可以算出 P(t)，得出整条曲线。   
+之后，可以再计算得出 2 次基函数，N0,2 到 N3,2 。再计算出 3次基函数。N0,3，N1,3，N2,3，N3,3 。最后带入公式中，就可以算出 P(t)，得出整条曲线。
 
 ![img](https://paperclip.host/static/U6yRaDu1NabeonUNQUgBITiafiauVVFe2TeXtXrAup0xsAjG7oPqTPvMP1UKH6vq9UeFjicx7olDuxOL0pn0ZmVPw.gif)
 
@@ -140,7 +138,7 @@ P 代表点的位置，包含 X，Y，Z 轴的坐标信息，P1 是这条直线�
 
 ![img](https://paperclip.host/static/U6yRaDu1NabeonUNQUgBITiafiauVVFe2TfTU34IcaZUdLQ6iaSODhHJ2GCHqnsA5qWrzziaiaOxicZnVQRpGfywSUibA.gif)
 
-在刚刚的例子中，节点之间的数值是相等的，所以也被称为均匀 B 样条。实际应用中，更常见的是节点间距不相等的非均匀 B 样条，让控制点获得更灵活的控制范围。   
+在刚刚的例子中，节点之间的数值是相等的，所以也被称为均匀 B 样条。实际应用中，更常见的是节点间距不相等的非均匀 B 样条，让控制点获得更灵活的控制范围。
 
 ![img](https://paperclip.host/static/U6yRaDu1NabeonUNQUgBITiafiauVVFe2T8b0R1XuMekiaLFdQPr2ibjmBsuFMrghWqwTuXPVD2WEEcXdzQWfyxvOw.gif)
 

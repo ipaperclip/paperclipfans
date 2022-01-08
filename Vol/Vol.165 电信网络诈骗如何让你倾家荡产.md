@@ -1,6 +1,6 @@
 # Vol.165 电信网络诈骗如何让你倾家荡产
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212231884.png)
+![Vol/Vol.165 电信网络诈骗如何让你倾家荡产/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.165%20电信网络诈骗如何让你倾家荡产/1.png)
 
 相识，相交，被骗。
 
@@ -8,7 +8,7 @@
 
 「采茶女」已是识别度很高的套路。在国家反诈中心公布的十大网络电信诈骗手段中，它甚至不在其列，却仍有人频频中招。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212231024.png)
+![Vol/Vol.165 电信网络诈骗如何让你倾家荡产/2.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.165%20电信网络诈骗如何让你倾家荡产/2.png)
 
 仅 2020 年一至十月，全国就累计出现 260 余种新诈骗手法。电信网络诈骗为何如此防不胜防，又难以消灭？
 
@@ -16,13 +16,13 @@
 
 以近两年臭名昭著的「杀猪盘」为例，就分「觅猪」、「养猪」和「杀猪」三步和「供料组」、「话务组」、「技术组」、「洗钱组」四组人马。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212231352.png)
+![Vol/Vol.165 电信网络诈骗如何让你倾家荡产/3.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.165%20电信网络诈骗如何让你倾家荡产/3.png)
 
 在「觅猪」阶段，「供料组」会一边在婚恋网站、社交软件等地方物色目标，主要为大龄单身男女或离异人士。一边准备大量不同长相、不同场景的照片以供使用，多的可达几千张。
 
 然后是编写人设脚本。以公安人员缴获的这份「杀猪攻略」为例，从名字、年龄、籍贯一直到成长往事、感情经历都有对应要求。西装革履的「海归金融男」叫「铁子」，说自己母胎单身就很扯。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212231307.png)
+![Vol/Vol.165 电信网络诈骗如何让你倾家荡产/4.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.165%20电信网络诈骗如何让你倾家荡产/4.png)
 
 锁定目标，接下来就是「养猪」。
 
@@ -30,13 +30,13 @@
 
 像毫无信息的封闭式聊天，除了「哦」「嗯」也没得回。所以要增加信息量，延展话题。故事细节越多，可信度越高。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212231166.gif)
+![Vol/Vol.165 电信网络诈骗如何让你倾家荡产/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.165%20电信网络诈骗如何让你倾家荡产/5.gif)
 
 一般这个过程会持续一到三个月，感情到位，就要切入主题「杀猪」。切入方式有很多，刚刚攻略里也有简单介绍，中心思想是自然地展示有赚钱的渠道。
 
 「技术组」后台操作改赔率改金额，洗钱组将资金转移，就完成了杀猪盘的全部流程。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212231858.gif)
+![Vol/Vol.165 电信网络诈骗如何让你倾家荡产/6.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.165%20电信网络诈骗如何让你倾家荡产/6.gif)
 
 以湖南省永州市这起诈骗案为例。在被害人黄女士视角中，她与一个自称「陈远」，人在深圳的 IT 男在网上相识相恋。对方声称知道赌博网站内幕，希望黄女士帮自己操作赚钱，而这恰恰是切入的开始。
 
@@ -44,46 +44,46 @@
 
 注册账号、充钱、赌博、赚钱，不断的盈利让黄女士放下戒心，逐渐上钩。在最后一次充入 125400 元后，网站失效人物失联，惨被杀猪，累计被骗 178900 元。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212232306.gif)
+![Vol/Vol.165 电信网络诈骗如何让你倾家荡产/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.165%20电信网络诈骗如何让你倾家荡产/7.gif)
 
 但从被告人郑某桥，也就是「陈远」的视角，就会发现选人、聊天、切入、修改金钱和赔率、杀猪，每一步都有精心设计和配合。
 
 而郑某桥只是八人团伙的一员，和他角色一样的还有其他五人。往上还有负责购买微信号，珍爱网号，操作网站赔率的中层吴某荣；和负责投资、洗钱的老板郭某德。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212231933.png)
+![Vol/Vol.165 电信网络诈骗如何让你倾家荡产/8.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.165%20电信网络诈骗如何让你倾家荡产/8.png)
 
 如果查看杨某或李某海的证词，会发现他们都用一样的手法和过程实施诈骗。
 
 如果把关系图再展开，会发现假赌博网站、微信号、银行卡都是找不同人买的，赃款是找人花 12% 的手续费洗的。而负责提供微信的郑某海也是从不同来源，以均价 3 元、均价 110 元购买过约两万个新申请的微信号，和一万四千个资料更丰富的老微信号。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212231438.gif)
+![Vol/Vol.165 电信网络诈骗如何让你倾家荡产/9.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.165%20电信网络诈骗如何让你倾家荡产/9.gif)
 
 同时，他还从另外三人手里以平均每条 5 元的价格买过五六千条包含身份证号的公民个人信息。各环节完备、产业化发展让诈骗的成本和门槛变得极低。
 
 据 2019 年的不完全统计，全国因杀猪盘被骗金额高达 1.3 亿，共 570 人，平均每人被骗 23 万。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212231595.png)
+![Vol/Vol.165 电信网络诈骗如何让你倾家荡产/10.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.165%20电信网络诈骗如何让你倾家荡产/10.png)
 
 甚至有诈骗分子扬言自己是特种兵「龙组」成员。
 
 刚刚只是小团伙，很多团伙已开始公司化运行。设总公司，为组织的核心机构；分公司，负责具体业务。总公司下设「前台」、负责提供各类综合服务。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212231581.png)
+![Vol/Vol.165 电信网络诈骗如何让你倾家荡产/11.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.165%20电信网络诈骗如何让你倾家荡产/11.png)
 
 「后台」分为技术和财务，负责赌博网站日常维护更新和提供最新收款银行卡。「分公司」则采取业务承包制，设置代理、组长、小组长和最底层组员。
 
 比如「4·29」专案中一个团伙就下设 60 多个代理。组员第一个月底薪 6000 元，第二个月业绩达 3 万元才能拿 6000 元底薪，超过 3 万的部分算提成，逐级递增。小组长、组长按本组总业绩提成，扣除支出后都归代理。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212231459.png)
+![Vol/Vol.165 电信网络诈骗如何让你倾家荡产/12.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.165%20电信网络诈骗如何让你倾家荡产/12.png)
 
 麻烦的是，这些组织大多集中在菲律宾马尼拉、柬埔寨西哈努克市、老挝金三角经济特区、中缅边境等赌博猖獗的地区，打击难度巨大，这也是「前台」会有护照、签证业务的原因。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212232747.png)
+![Vol/Vol.165 电信网络诈骗如何让你倾家荡产/13.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.165%20电信网络诈骗如何让你倾家荡产/13.png)
 
 杀猪盘只是五花八门诈骗手段的一个而已，这之外的每一种手法都自带复杂的组织流程和产业链。从小就网络冲浪的你，可能觉得骗不到你，不屑一顾。
 
 但根据中国信通院的报告，「90后」其实才是主要被诈群体，占比高达 63.7%，「70后」才 8.1%，而各类养生亲戚群的主力「60后」只占电信网络诈骗被骗人群总数的 3.4%。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212232804.png)
+![Vol/Vol.165 电信网络诈骗如何让你倾家荡产/14.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.165%20电信网络诈骗如何让你倾家荡产/14.png)
 
 比如北京的李阿姨就火眼金睛，当场反杀。

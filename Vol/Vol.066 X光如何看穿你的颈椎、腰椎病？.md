@@ -20,7 +20,7 @@ X 光可以快速看出你的脊椎是直是弯。
 
 ![img](https://paperclip.host/static/U6yRaDu1NabicGXIU8CMem4R6O2NsXQk1QxfhS4AQ99UjDye7pbLDTH8O30y0mQOSl0DibhgR8sensakiaqWTdDdQ.gif)
 
-在阴极的这个位置，装有钨制灯丝，单独接入 6~12V 的低压电，像灯泡一样发光发热并放出高能电子，温度越高，电子越多。
+在阴极的这个位置，装有钨制灯丝，单独接入 6&#126;12V 的低压电，像灯泡一样发光发热并放出高能电子，温度越高，电子越多。
 
 ![img](https://paperclip.host/static/U6yRaDu1NabicGXIU8CMem4R6O2NsXQk1jeZE4dOsWIFmaYktue1ZOypYGUlkuHqQxDpibwrxuK1mLXQS0wbxCug.gif)
 
@@ -52,7 +52,7 @@ X 光能穿透人体，但体内不同密度的组织会让 X 光不同程度地
 
 ![img](https://paperclip.host/static/U6yRaDu1NabicGXIU8CMem4R6O2NsXQk1CCHsSibgpIXbqa8xP40JwfWMJBDvSMEQc4KUOutCczw5IXoCy6smEbA.gif)
 
-我们先看颈椎，从第二椎体的齿状突上缘至第七椎体下缘连线，画出一个弓形。正常情况下，弓顶在第五椎体上缘，且到连线的距离约 7~17mm 。
+我们先看颈椎，从第二椎体的齿状突上缘至第七椎体下缘连线，画出一个弓形。正常情况下，弓顶在第五椎体上缘，且到连线的距离约 7\~17mm 。
 
 ![img](https://paperclip.host/static/U6yRaDu1NabicGXIU8CMem4R6O2NsXQk1lBTdhXvGDkfr58fbSwdc9qu6TPGibIxfrwy6Tw8Ew2Vl1T4Sd1zjJ6g.gif)
 
@@ -103,8 +103,6 @@ X 光能穿透人体，但体内不同密度的组织会让 X 光不同程度地
 ![img](https://paperclip.host/static/U6yRaDu1NabicGXIU8CMem4R6O2NsXQk1ibz8Via3j1G1POM3ckviazQLlkfwIVPPzoMbRzqQW00ROicTQPWrrweiciaQ.gif)
 
 同样，对于复杂图案，滤波反投影后也能还原出更清晰的边界。
-
- 
 
 需要注意，CT 截面重建的核心数学原理是拉东变换和傅里叶切片定理，过程非常曲折，你可以在我们的微信公众号后台回复“ CT ”获取相关资料。
 

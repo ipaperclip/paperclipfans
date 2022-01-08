@@ -4,13 +4,13 @@
 
 这一个月，我们回顾了过去 2 年制作的 100 多期视频，发现了不少问题。但相比问题本身，我们其实更关心这些问题是怎么发生的。所以接下来，我会仔细梳理回形针的视频创作流程，看看我们都会在什么环节犯错。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221442841.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/1.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/1.jpeg)
 
 我们的工作目标很简单——把一个平凡的问题讲清楚。
 
 无论是卫生纸、圆珠笔，还是烟花、硬盘和毛衣，当代生活的一切的普通事物都可以成为我们的研究对象，而为了讲清楚，我们则需要把一个话题，拆分成大量的小问题。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221442555.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/2.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/2.jpeg)
 
 比如看到菜刀，我们就要想到刀具的分类、定义和量化指标；进而延伸出关于硬度、韧性、保持性的定义和检测标准；而硬度又分为刻划硬度、压入硬度和回弹硬度，对应莫氏硬度、洛氏硬度、里氏硬度等几种不同的测量方案，其中评价菜刀最常用的是洛氏硬度；如果要进一步讨论洛氏硬度，则需要研究钢的各种形态，比如马氏体和奥氏体，以及锻造过程中的工艺和物理、化学原理。
 
@@ -20,7 +20,7 @@
 
 这是我们研究一个话题的常见框架，通过拆分问题，得到一个事物的底层结构技术和其背后产业链的完整图景。但是当我们真正开始研究和收集资料的时候，就会开始遇到问题了。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221442198.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/3.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/3.jpeg)
 
 收集资料的关键在于快速找到可靠的信息，这其实是有方法的。
 
@@ -34,19 +34,19 @@
 
 但找到材料并不意味着稳了，实际上，这些信息里仍然存在错误的可能。比如技术手段过于简陋的专利、测量方法过时的标准、与现实情况普遍不符的指导文件。而期刊和论文，还需要注意来源。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221442217.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/4.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/4.jpeg)
 
 比如这期白噪音的视频中，我们引用了这篇刊登于 Medicine 的论文。Medicine 这份期刊虽然被 SCI 收录，但由于从 2015 年开始加大发文量，影响力因子暴跌，也让不少人开始质疑收录论文的可靠性。
 
 但无论如何，源头的信息一定比下游的信息可靠，有来源的信息一定比没来源的信息可靠。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221442990.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/5.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/5.jpeg)
 
 源头意味着最少的修饰和篡改，而信息被转手的次数越多，就越容易变形，所以你如果看到叠了无数层水印的截图、聊天记录和看似专业的分析时，其实可以问一句：请求来源。
 
 可靠的信息来源是如此重要，所以回形针的视频才会一遍又一遍的展示用到的文件。我们想表达的是，我们之所以知道，是因为我们看了这些材料，不是我们本来就知道。而这些材料，你们也可以找到。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221443542.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/6.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/6.jpeg)
 
 在大量原始材料和信息的基础上，我们需要构建这个话题的叙事逻辑。
 
@@ -54,15 +54,15 @@
 
 但在各种逻辑关系中，最难的是建立因果关系。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221443860.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/7.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/7.jpeg)
 
 我们知道公鸡打鸣和太阳升起有相关，抽烟和罹患肺癌也有相关，数据可以告诉我们相关性，但是如果要证明因果，就需要有连接逻辑链条的中介物，同时排除其他变量的影响。但难度就在于，我们并不知道有多少未知变量影响了结果。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221445771.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/8.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/8.jpeg)
 
 一个典型的例子是「低出生体重悖论」(Low birth weight paradox)，简单来说就是在出生体重低于 5 斤的低体重婴儿中，如果母亲吸烟，那么婴儿的存活率会高于不抽烟母亲的婴儿。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221446248.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/9.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/9.jpeg)
 
 难道抽烟对婴儿有好处吗？当然不是。
 
@@ -74,15 +74,15 @@
 
 而在有无穷个变量的现实世界里，还有更多让人迷惑的数据。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221446505.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/10.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/10.jpeg)
 
 比如在这份加州大学伯克利分校 1973 年的招生数据中，男生录取率是 44%，比女生的录取率 35% 要高出不少。看起来明显存在针对女性的性别歧视。
 
 但事实恰好相反。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221446724.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/11.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/11.jpeg)
 
-如果我们仔细看 6 个最大学院的招生情况，就会发现其实大部分学院的女生录取率都比男生更高。那为什么加起来会比男性低呢？因为大多数女生都选择了更难被录取的学院，而大多数男生选择了容易申请的 A、B 学院，所以男生录取率当然更高。         
+如果我们仔细看 6 个最大学院的招生情况，就会发现其实大部分学院的女生录取率都比男生更高。那为什么加起来会比男性低呢？因为大多数女生都选择了更难被录取的学院，而大多数男生选择了容易申请的 A、B 学院，所以男生录取率当然更高。
 
 这就是建立因果逻辑的困难之处，不同的视角和信息，会得出不同的结论。
 
@@ -90,23 +90,23 @@
 
 这本来会是一个非常有意义的话题，因为在人工降雨技术应用中，相比增加降雨，调节降雨的时空分布才是更重要的目的。但我们只研究了降雨和增雨的相关性就做成了视频，错过了这个话题真正有价值的部分。很惭愧，如果有机会，我们也希望望能在未来重新制作关于人工降雨的话题。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221446251.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/12.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/12.jpeg)
 
 当我们开始创作视频的文字稿时，一条重要原则是尽可能避免啰嗦、废话和听不懂的专业名词。
 
 比如在描述如何通过光抽运改变铯原子的能量状态时，准确来说应该是这样：
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221447922.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/13.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/13.jpeg)
 
 我们当然可以直接说抽运区、跃迁线、 F=3，看起来也挺酷的，但如果观众听不懂的话，再准确也没有任何意义。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221447965.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/14.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/14.jpeg)
 
 所以我们将其简化成了只有 abc 三个能量状态，以便更直观地用动画演示，帮助观众理解。
 
 另一个挑战是，我们希望在文本里提供尽可能丰富的细节。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221447657.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/15.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/15.jpeg)
 
 比如描述暖气水温度时，我们不会说「二级管网经热力站加热出高温水后送入各家各户，散热降温后再回热力站重新加热」，而是描述为更具体的 60℃ 和 50℃ 。
 
@@ -114,11 +114,11 @@
 
 完成初稿后，我们会在编辑环节核对事实，精简文本，删掉每一句我们觉得可能多余的话，就能得到一篇 1500 字左右的逐字稿，做成视频差不多是 5 分钟。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221447620.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/16.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/16.jpeg)
 
 对于回形针来说，可视化的关键在于提高信息密度和信息传递效率。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221447033.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/17.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/17.jpeg)
 
 为了做到这两点，我们选择在视频里呈现真实世界的材质、场景、案例和物理法则，通过线框绘图或三维模型的结构动画演示呈现出文字难以高效表述的逻辑。
 
@@ -128,29 +128,29 @@
 
 以飞机调度的这期视频为例，中间有一段文字稿大意是描述北京飞上海航班 HU7603 起飞离场的过程。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221447230.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/18.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/18.jpeg)
 
 这句话读出来，或者直接把文字信息做个图放在视频里比较是简单也不会出错的，但如果要在画面上还原 HU7603 的真实飞行路线，难度就大了。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221447974.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/19.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/19.jpeg)
 
 首先，我们需要找到中国民航发布的航路图，并在这个模拟飞行数据库网站找到从首都国际飞往上海虹桥的完整路线。可以看到，飞机离开机场后先到达了 LADIX 这个航路点，但这个过程并不是直线飞行，所以我们需要知道 HU7603 具体是怎么飞到 LADIX 的。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221447376.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/20.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/20.jpeg)
 
 于是，我们又找到了 2019 年更新的首都国际机场标准离场路线图，这上面有具体路线，但问题又来了，图上根本没有 LADIX 这个点。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221448023.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/21.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/21.jpeg)
 
 为了核实，我们又在一个记录航班飞行航路的网站上查找北京飞上海的航路，发现了一条新线路，飞机并没到 LADIX，而是到了 ELKUR，而这个 ELKUR 确实出现在了首都国际机场的标准离线路线图中。
 
 继续搜索，我们发现中国在 2019 年调整了空域、航路、航线，北京飞上海调整为从 ELKUR 离场，这么看来似乎 ELKUR 才是 HU7603 经过的航路点，而不是 LADIX。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221448882.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/22.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/22.jpeg)
 
 为了进一步核实，我们又找到了 HU7603 在 2019 年 12 月 6 日的飞行路线，叠在标准离场路线图上，结果是，HU7603 根本没有经过 ELKUR。我们不得不又把方向重新换回 LADIX。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221448120.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/23.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/23.jpeg)
 
 最后，在航空信息提供商杰普逊公司发布的 2008 版首都国际标准离场路线图上，我们终于看到了 LADIX。接着又找到了 2018 版的标准路线图，也是到 LADIX，但具体路线又跟 08 版的有所不同。
 
@@ -158,11 +158,11 @@
 
 现在，我们才能向观众呈现真实世界里的航线。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221448144.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/24.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/24.jpeg)
 
 但遗憾的是，由于沟通失误，分镜师还是使用了旧的 08 版路线图作为参考。而且事后我们也发现 HU7603 每天具体的离场路线都不太一样，所以最终画面跟真实情况还是有差距。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221448772.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/25.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/25.jpeg)
 
 这就是回形针的视频制作流程，完成这五步大概需要三周，之后就是修改，修改节奏修改素材修改分镜修改错误。
 
@@ -170,17 +170,17 @@
 
 有理解和沟通不当产生的错误，比如我们给顶面的水管开过槽，让正面的膝关节左右摆动，把气门的开启做成了关闭。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221448228.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/26.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/26.jpeg)
 
 还有很多因为粗心导致的低级错误，比如化学式画错、英文单词拼错、单位错误、不对的配图、图片标注错误、地图标注的漂移，而在这个关于放映机内部结构的三维镜头中，我们把胶片上数字顺序搞反了。
 
-还有各种尴尬的口误 
+还有各种尴尬的口误
 
 确实很惭愧。这也让我们不得不接受一个让人沮丧的事实，我们几乎无法避免错误。
 
 对于回形针来说，每一期视频都像一场考试，我们在规定的时间里提问、学习、答题、检查、交卷。即使我们反复检阅，也只有交给观众审阅之后，我们才能知道考得好不好。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221448961.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/27.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/27.jpeg)
 
 过去一个月，在我们和观众朋友们严格的逐帧审阅后，我们知道，过去的 120 期视频中，大多数其实考得还行。即使在路灯、助听器、CT、DJ、基因检测这些技术从来没有被可视化过的小众领域，也得到了行业的认可。
 
@@ -194,25 +194,25 @@
 
 但选择性事实却可以轻松地忽视我们过去 2 年的努力。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221448899.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/28.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/28.jpeg)
 
 如果你只看回形针最糟糕的几期视频，看起来就是一个很糟糕的频道，就像忽视视频里 5 秒正确地图，只看 0.5 秒的问题地图一样。选择性事实总是可以高效地吸引注意力，而谣言进一步放大了选择事实的倾向。
 
 我们故意做了内外网两个版本的视频吗？假的。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221449564.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/29.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/29.jpeg)
 
 我们有内外网双标题吗？假的。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221449617.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/30.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/30.jpeg)
 
 我们视频里有让中国人不吃肉吗？假的。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221449250.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/31.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/31.jpeg)
 
 台湾是中国的一部分吗？当然是！
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221449451.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/32.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/32.jpeg)
 
 为了防止地图出错，去年 9 月我们就写了这份需要同事们多次对比检查的规范文档，这一个月，我们在这份规范文档的基础上改进设计了一份更全面的，给设计师和视频制作者们的标准中国地图规范，你可以在公众号回复「中国地图」获取这份文件。
 
@@ -228,7 +228,7 @@
 
 我们珍惜每一次和观众沟通交流的机会，因此我们反对那些简单粗暴的标签。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221449486.jpeg)
+![Sp/Sp.006 幕后故事：回形针是怎么做视频的/33.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.006%20幕后故事：回形针是怎么做视频的/33.jpeg)
 
 无论是「粉红」「五毛」，还是「公知」「美分」，或者是「孝子」「水军」「屁股」和「蛆」，这些标签以污名化的方式强行制造对立，断绝了理性沟通可能性。它不能帮助你理解这个复杂世界，也不能帮助你理解屏幕背后那些活生生的人。
 

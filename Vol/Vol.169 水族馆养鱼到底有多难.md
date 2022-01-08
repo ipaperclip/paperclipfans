@@ -1,10 +1,10 @@
 # Vol.169 水族馆养鱼到底有多难
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212157587.png)
+![Vol/Vol.169 水族馆养鱼到底有多难/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/1.png)
 
 这是位于迪拜购物中心内的迪拜水族馆，在这个长 51 米，宽 20 米，高 11 米的水池中，装了 1000 万升海水，生活着 140 种共计 33000 多条鱼。这些鱼儿看起来悠闲自在，但要想养活它们其实难上加难。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212159157.gif)
+![Vol/Vol.169 水族馆养鱼到底有多难/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/2.gif)
 
 水是水族馆的头号大事。
 
@@ -12,7 +12,7 @@
 
 例如，在其饲养的 400 条鲨鱼中，有来自印度洋-西太平洋区的斑鲨，它们生活的海水盐度约为 32‰~36‰，而波斯湾则为 38‰~40‰。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212157308.jpeg)
+![Vol/Vol.169 水族馆养鱼到底有多难/3.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/3.jpeg)
 
 如果直接使用，盐度的突变会使鱼类腮部多种酶活性改变，导致死亡。所以，需要将海水稀释后才能使用。
 
@@ -20,13 +20,13 @@
 
 天然海水中除了盐，还有镁、硫、钙等 90 多种元素。根据这份配方，你可以自己在家尝试用淡水调制人工海水。但也有更简单的办法，那就是成品海水素。得益于它的发明，在淡水充足的地区，人工海水的成本甚至低于使用天然海水。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212157716.png)
+![Vol/Vol.169 水族馆养鱼到底有多难/4.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/4.png)
 
 水族馆里最壮观的，莫过于混养着数十种鱼的展示池了，大鱼小鱼共处一室，如何让它们和平共处？
 
 为了避免大鱼吃小鱼，在购买新鱼时，尽量选择和现有体型大小差不多的鱼。但还是要参考这份鱼种兼容表，避免鱼之间的冲突。其次，如果鱼从幼年时就生活在一起，即使成年后也不容易互相攻击。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212159384.gif)
+![Vol/Vol.169 水族馆养鱼到底有多难/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/5.gif)
 
 对于天生的掠食者，例如鲨鱼，解决办法也很「粗暴」：喂饱它们。潜水员会单独给鲨鱼喂食，同时用标志物刺激，以训练鲨鱼在固定时间进食。
 
@@ -34,29 +34,29 @@
 
 鱼缸水的污染源主要是鱼粪和饵料。鱼群的粪便，在水中被降解为离子铵和非离子氨，使鱼死亡。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212159754.png)
+![Vol/Vol.169 水族馆养鱼到底有多难/6.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/6.png)
 
 一些亚硝酸菌能够将氨氮降解为亚硝酸盐，亚硝酸盐仍具有较强毒性，还需要硝酸菌进一步降解成低毒的硝酸盐。
 
 亚硝酸菌和硝酸菌就称为硝化细菌。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212157585.png)
+![Vol/Vol.169 水族馆养鱼到底有多难/7.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/7.png)
 
 随着时间增加，低毒的硝酸盐也会慢慢积累，依然威胁着鱼的生存，这时需要通过反硝化反应去除。
 
 反硝化并不是硝化反应的逆过程，而是由反硝化细菌将硝酸盐分解为氮气排除水体的过程，硝化和反硝化系统，就是鱼类饲养最基本的生态系统。为了建立这个生态系统，我们需要环境中有硝化和反硝化细菌。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212157092.png)
+![Vol/Vol.169 水族馆养鱼到底有多难/8.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/8.png)
 
 普通的养鱼爱好者会向缸中放入带有微生物的死亡珊瑚，也就是「活石」。而水族馆则会使用大号的生物过滤器，这类生物过滤器使用陶土、聚丙烯等材料，能够为硝化和反硝化细菌提供生长环境。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212157373.png)
+![Vol/Vol.169 水族馆养鱼到底有多难/9.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/9.png)
 
 一座水族馆每天需要投喂鱼群总重 3% 的饵料，这些饵料的残渣和一些不溶性的氨基酸、碳水化合物等残留物质也会成为污染源。
 
 这些物质一部分会被潜水员吸走，吸不走的还得靠蛋白质分离器。蛋白质分离器通过产生大量小气泡吸附水中的固体悬浮物、粘性胶体等，从而排出杂质。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212158651.png)
+![Vol/Vol.169 水族馆养鱼到底有多难/10.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/10.png)
 
 合格的水质只是水族馆的基本修养，真正分出高下的，在于养活难养的海洋生物。
 
@@ -64,15 +64,15 @@
 
 虫黄藻是一种单细胞藻类，被珊瑚虫吞噬后，能形成互惠互利的共生关系。虫黄藻能够进行光合作用，光合作用的产物一部分自用，一部分提供给珊瑚虫，同时从珊瑚虫那里获取必需的二氧化碳、氮、磷等物质。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212158500.gif)
+![Vol/Vol.169 水族馆养鱼到底有多难/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/11.gif)
 
-维持这种微妙关系的最佳温度为 25~29℃，如果低于 25℃，虫黄藻就会离开珊瑚虫，而高于 32℃，虫黄藻将大量爆发，此时它光合作用的产物都将用于自身的繁殖，不再提供给珊瑚虫。
+维持这种微妙关系的最佳温度为 25\~29℃，如果低于 25℃，虫黄藻就会离开珊瑚虫，而高于 32℃，虫黄藻将大量爆发，此时它光合作用的产物都将用于自身的繁殖，不再提供给珊瑚虫。
 
 光照不足或过强，水中铜、锌含量升高，虫黄藻的光合作用都会受到抑制，导致珊瑚白化死亡。
 
 水族馆有一套复杂的系统来维持这些苛刻的条件，称为「生命维持系统」，通过管道相连，昼夜不停地循环处理池里的水。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212158883.png)
+![Vol/Vol.169 水族馆养鱼到底有多难/12.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/12.png)
 
 为了饲养一些深海鱼，水族馆还需要一些特殊的设施。深海鱼生活在海面 200 米以下，在浅水中会出现减压症。
 
@@ -80,16 +80,16 @@
 
 虽然养殖珊瑚、深海鱼等物种对水族馆要求更高，但大多数人去水族馆，还是更希望看到大型海洋哺乳动物。海洋哺乳动物通过肺呼吸，对水质要求不如用腮呼吸的鱼类，却比鱼类更能吸引观众。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212159390.gif)
+![Vol/Vol.169 水族馆养鱼到底有多难/13.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/13.gif)
 
 全世界有 58 个国家和地区的 300 多座水族馆圈养鲸、豚类哺乳动物。然而对于这类智力水平和社会性都较高的动物来说，圈养环境实在太过狭小，极易造成行为异常。
 
 2013 年，住建部印发了《全国动物园发展纲要》，明确禁止动物表演。在世界范围内，抗议「圈养鲸豚」的声音也越来越强。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212158759.gif)
+![Vol/Vol.169 水族馆养鱼到底有多难/14.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/14.gif)
 
 2019 年，上海长风海洋世界将圈养的白鲸运至冰岛放生。
 
 比起观看水箱中的海豚和鲸，在自然环境中平等地与它们见面，或许是了解和欣赏这些美丽生命的更好方式。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212158814.gif)
+![Vol/Vol.169 水族馆养鱼到底有多难/15.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.169%20水族馆养鱼到底有多难/15.gif)

@@ -4,7 +4,7 @@
 
 他们凭借为千万国人量身定制积累下的身材数据，设计出更适合中国人体型的西服。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320246.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/1.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/1.jpeg)
 
 西服是怎么做出来的？为什么报喜鸟西服可以如此贴合你的身体？
 
@@ -12,19 +12,19 @@
 
 量体常见的做法是在人体体表设定测量基准点。将这些基准点连接在一起，即可获得基准线。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320888.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/2.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/2.jpeg)
 
 这些点、线将多面体分割成不同的平面，为量体提供了锚点。
 
 以背长为例。测量时，我们需要先找到位于腰部最细处的腰围线，再找到位于颈后第七颈椎骨的颈后点。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320042.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/3.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/3.jpeg)
 
 将卷尺置于点和线之间，就能测量出准确的背长。以此类推，就能测量出人体各部位的身材数据。
 
 这些身材数据就能推算出服装号型。服装号型由身高、胸围、胸腰差组成。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320831.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/4.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/4.jpeg)
 
 比如这位男士的号型就是 175/96A。在积累了大量的体型数据后，我们根据服装号型对它们进行分类。
 
@@ -32,61 +32,61 @@
 
 数据量越大，选出的身材就越有普适性。他们在肩、腰、手臂等部位的差异，都需要在成衣上得到体现。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320258.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/5.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/5.jpeg)
 
 为此，我们需要根据身材数据计算出服装规格，也就是服装各部位的长宽，比如领围、袖长。
 
 想得到这些数字，我们需要把人体身高、胸围代入公式。
 
-比如在设计西服袖子时，我们会将袖口宽度设定为 0.1 * (胸围 + 内衣厚度) + 4~5 cm，而袖长则是 0.3 * 身高 + (8~9) cm + 1.2 cm。
+比如在设计西服袖子时，我们会将袖口宽度设定为 0.1 \* (胸围 + 内衣厚度) + 4\~5 cm，而袖长则是 0.3 \* 身高 + (8\~9) cm + 1.2 cm。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320615.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/6.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/6.jpeg)
 
 其中，0.3 是袖长与身高的大致比例，由设计经验与人体测量学成果得来。
 
-8~9 cm 的加长，让西服袖长小于衬衫，从而露出一小截衬衫，显得更加美观。
+8\~9 cm 的加长，让西服袖长小于衬衫，从而露出一小截衬衫，显得更加美观。
 
 最后，我们还需要预留 1.2 cm 的长度，为垫肩留足空间。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320425.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/7.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/7.jpeg)
 
 利用公式，我们就能计算出服装各部位规格，得到这样一张规格清单。
 
 接下来，我们还需要根据上面归纳出的三类身材，对数字进行微调。
 
-这是报喜鸟提供的三份 175/96A 的西服上衣规格，三件西服的各部位尺寸出现了 1~3 cm 的差异。
+这是报喜鸟提供的三份 175/96A 的西服上衣规格，三件西服的各部位尺寸出现了 1\~3 cm 的差异。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320439.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/8.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/8.jpeg)
 
 以为胸、腹更为饱满人士设计的舒适版西服为例。设计师人为调大了胸围计算公式中的活动数字，以便西服不会过于紧身。
 
-而在针对偏瘦身材的修身版中，活动数字则落在了 6~8 之间。这一做法被称为加减放量。
+而在针对偏瘦身材的修身版中，活动数字则落在了 6\~8 之间。这一做法被称为加减放量。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320842.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/9.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/9.jpeg)
 
 更细微的调整主要集中于肩、袖等部位。以衣袖为例，它由两片布料组成，最高点称为袖山，与袖窿相连接。
 
 体型饱满的人群更重视活动自如，因此在给他们设计舒适版西服时，袖窿、袖山、袖肥都需加大，从而加大了袖子的放松量，保证了更大的活动空间。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320968.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/10.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/10.jpeg)
 
 完成数据的确认和微调后，我们就可以开始制版了。传统制版通常是设计师手绘出图样。
 
 从纸面右上角开始，向下画一条长度等于后衣长的直线。然后根据公式，确定胸围线、中腰线、臀围线的位置。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320991.gif)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/11.gif)
 
 在确定了这些经纬度后，设计师就可以逐步绘制出衣身、衣领、衣袖的具体尺寸。
 
 以衣领为例，先从起点向左走一个后领围的长度，然后向上走 1/3 后领围 - 0.3 cm 的长度。用曲线连接起点和终点，就能画出后领的样式。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320191.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/12.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/12.jpeg)
 
 只要熟悉公式，你就可以像小乌龟一样，在纸面上爬出一件上衣的版型。
 
 有了这张结构图，我们就可以进行布料的剪裁，对得到的衣身、衣领、衣袖等部位进行排料。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112321797.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/13.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/13.jpeg)
 
 这些位于西服最外层的布料，被称为面料。在它的背后，则是衬料和里布。其中，衬料极大地影响了西服的造型。
 
@@ -94,27 +94,21 @@
 
 这种工艺使用的衬料，通过纤维上面喷涂胶粒制成。将它和衣片重叠加热，融化的黏胶让两片布料粘在一起，再缝制加固。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320306.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/14.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/14.jpeg)
 
 通过在胸、肩等不同区域的堆迭，衬里得以「撑」起西服。
-
-
 
 而报喜鸟西服则主要采用半毛衬工艺：在粘合衬的基础上，将黑炭衬等含毛量更高的衬料缝在前胸到驳头上。黑炭衬主要以驼毛为经，羊毛为纬。
 
 相比粘合，手工纤缝可以更好地发挥黑炭衬垂坠性强、富于弹性的特点，让这块毛衬完全撑起西服的造型，同时避免过量粘合带来的缩水、起泡等问题。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320367.jpeg)
-
-
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/15.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/15.jpeg)
 
 里子有了，下一步就需要处理面子，让作为西服「外壳」的面料更好地适应衬里的造型。为此，我们需要对衣身进行归拔处理。
 
 所谓归拔，指的是通过对衣片某个部位加湿、加热，进行归拢或拔开，再冷却定型，使其呈现或凸出或凹陷的效果。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320354.jpeg)
-
-
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/16.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/16.jpeg)
 
 归拔要求织物伸展、拉伸性能更好，通常采用羊毛量较高的面料。
 
@@ -122,15 +116,14 @@
 
 不过，这还只是报喜鸟为了让西服更适合中国人体型，所做努力的冰山一角。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320343.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/17.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/17.jpeg)
 
 你必须非常仔细，才能在层层的布料下找到设计师埋藏的细节，理解他们为了让这件衣服更合身所花费的心思。
 
 因此，下次购买西服时，别光顾着看面料这些显而易见的地方，而是把衣服翻过来，摸摸它的衬料、肩垫，再多加试穿。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112320753.jpeg)
+![Ad/回形针事务所 017 - 为什么你的西服总是不合身？/18.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20017%20-%20为什么你的西服总是不合身？/18.jpeg)
 
 只有这样，你才能够挑选到一件真正属于自己的西服。
 
 而这，就是对设计师最好的褒奖。
-

@@ -1,8 +1,8 @@
-
+# Df.002 我们做了个公开成本的 T 恤套装
 
 嗨，我是吴松磊。欢迎来到干燥工厂的全新栏目——提前动手。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151037716.png)
+![Df/Df.002 我们做了个公开成本的 T 恤套装/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/1.png)
 
 去年年底我向大家介绍过我们的实体产品项目，希望深入到工厂和流水线，理解一款消费品到底是怎么被设计和生产出来的。
 
@@ -10,7 +10,7 @@
 
 首先向大家汇报的是，上一期视频向大家介绍的提前动手第一款产品「很钢镜」，已经收到了超过 7000 位观众的 1 元订金支持，谢谢大家！我们可以有信心把它做出来了！
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151037698.jpg)
+![Df/Df.002 我们做了个公开成本的 T 恤套装/2.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/2.jpg)
 
 很钢镜大概会在 7 月正式发售，希望你喜欢。
 
@@ -18,7 +18,7 @@
 
 接下来，要隆重介绍的是，提前动手的第二款产品——T 恤研究套装。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151037986.jpg)
+![Df/Df.002 我们做了个公开成本的 T 恤套装/3.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/3.jpg)
 
 特点是这三件 T 恤是虽然看起来一样、材料也都是纯棉，但是面料参数却很不同，而且，我们还会直接公布这款三件 T 恤的订货成本，让你直观感受不同成本 T 恤之间的差异。
 
@@ -28,51 +28,51 @@
 
 对于相同原材料的纯棉 T 恤来说，非常重要的两个指标是「支数」和「克重」。「支数」体现纱线的粗细程度，「克重」可以理解为面料的密度。简单来说，支数越高，面料会越光滑细腻，克重越高，面料就越厚实耐穿；支数和克重越高，成本越高。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151037715.png)
+![Df/Df.002 我们做了个公开成本的 T 恤套装/4.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/4.png)
 
 今天时间有限，我就不展开了，回形针未来会做一个视频，更具体的聊聊我们对面料的研究。
 
 好！请大家看样品。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151038965.jpg)
+![Df/Df.002 我们做了个公开成本的 T 恤套装/5.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/5.jpg)
 
 到时候你们买到的就是一个这样的盒子，打开，1 号 T 恤叫「通勤耐造」，支数是 16 S，克重 210 g，之所以叫「耐造」，是因为它的克重高，加工工艺也让它比较牢固，多次机洗都不会变形。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151038135.jpg)
+![Df/Df.002 我们做了个公开成本的 T 恤套装/6.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/6.jpg)
 
 2 号 T 恤叫「贴身打底」，也是 100% 棉，支数为 50 S，克重 175 g，高支数的面料让它穿起来特别舒适。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151038523.jpg)
+![Df/Df.002 我们做了个公开成本的 T 恤套装/7.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/7.jpg)
 
 除了面料参数，两者的版型也会有些不同，「通勤耐造」更宽松，适合单独外穿；「贴身打底」更合身一些，适合作为内搭。
 
 3 号 T 恤叫「凑合着穿」，支数 24 S，克重 150 g，由于用的纱线质量一般，所以特点就是便宜。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151038457.jpg)
+![Df/Df.002 我们做了个公开成本的 T 恤套装/8.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/8.jpg)
 
 为了让你区分这三件看上去差不多的 T 恤，我们特意在它们的右边袖口加上了简单直接又好看的袖标，当它们并排挂在你的衣柜，一眼就能找到你想要的那款。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151038512.jpg)
+![Df/Df.002 我们做了个公开成本的 T 恤套装/9.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/9.jpg)
 
 那么，这三件 T 恤的成本到底多少钱？
 
 1 号「通勤耐造」，面料费用是 21.3 元，加上螺纹 2.7 元、织唛等辅料 2 元 、加工费 7 元、后整处理 0.5 元，物流费 0.5 元，最终成本是 34 元。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151038480.png)
+![Df/Df.002 我们做了个公开成本的 T 恤套装/10.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/10.png)
 
 2 号「贴身打底」，高支数面料会贵一些，要 29.3 元，最后总成本是 42 元，也是我们这次套装里最贵的一件 T 恤。42 元虽然感觉也不算贵，但在 T 恤工厂里，已经是比较高档的产品了，同样的面料和工艺，有些品牌贴上 LOGO 能卖到两三百块。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151038703.png)
+![Df/Df.002 我们做了个公开成本的 T 恤套装/11.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/11.png)
 
 3号「凑合着穿」就是便宜，面料只要 11 块钱，最终成本只有 13 块钱。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151038517.png)
+![Df/Df.002 我们做了个公开成本的 T 恤套装/12.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/12.png)
 
 如此算来，这 3 件 T 恤的成本是 89 元，加上包装、运费等等，一个套装的总成本大约是 100 元。
 
 那我们应该卖多少钱呢？夏天到了，我们希望大家都可以轻松买得起的好穿的 T 恤，所以，我们最终决定这个套装定价 129 元包邮，每一单小赚 30 块钱。希望你喜欢。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151038501.png)
+![Df/Df.002 我们做了个公开成本的 T 恤套装/13.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/13.png)
 
 好，这就是提前动手的第二款产品「T恤研究套装」，有黑白两个颜色，如果你觉得有意思甚至想买一个，可以点击下方的小卡片或者在淘宝店「干燥工厂」找到这个产品页面付 1 块钱定金告诉我们。
 
@@ -84,9 +84,8 @@
 
 具体规则大概就是这样：
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151038091.jpg)
+![Df/Df.002 我们做了个公开成本的 T 恤套装/14.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/14.jpg)
 
 差不多了。之后的每隔一段时间，我们都会拿出一个奇奇怪怪的产品想法，找你要 1 块钱支持一下。如果你也有想做的东西，或者对我们的产品有任何的想法或者建议，都欢迎留言，或者给我们发邮件 factory@ipaperclip.org，下次见，拜拜。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151039493.png)
-
+![Df/Df.002 我们做了个公开成本的 T 恤套装/15.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.002%20我们做了个公开成本的%20T%20恤套装/15.png)

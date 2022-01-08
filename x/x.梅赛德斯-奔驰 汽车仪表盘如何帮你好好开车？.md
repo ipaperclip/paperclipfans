@@ -2,159 +2,104 @@
 
 这是你熟悉的仪表盘，上面分布着冷却液温度表、燃油表、车速表、转速表，同时也有转向指示灯、驻车制动器指示灯、远光指示灯、ABS 警告灯、SRS警告灯、制动系统指示灯、安全带警告灯、胎压警告灯、发动机警告灯……
 
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233286.png)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/1.png)
 
 这些看起来或形象或抽象的警示灯和仪表的含义，是每个驾驶员从科目一起就必须了解的。然而在百年前汽车刚刚发明出来时，这些都还不存在。
 
-
 汽车仪表盘是如何成为今天这样的？面向未来的仪表盘又该是什么样的？
 
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233057.gif)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/2.gif)
 
 这是 1908 年的福特 T 型车，由于它的最高时速只有约 56 km/h，所以标配并没有速度表，仪表盘上只有启动手柄和一个电流表。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212234894.png)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/3.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/3.png)
 
 20 世纪 30 年代的汽车仪表盘延续了这种简洁风格。
 
-
 这是第一代大众甲壳虫，仪表盘上只有两样东西：速度表和时钟。副驾驶处则是巨大的手套箱。
 
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233147.png)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/4.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/4.png)
 
 然而 40、50 年代的汽车设计风格却转了个大弯。
 
-
 二战后的一代人深受轰炸机座舱浪漫主义的影响，复杂的旋钮、拉杆及大量的仪表成为了当时的时尚。比如这台 1955 年的克莱斯勒帝国汽车（Chrysler Imperial）。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212234501.png)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/5.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/5.png)
 
 同样的设计思路甚至还可以在 2002 年的宾利欧陆 GT（Bentley Continental GT）上看到。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233521.png)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/6.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/6.png)
 
 不过，繁复的仪表盘虽然有独特的美感，却牺牲了驾驶者读取信息、做出操作的便利性。
 
-
 1947 年，美国空军研究了 270 起飞行员误读、误触飞机仪表盘的案例，发现现有的仪表设计，会对飞行员造成严重的心理或生理干扰，几乎每个级别的飞行员都会失误。而研究结论则是可以通过正确的仪表盘设计，来消除或降低这类失误发生的可能性。
 
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233496.png)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/7.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/7.png)
 
 这也启发了汽车厂商。
 
-
 所以，70 年代后的汽车仪表设计，不再把所有的功能像杂货店一样展示出来，而开始更多关注人与汽车的关系，尝试用最小的手部移动完成指定操作。
 
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233643.gif)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/8.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/8.gif)
 
 1974 年的雪铁龙 CX 将灯光、雨刷等都放置在了方向盘两侧，这样无需将手从方向盘上移开即可控制。
 
-
 它的仪表盘将警示灯集中在驾驶者面前的一条线上，还采用了横向转动的辊子显示车速和转速，字比之前更大。但这种设计并未实现初衷，倒让人觉得繁复难懂。
 
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233259.png)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/9.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/9.png)
 
 1976 年的阿斯顿马丁拉贡达（Aston Martin Lagonda）是第一款使用电子仪表盘的量产车，看起来简约而现代。但驾驶者已经习惯了传统的车速表。电子数字表盘的数值会在驾驶时不断跳动变化，而 0、6、8、9 等字符又十分相近，让数字表盘更难看清。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212234778.gif)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/10.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/10.gif)
 
 所以，汽车很快又回归了模拟指针式的仪表。
 
-
 1982 年的蓝旗亚 Orca（Lancia Orca）再一次探索了数字式仪表盘以及键盘式操作，最终只停留在了概念车里。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212234213.png)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/11.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/11.png)
 
 90 年代起，主要的汽车生产企业及各国政府都逐渐意识到安全气囊的重要性，开始立法强制要求汽车配备安全气囊。
 
-
 曾经设计千奇百怪的方向盘为了容纳安全气囊，形状也趋向统一，逐渐形成了今天我们熟悉的汽车仪表盘布局。
 
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233645.gif)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/12.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/12.gif)
 
 以这辆 2006 年的奔驰 W221 为例。视线中最显眼的就是最常用的速度表，其他在行驶过程中不需要经常关注的冷却液温度表和燃油表则相对较小，分布在左侧。
 
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/13.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/13.png)
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233645.png)
+仪表盘及旁边的多功能显示屏被放置在驾驶者 30°\~35° 的视线范围内。在这一范围内，人的视网膜敏感度较强，驾驶者可以在保持前方道路视野的同时，用余光读取信息。
 
-
-仪表盘及旁边的多功能显示屏被放置在驾驶者 30°~35° 的视线范围内。在这一范围内，人的视网膜敏感度较强，驾驶者可以在保持前方道路视野的同时，用余光读取信息。
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233953.png)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/14.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/14.png)
 
 其他与行车相关的控制器，如转向开关、雨刮器开关、定速巡航控制杆、换挡杆等，都被布置在方向盘两侧。
 
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233072.png)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/15.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/15.png)
 
 这些功能通过转动或拨动控制杆即可方便操作，同时机械开关可以给予驾驶者准确的反馈，通常无需再次确认。
 
-
 近年来，汽车仪表盘也有进一步简化的趋势。尤其是在一些电动汽车上，中置的一大块触控屏承担了显示汽车所有信息的任务，空调、雨刮器、车灯的调节也需要触控操作。
 
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233394.gif)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/16.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/16.gif)
 
 中控屏试图以化繁为简的方式，可以让驾驶员将注意力更多投入到眼前的道路上，但也让习惯了传统汽车的驾驶者需要更长时间去适应。
 
-
 2021 年上市的全新奔驰 S 级轿车提供了全新的裸眼 3D 仪表屏，可以根据头部位置精确调整画面，实现极具纵深层次感的 3D 景深效果。
 
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233138.gif)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/17.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/17.gif)
 
 同时还搭载了 AR 平视显示系统，可在相当于 77 英寸显示屏的范围内，将道路信息、导航信息与眼前环境融为一体，在减少注意力分散的同时，令驾驶更加轻松便捷。
 
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233575.gif)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/18.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/18.gif)
 
 而搭载于即将上市的奔驰全新 EQS 上的 MBUX Hyperscreen 则更进一步。这块宽度超过 1.4 米的三屏一体超大屏幕，从一侧车门延伸到另一侧车门，将你驾驶所需的一切交互都容纳于其中。
 
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212233162.gif)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/19.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/19.gif)
 
 你不再需要去适应控制布局，人工智能会在恰好的时间为你主动显示所需的个性化功能，或是隐藏不常用的功能，并基于环境变化和用户习惯不断优化，实现直观高效的「零层级操作」。
 
-
 比如在长途旅行中，它就会在主界面主动提示按摩功能。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212234594.gif)
-
+![x/x.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？/20.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.梅赛德斯-奔驰%20汽车仪表盘如何帮你好好开车？/20.gif)
 
 也许有一天，人工智能可以彻底解放你的双手，不再需要任何繁琐的操作。

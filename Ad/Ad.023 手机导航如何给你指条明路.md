@@ -2,35 +2,35 @@
 
 我是张甲木，这里是回形针事务所，今天我们要研究百度地图的导航功能。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282151604.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/1.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/1.jpeg)
 
 当代生活，没有手机导航提供的路线规划、定位引导等服务，你已经很难顺利地认清方向、走对路。为了在导航时给你指条明路，百度地图都做了什么？
 
 一款导航软件是否好用，很大程度上取决于这三点：起点和终点间的路线规划，行驶过程中的准确定位，和及时的语音图像引导。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282151571.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/2.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/2.jpeg)
 
 规划两点间的最佳路线是第一步。假设你在下午 5 点 20 分要从北京西站去百度大厦，百度地图会推荐三条路线，其中路程最长的路线，预测的驾驶时间却比另外两条路线要短得多。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282151593.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/3.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/3.jpeg)
 
 这些路线和时间是怎么算出来的？
 
 首先得知道如何从茫茫路网中找到两点间的最短路线。比如在这个简化模型中，求 C 点到 M 点的最短路线。1959 年，荷兰计算机科学家迪杰斯特拉（Dijkstra）提出了一个经典算法。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282154952.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/4.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/4.jpeg)
 
 简单来说，就是选择去往下一个点时，总是尽可能选择路程最短的那个点，比如第一步从 C 出发，就选路程最短的 A 点。
 
 接着再通过与之前记录的路线对比长短、试错，一步步扩散到 M 点，再从记录下的路线中选取最短的那条。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282154910.gif)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/5.gif)
 
 但这样找实在太慢了。要想快，就得有方向地找路，比如 A* 算法。
 
 具体来说，同样从 C 点出发，除了要得知到相邻点的路程，还要知道这些点到终点的直线距离。两者之和最小的点，就是下一步要去的地方，即 H 点。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282151360.gif)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/6.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/6.gif)
 
 接着按同样规则到 I 点、D 点，这时会发现 C→H→I→D 这个走法还不如最开始的 C→D，于是就要倒回  C 点，排除 C→H 这个走法，选择路程距离第二短的 C→G。
 
@@ -38,29 +38,29 @@
 
 在这个演示中，你就能很直观地看到，A* 相比 Dijkstra，试错的次数更少，大大提升了搜索的效率。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282151380.gif)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/7.gif)
 
 需要注意，这只是简单的基础算法，对于更大更复杂的路网，像百度地图这样的软件，还会使用 CH、CRP 等优化算法，把路网划分成不同区域，并且增加缓存。
 
 比如从北京到广州时，就可以把京港澳高速这样的最短路径直接缓存到地图上，而不必频繁地计算中间的各种路线。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282154181.gif)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/8.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/8.gif)
 
 不过，光考虑路程最短还不够，就像开头的例子，路程短 6 公里，但时间却要多 20 分钟。要想找到用时最短的路线，导航软件就必须要考虑拥堵情况。
 
 基于无数用户的行车数据，百度地图可以掌握各个路段的平均行车速度，结合路段的长度算出通行的平均时间。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282151766.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/9.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/9.jpeg)
 
 其中要注意，如果有人故意捣乱，拉着 99 台手机缓慢行走，是有可能让地图软件误以为空荡荡的一段路发生了大堵车。
 
 所以像百度地图还必须通过各种算法规则排除这些异常情况，更准确地反应实时拥堵情况。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282151944.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/10.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/10.jpeg)
 
 现在再回到这个图，我们可以把各个路段的距离因素视为一种代价，把代价换成时间因素，再利用同样的算法就能得出驾驶时间最短的路线。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282156578.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/11.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/11.jpeg)
 
 但这还是不够，对于长距离导航，地图软件还要学会分析未来各个路段的路况变化。
 
@@ -68,42 +68,42 @@
 
 而百度地图则会预测当你到达限行边界时，是否已经过了限行时段，如果避开限行时段，就会规划更快的路线，让你少走 16 公里，快 22 分钟。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282155298.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/12.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/12.jpeg)
 
 除了路程和时间，车道数量、限速要求、道路事故、收费站、高速路等因素都可以用于计算代价。
 
 而百度地图还让这种代价得以动态调整，因为不同人对代价的感受并不一样。赶时间的可以选择时间优先，不想过收费站的可以选择少收费，脾气不好容易路怒的可以选择躲避拥堵。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282155416.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/13.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/13.jpeg)
 
 当然，路线规划只是基本操作，真正的考验还是在你上路之后，导航过程中的准确定位非常重要。
 
 比如上海西藏南路的这条隧道，进入它，你的手机就会开始提醒你「当前卫星信号弱」，定位图标显示滞后，而不熟悉路线的你，失去导航帮助后，很可能在命运的分叉口做出错误的选择。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282155257.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/14.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/14.jpeg)
 
 别慌！即便失去卫星信号，百度地图还有智能定位算法帮助导航。简单来说，手机里的加速度计和陀螺仪，可以采集自身 x、y、z 轴的移动加速度和绕 x、y、z 轴旋转的角速度。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282155039.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/15.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/15.jpeg)
 
 x 轴移动加速度大于零，意味着车辆加速。求加速度曲线下的面积，就知道速度曲线；求速度曲线下的面积，就知道路程曲线。
 
 同理，记录 z 轴转动角速度，能算出车辆转向角度。结合路程曲线和转向角度曲线，实时还原车辆的行驶轨迹。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282155306.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/16.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/16.jpeg)
 
 知道路线，也知道车在哪，但如果你不熟悉道路，还是很容易在各种复杂路口走错。这时，图像语音的及时引导就尤为重要。
 
 百度地图为各种二岔路、十字路，乃至广州番禺区这种 11 车道的复杂路口都设计了直观的指示图、车道标识，以及语音引导。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282155090.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/17.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/17.jpeg)
 
 语音引导的时机和话术非常关键。比如一段需要连续转弯变道的路，在你右转后，立马提示变道，很可能让你反应不过来而走错路。
 
 所以百度地图会一开始就完整地提醒你先右转再靠右走，有了心理准备，在转弯后你就能及时变道。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282155555.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/18.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/18.jpeg)
 
 当然，如果你还是不放心手机导航的实力，最好的方法是去重庆，像这座黄桷湾立交桥，共 5 层 20 条匝道，足以让你得知自己的手机导航到底靠不靠谱。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282155931.jpeg)
+![Ad/回形针事务所 023 - 手机导航如何给你指条明路？/19.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20023%20-%20手机导航如何给你指条明路？/19.jpeg)

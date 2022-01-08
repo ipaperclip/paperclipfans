@@ -1,10 +1,10 @@
 # Vol.176 你喝的牛奶从哪来
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151112114.png)
+![Vol/Vol.176 你喝的牛奶从哪来/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.176%20你喝的牛奶从哪来/1.png)
 
 牛奶、羊奶、牦牛奶、骆驼奶甚至还有驴奶，这么多奶，为什么偏偏牛奶能够成为国民奶？
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151112241.jpeg)
+![Vol/Vol.176 你喝的牛奶从哪来/2.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.176%20你喝的牛奶从哪来/2.jpeg)
 
 对比一下营养成分，虽然差异较大，但都还不错，比牛奶营养高的也有。但真正决定谁才能走进千家万户的还要看产量，毫无疑问，牛奶以绝对的优势胜出。
 
@@ -12,7 +12,7 @@
 
 这是一头体型标准的荷斯坦奶牛，乳房硕大，毛色多以黑白花为主。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151112705.png)
+![Vol/Vol.176 你喝的牛奶从哪来/3.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.176%20你喝的牛奶从哪来/3.png)
 
 这样一头奶牛，每天就可以产奶 35 公斤左右。按一盒牛奶 250 毫升算，一天就是 140 盒。来自美国牧场的一头 4 岁奶牛更是每天产奶达到 100 公斤，也就是 400 盒牛奶，只需要一天的产奶量就足够让你喝上一年。
 
@@ -20,7 +20,7 @@
 
 通过选用优质种公牛精子和母牛配种，来得到产奶水平更高的后代，经过一代优于一代的选育，最终不断扩大群体产奶优势。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151112033.gif)
+![Vol/Vol.176 你喝的牛奶从哪来/4.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.176%20你喝的牛奶从哪来/4.gif)
 
 随着奶牛群体遗传改良计划的实施，我国奶牛年单产平均水平已经从 2008 年的 4.8 吨提高到了 8.3 吨；另外建立的乳用种公牛遗传评估体系，详细记录和评估了优质种公牛育种价值。如果你对哪头牛感兴趣，甚至可以直接根据身份信息找上它。
 
@@ -28,7 +28,7 @@
 
 传统奶牛养殖以农户散养为主，效率、产能和质量管理都相对落后，已经逐渐被大规模的现代化牧场所替代。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151112193.gif)
+![Vol/Vol.176 你喝的牛奶从哪来/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.176%20你喝的牛奶从哪来/5.gif)
 
 这是一座现代化牧场的常规布局，透过它，我们可以了解一杯牛奶是如何诞生的。
 
@@ -36,25 +36,25 @@
 
 初生的犊牛生活在犊牛舍或犊牛岛，在这里要度过 8 周左右的哺乳期。断奶后的犊牛被转移到育成牛舍，饮食向固态饲料转变，并以每天接近 1 公斤的速度飞速成长。到 1 岁左右，它的体重便可达到 360 公斤，进入发情周期。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151112039.gif)
+![Vol/Vol.176 你喝的牛奶从哪来/6.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.176%20你喝的牛奶从哪来/6.gif)
 
 奶牛的发情周期为 21 天左右，只有在发情排卵时才能进行配种，进而产犊、产奶。如果错过机会，就要等待下一个周期，所以及时揭示发情时间至关重要。
 
 过去，牧场会选择在奶牛尾巴根部涂蜡笔来监测奶牛发情，如果目标牛只被其他牛爬跨，涂抹的色块就会被蹭掉，说明被爬跨的牛处于发情期，显然这种方法效率太低且容易错漏。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151112442.gif)
+![Vol/Vol.176 你喝的牛奶从哪来/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.176%20你喝的牛奶从哪来/7.gif)
 
 现在多通过奶牛发情期的生理变化特征来进行监测。在奶牛的颈部或脚腕处大都有这样一个项圈，它能够每天实时监测奶牛活动。由于发情期的奶牛会表现出行为亢奋、活动量增加，所以监测奶牛步数变化就能及时揭示发情。
 
 接下来就是配种，不过牧场里并不会出现母牛和公牛交配的场景，而是由牧场工人用输精枪直接将优质种公牛的精子输送至母牛子宫内实现配种。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151112745.png)
+![Vol/Vol.176 你喝的牛奶从哪来/8.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.176%20你喝的牛奶从哪来/8.png)
 
 由于公牛价值不大，为了获得更多母牛，种公牛的精子会被提前分离，只给待孕母牛输送 X 精子，让它只生母犊。目前通过性控冻精技术，可让牧场母犊率达到 90% 以上。
 
 配种后的奶牛转群到青年牛舍，进入妊娠期，饲喂至 2 岁左右的时候进入围产牛舍产犊。产下的犊牛会开始下一个循环，而产后的母牛则转群至泌乳牛舍，正式上岗产奶。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151113468.gif)
+![Vol/Vol.176 你喝的牛奶从哪来/9.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.176%20你喝的牛奶从哪来/9.gif)
 
 想要奶牛多产奶产好奶，前提要吃的好。这是泌乳奶牛常见的饲料原料，种类多样，一般经混合后饲喂，对于泌乳高峰期的奶牛一天就可以吃 40 公斤以上的饲料，喝上近 100 公斤的水。
 
@@ -62,20 +62,20 @@
 
 传统养殖业中，挤奶主要靠手，比如这种拳握式挤奶法，需将拇指与食指先压紧乳头基部，然后中指、无名指、小拇指顺次按压，挤出乳汁。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151113228.gif)
+![Vol/Vol.176 你喝的牛奶从哪来/10.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.176%20你喝的牛奶从哪来/10.gif)
 
 显然手工挤奶效率太低，大规模牧场还得靠设备。这是挤奶厅中常见的转盘式挤奶，它能够容纳 80 头奶牛同时挤奶。准备区的奶牛会排队依次进入，然后被套上挤奶杯进行吸奶，挤奶完毕后自动脱杯。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151113589.gif)
+![Vol/Vol.176 你喝的牛奶从哪来/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.176%20你喝的牛奶从哪来/11.gif)
 
 挤出的原奶经密闭管道直接输送到加工车间生产乳制品，或者储存在冷罐内被冷链车运输到乳企。
 
 奶牛并非一直产奶，理想的一个泌乳周期在 305 天左右，然后会停止泌乳，进入干奶期「充电」，休整后的奶牛进入围产牛舍产犊。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151113950.png)
+![Vol/Vol.176 你喝的牛奶从哪来/12.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.176%20你喝的牛奶从哪来/12.png)
 
 产犊后的奶牛进入下一个泌乳周期，就这样产犊-产奶-产犊-产奶，不断循环，直到淘汰。淘汰后的奶牛会进入屠宰场，最终流向餐桌。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151113272.gif)
+![Vol/Vol.176 你喝的牛奶从哪来/13.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.176%20你喝的牛奶从哪来/13.gif)
 
 为了让奶牛健康工作，提高奶牛使用寿命，有些牧场会提供恒温恒湿的牛舍、运动场、按摩设备、定时修蹄等服务，甚至还会为奶牛来上一场音乐会。

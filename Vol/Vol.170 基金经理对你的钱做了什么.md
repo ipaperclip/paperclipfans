@@ -1,12 +1,12 @@
 # Vol.170 基金经理对你的钱做了什么
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212156515.png)
+![Vol/Vol.170 基金经理对你的钱做了什么/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.170%20基金经理对你的钱做了什么/1.png)
 
 2020 年，中国股市实现了逆势增长：从 3 月份的最低点绝地反弹，一路涨到年末。总市值在一年内就增加了 20 万亿，创下历史新高。
 
 但即使是这样，选到一支赚钱的股票也不容易。A 股 4000 家上市公司中，年涨幅的中位数只有 1.23%。仍有一半的股民在亏钱，而且大部分都亏了 20% 以上。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212156920.gif)
+![Vol/Vol.170 基金经理对你的钱做了什么/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.170%20基金经理对你的钱做了什么/2.gif)
 
 所以，越来越多的人开始把钱交给基金经理，让专业的人干专业的事。2020 年，98% 的权益型基金都在赚钱，这些排名前 50 的基金更是帮你把本金都翻倍了。
 
@@ -14,19 +14,19 @@
 
 其实，你早就开始买基金了。当你把钱转入「余额宝」时，真正帮你赚钱的就是它对接的 29 支货币市场基金。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212157080.png)
+![Vol/Vol.170 基金经理对你的钱做了什么/3.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.170%20基金经理对你的钱做了什么/3.png)
 
 比如规模最大的「天弘余额宝货币」在 2020 年就通过投资银行存款、同业存单、买入返售金融资产赚了 220 亿元，平摊一下，每存 100 一年能帮你赚 2 块钱——只比一年期定期存款高一点。
 
 虽然可能连早饭钱都挣不出来，但重点是安全和随时提现。因此在规模高达 20 万亿的中国基金市场中，65% 的钱都流向了货币市场基金、债券基金这样风险较低的基金。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212156855.gif)
+![Vol/Vol.170 基金经理对你的钱做了什么/4.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.170%20基金经理对你的钱做了什么/4.gif)
 
 剩下的钱，绝大多数都去到了可以投资股票的股票基金和混合基金。
 
 两者的区别在于，股票基金必须将基金资产的 80% 以上都投资股票。而混合基金没有这样的硬性规定，除了股票还能投资债券和银行存款。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212156065.gif)
+![Vol/Vol.170 基金经理对你的钱做了什么/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.170%20基金经理对你的钱做了什么/5.gif)
 
 问题是，在面对中国 4000 多家上市公司时，基金经理是怎么知道要买哪些股票的？
 
@@ -34,13 +34,13 @@
 
 比如「沪深 300 指数」，涵盖了沪深两市 300 支市值最大、流动性最好的股票。基金经理只需要对照每半年更新一次的成分股列表，按照权重购买股票，就能复制指数表现。如果股价上涨，你就能赚到钱。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212156528.gif)
+![Vol/Vol.170 基金经理对你的钱做了什么/6.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.170%20基金经理对你的钱做了什么/6.gif)
 
 只要你老老实实对这个清单买，收益和那些基金经理也不会差太多。
 
 但因为基金公司钱多，动不动就几百几千万的买入，很容易拉动股票的价格，让购买的成本变高。上涨的这个差价，叫做「冲击成本」。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212156871.gif)
+![Vol/Vol.170 基金经理对你的钱做了什么/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.170%20基金经理对你的钱做了什么/7.gif)
 
 冲击成本会让投资组合偏离指数。在复制一个权重为 5% 的股票时，最终花出去的钱可能会超过这个百分比，产生「跟踪误差」。
 
@@ -48,7 +48,7 @@
 
 这就是最简单的 TWAP 时间加权平均价。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212156675.gif)
+![Vol/Vol.170 基金经理对你的钱做了什么/8.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.170%20基金经理对你的钱做了什么/8.gif)
 
 这样的策略用得越好，跟踪误差就能越小，从而帮你稳定的赚到指数所象征的市场收益。而这正是买被动型指数基金的你，真正买到的东西。
 
@@ -56,13 +56,13 @@
 
 除了被动跟踪指数，今天大部分的基金经理都会选择「主动出击」：主动买入具有增长潜力的股票，赚到市场收益+超额收益。这种做法需要基金经理对公司基本面进行各种定性、定量分析。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212156980.gif)
+![Vol/Vol.170 基金经理对你的钱做了什么/9.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.170%20基金经理对你的钱做了什么/9.gif)
 
 我们以 2019 年底的「贵州茅台」、「宁德时代」两家公司为例，主要考察四个指标：市盈率；收入增长率；净资产收益率和股息率。
 
 而基金经理对指标的评判标准，大致可以分为成长和价值两种风格。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212156428.png)
+![Vol/Vol.170 基金经理对你的钱做了什么/10.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.170%20基金经理对你的钱做了什么/10.png)
 
 成长风格更喜欢「宁德时代」这样市盈率、收入增长能力都高的「白马股」，相信这家公司可以在新能源政策环境下变得更加值钱。而价值风格的基金经理看中公司的长期发展，喜欢估值便宜、分红多、能创造较高回报的股票。
 
@@ -70,13 +70,13 @@
 
 光有自洽的逻辑还不够。和散户一样，基金经理想在股票上赚钱，也需要低价买入并长期持有。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212156418.png)
+![Vol/Vol.170 基金经理对你的钱做了什么/11.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.170%20基金经理对你的钱做了什么/11.png)
 
 比如 2012 年，中国白酒行业的股票跌到十年最低点的时候，张坤这样的基金经理反而开始将茅台作为第二大重仓股买入。
 
 到了 2017 年，消费升级、限购、天价酒，让越来越多的基金经理都意识到了茅台的价值。基金买入越来越多的消费服务行业股票，而这种买入又会进一步拉高股价，提升基金业绩。这种情况，就是所谓的「抱团」。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212156773.png)
+![Vol/Vol.170 基金经理对你的钱做了什么/12.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.170%20基金经理对你的钱做了什么/12.png)
 
 2020 年底，全球持有茅台最多的欧洲亚太成长基金开始减持茅台，并引发其他机构加入。但喝醉了的股民们并没有把它当回事。2021 年春节前最后一个交易日，茅台股价站上 2601 元，同时将 PE 倍数拉到了史无前例的 73 倍。
 
@@ -84,8 +84,8 @@
 
 但也有东西在涨：卸载基金 App 的人数每天都在变多，其中近五成都是 90 后。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212156021.png)
+![Vol/Vol.170 基金经理对你的钱做了什么/13.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.170%20基金经理对你的钱做了什么/13.png)
 
 论心态，他们还不如这位 104 岁的周奶奶：炒股 27 年的她，不管市场如何大起大落，都始终保持着平和的投资心态，不仅每天赚到 100 块小菜钱，就连像冰箱、空调、白内障手术的钱，都是炒股来的。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212156694.gif)
+![Vol/Vol.170 基金经理对你的钱做了什么/14.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.170%20基金经理对你的钱做了什么/14.gif)

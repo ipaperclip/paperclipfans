@@ -2,25 +2,25 @@
 
 这是两根合金丝。将它们焊接在一起，接入一个电压表。一端插入冰水混合液，另一端使用酒精灯加热。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112309887.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/1.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/1.jpeg)
 
 两端的温差会让回路中产生热电势。温差越高，热电势也就越大。因此即便在没有外接电源的情况下，电压表的读数也会逐步升高。
 
 当读数显示为 1.48 mV 时，我们就可以根据这样一张标准分度表，得知此时工作端的温度是 37℃。这样，我们制作出了一个简易的热电偶温度计。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112309205.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/2.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/2.jpeg)
 
 既然它能测出 37℃，是否可以用来对人体进行测温呢？答案是肯定的，只需将酒精灯替换为人体的腋窝，几分钟后，就能根据电压表的读数，得到大致的人体温度。
 
 但这种方案的缺点显而易见。相比同为接触式的水银、数字体温计，热电偶温度计操作繁琐，且精度不高。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112310078.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/3.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/3.jpeg)
 
 然而，它却能实现非接触测温。前提是，我们要进行一些改造。
 
 非接触测温的原理，是利用人体辐射出的红外线，加热热电偶温度计的工作端，然后根据电压表读数的变化测量出体温。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112309613.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/4.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/4.jpeg)
 
 然而在实际使用中，较低的人体辐射功率，使得热电偶中的温差、热电势等变化都不够明显。
 
@@ -28,59 +28,59 @@
 
 首先是将热电偶的体积缩小，然后将多个串接在一起，使输出电势相互叠加，形成热电堆。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112310540.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/5.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/5.jpeg)
 
 然后，我们需要在热电堆下方添加一个硅衬底。硅衬底和热电堆之间通过沉积镀膜技术沉积一层氮化硅支撑层。
 
 通过在硅衬底的底部刻蚀一个热隔离腔体，我们可以保证氮化硅镀膜悬空。边缘为冷结区，中心为热结区。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112310360.gif)
+![Vol/Vol.132 如何科学测量你的体温/6.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/6.gif)
 
 热结区上方覆盖一层薄膜材料作为吸收区，用于吸收人体的热辐射，使热结区升温。冷结区的温度与环境温度一致，可通过测定内置的 NTC 热敏电阻阻值变化来确定其温度。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112309724.gif)
+![Vol/Vol.132 如何科学测量你的体温/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/7.gif)
 
 升温的热结区，与冷结区产生温差，从而产生热电势，输出电压值。
 
 经过反复实验，我们可以建立目标物体温度、环境温度、输出电压之间的关系函数。在实际测量时，我们只需将环境温度、输出电压代入公式，就能得到目标物体的温度。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112309506.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/8.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/8.jpeg)
 
 然而，这样做出来的热电堆传感器还不够精确。当我们举着它对准额头时，进入传感器视野的并不只有人体的红外辐射，还有可见光、近红外等杂波。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112310294.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/9.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/9.jpeg)
 
 因此，我们需要在温度传感器上安装一个滤光片，来选择特定波长的电磁波。
 
 人体的温度主要在 30℃~40℃ 范围内，根据维恩位移定律计算出人体辐射的峰值波长主要集中在 9200~9600 nm 之间的远红外波段。
 
-因此，我们可以使用这个 8~14 μm 的带通滤光片，就能有效过滤掉不必要的电磁波。
+因此，我们可以使用这个 8\~14 μm 的带通滤光片，就能有效过滤掉不必要的电磁波。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112309494.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/10.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/10.jpeg)
 
 将热电堆、NTC 热敏电阻和滤光片封装在一起，就组成了温度传感器。而这，就是目前红外额温枪的核心元件。
 
 温度传感器的后方是一个运算放大电路，用以将微弱的微伏级输出电压，放大至毫伏级。放大后的电压，再经 AD 模数转换输入单片机，经过内置算法输出目标物体温度示值。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112309803.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/11.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/11.jpeg)
 
 最后，我们可以在温度传感器的前方放置一个菲涅尔透镜，来使传感器视野更窄、更远。
 
 加上蜂鸣器和电源，我们就组装了一把成本大约在 25 元的红外额温枪。凭借非接触、响应快的特点，它现已成为新冠疫情中最重要的医疗器械之一。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112310904.gif)
+![Vol/Vol.132 如何科学测量你的体温/12.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/12.gif)
 
 问题是，这把红外额温枪是否准确呢？
 
 正规的红外额温枪，在出厂前都需要经过检定和校准。根据这份校准规范：额温枪在校准前需置于恒温恒湿的环境中稳定至少 30 分钟，接着将额温枪从体温模式转换为校准模式，记录被校红外额温枪的示值和标准温度。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112309160.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/13.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/13.jpeg)
 
 这样，我们就得到了红外额温枪的示值校正值及实验室误差。有了示值校正值，就能修正红外额温枪，使其测量温度与标准温度保持一致，且不超过 ±0.3℃ 的实验室误差。
 
 因此，正规的红外额温枪，在校准模式下可以被认为是「准」的。一个人的额头有几度，红外额温枪就能测出几度。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112309321.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/14.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/14.jpeg)
 
 问题是，人体的额温为体表温度，并不是医学意义上的体温。
 
@@ -88,28 +88,28 @@
 
 想让红外额温枪测出体温，就需要让它根据转换关系，从额温「算」出体温。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112309904.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/15.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/15.jpeg)
 
 但想找到准确的转换关系没那么容易。在这篇发表于 2017 年的论文中，研究者确定了人体核心温度，额温，环境温度之间的函数关系。
 
 经过实验测试表明，由额温经过函数转换得到的体温，基本接近人体核心温度，但仍存在着一定的偏差。之所以出现这样的偏差，是因为体表温度、核心温度分别受不同因素的影响。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112309480.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/16.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/16.jpeg)
 
 对于体表温度而言，环境温度升高，或对流换热系数减小，都会造成其数值上升。核心温度也会随着昼夜差异、女性生理期而出现波动。
 
 这样的波动，使得一一对应体表温度、核心温度几乎成了一件不可能的事情。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112309286.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/17.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/17.jpeg)
 
 因此，目前的红外额温枪显示的体温示值，是额温的真实温度值加上由额温向人体体温转换的统计修正值。这一估测示值虽然接近了人体核心温度，但并不是真实温度。
 
 加上统计修正值一般由厂商自定，所以当使用两把不同品牌的额温枪测量同一目标物体时，很可能显示出不同的示值。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112309611.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/18.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/18.jpeg)
 
 因此，红外额温枪不是临床上用于精确测量的工具，但在大规模发热筛查中仍然重要。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112310538.jpeg)
+![Vol/Vol.132 如何科学测量你的体温/19.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.132%20如何科学测量你的体温/19.jpeg)
 
 所以，当你被它顶着脑门时，请放心大胆地贴近它。别担心，它并不会伤害你。

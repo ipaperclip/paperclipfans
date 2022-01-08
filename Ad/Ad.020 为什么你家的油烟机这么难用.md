@@ -1,28 +1,28 @@
 # 回形针事务所 020：为什么你家的油烟机这么难用？
 
-我是张甲木，这里是回形针事务所。今天的客户是西门子家电，专注于用硬核技术打造性能卓越、经久耐用的电器产品。他们的智能展翼油烟机贴心地在各个细节改善着你的厨房环境。 
+我是张甲木，这里是回形针事务所。今天的客户是西门子家电，专注于用硬核技术打造性能卓越、经久耐用的电器产品。他们的智能展翼油烟机贴心地在各个细节改善着你的厨房环境。
 
 他们究竟做了什么？又是怎么做到的？
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282243685.jpeg)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/1.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/1.jpeg)
 
 这是做饭时你看到的烟，清白色、呛人、油腻。
 
 这是在实验室视角下的烟，是含有脂肪酸、醛、酮、醇、芳烃等 200 多种化学物质的有害气体，尤其多环芳烃中的菲、荧蒽、芴、萘及强致癌物苯并(a)芘等已证实对人类有强烈伤害。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282244406.jpeg)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/2.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/2.jpeg)
 
 PM2.5 浓度大于 250 μg/m³ 就可视为严重污染，做饭时厨房内的 PM2.5 平均浓度可达几百至几千 μg/m³。
 
 对于习惯高温煎炒的人，一台强劲干净的吸油烟机就非常必要。但油烟机有很多种，我们又该如何评判？
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282244773.gif)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/3.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/3.gif)
 
 这是一台正在工作的油烟机，风道系统中的电机带动叶轮高速运转，将空气排出，在集烟区域形成一个负气压区，利用气压差将油烟吸入。
 
 评判油烟机的重要指标就是风量（m³/min）和静压值。风量越大，越能吸。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282243670.jpeg)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/4.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/4.jpeg)
 
 光吸还不够，油烟机还得能吹。
 
@@ -30,73 +30,72 @@ PM2.5 浓度大于 250 μg/m³ 就可视为严重污染，做饭时厨房内的 
 
 根据模拟试验，在一栋 32 层楼高的公共烟道中，当用户采取同样参数的吸油烟机时，楼层越低，排烟阻力越大。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282244756.jpeg)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/5.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/5.jpeg)
 
 如果油烟机向风道排风施加的压力太小，输给其他人，油烟不仅排不出去，别人的烟可能还会顶进来，毒上加毒。
 
 所以油烟机的静压值就非常关键。最大静压值越大，油烟机在高风压下向外排烟能力越强，抗倒灌能力也越强。市面上的油烟机风量基本保持在 15 m³/min 以上，静压超过 400 Pa 就能宣称强力。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282244438.jpeg)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/6.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/6.jpeg)
 
 那如果想达到更大的风量和静压，我们该怎么办呢？答案就是提高电机转速。
 
 电机的电压、电流和做功效率的乘积决定了输出功率。输出功率又等于转矩和转速的乘积。因此，在转矩输出一定的情况下，更高的转速意味着更强的电机输出能力。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282243780.jpeg)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/7.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/7.jpeg)
 
 但是，市面上油烟机普遍使用交流异步电机。根据公式，磁场转速 n1=60(f交流电频率/p电机极对数) ，因为民用电 220 V，50 Hz 限制，磁场转速受限。最大也只有 1500 rpm。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282244577.jpeg)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/8.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/8.jpeg)
 
 而由于异步电机的转子转速总是低于交流电产生的磁场转速，所以一般异步电机的实际转速最高也就 1300 rpm。
 
 所以，最好的方式还是像西门子家电一样采用直流无刷变频电机。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282243806.jpeg)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/9.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/9.jpeg)
 
 控制 BLDC 电机的变频器会先将 220 V、50 Hz 的交流电转换为 310 V 直流电，然后施加到电机上，从而摆脱民用电的频率限制，将转速提高到最高 1800 rpm，输出功率最高达 180 W。
 
 但高转速必然就有高温损伤风险。所以西门子家电的电机绕组铜线采用 F 级绝缘，在实验温度 40℃ 下，维持电机在升温 115℃ 范围内的高速运转，远高于同行业的 B 级升温 95℃。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282243100.jpeg)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/10.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/10.jpeg)
 
 正是因为 BLDC 电机的优势，西门子智能展翼系列烟机在速吸模式下甚至能在 8 分钟内稳定输出 20 m³/min 的风量。最大静压也能高达 730 Pa，暴力吸排。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282244320.jpeg)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/11.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/11.jpeg)
 
 但是，即使你不做饭，别人做饭的油烟也可能进你厨房。因为大家都做你没做，被倒灌的可能还是你。
 
 公共烟道口虽然会装这样的止逆阀，但在长期使用后会因为油垢积累凝固而无法恢复原样。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282245064.gif)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/12.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/12.gif)
 
 正是基于这一点考虑，这款烟机设计了「烟道管家」功能。在感知到倒灌油烟后，油烟机会自动开启，以最低档运行 5 分钟，直到空气质量恢复正常。
 
 油烟机是怎么「闻」到的呢？答案就是安装在风机之上的 ESS II 传感器。它会长时间监控烟机内的空气质量，生成一个用户家的常态参考值；然后，即时监控到的空气质量会与参考值进行实时比对，如果超标，风机就会自动开机预防倒灌。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282243069.jpeg)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/13.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/13.jpeg)
 
 也因为 ESS II 灵敏的「嗅觉」，西门子智能展翼系列烟机能随时检测油烟浓度，自动调节风速，让你专注于火候的掌控。
 
 各种技术提升了使用的体验，但使用后清理仍是麻烦。像这样的「蒸汽水洗」技术，或「电热丝高温烘烤」技术，甚至这样拆卸后清洗，都是风机被油烟污染后的事后清理，非常被动。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282243142.jpeg)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/14.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/14.jpeg)
 
 那有没有办法让风机接触的就是干净的烟呢？答案是有。
 
 比如西门子家电就选择在进风口和风机间安装这样的滤芯。当油烟经过滤芯，电离丝会通上千伏特的直流高压电，和接地的金属板形成高压电场，将通过的油烟颗粒电离成带正电和负电的粒子。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282243026.gif)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/15.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/15.gif)
 
 带电的油烟颗粒会再经过这样的金属板结构，由交替的金属板通上高压成为正极板，其余的金属板接地成为负极板，在金属板间形成吸附区的电场。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282243702.jpeg)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/16.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/16.jpeg)
 
 当带电的油滴通过时，由于电场的作用，带正电的油滴就会被吸附到负极板；带负电的油滴会被吸附到正极板，进而起到油烟分离的作用。
 
 根据测试，使用 e 净滤芯的过滤效率可达 99.639%，保证叶轮接触干净的烟气。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108282243578.jpeg)
+![Ad/回形针事务所 020：为什么你家的油烟机这么难用？/17.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20020：为什么你家的油烟机这么难用？/17.jpeg)
 
 有了暴力又温柔的西门子家电，厨房将变得更清爽。毕竟，谁想做一个「油腻」的人呢？
-

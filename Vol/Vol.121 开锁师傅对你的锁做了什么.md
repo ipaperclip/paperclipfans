@@ -1,61 +1,58 @@
-
 # Vol.121 开锁师傅对你的锁做了什么
 
 半夜十二点，刚刚加班完到家的你，发现没有带钥匙。你看着一墙的开锁公司广告，拨通了其中一个电话。
 
 现在，这位开锁师傅需要在你的注视下，尽快打开这扇防盗门。
 
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191749425.jpeg)
+![Vol/Vol.121 开锁师傅对你的锁做了什么/1.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.121%20开锁师傅对你的锁做了什么/1.jpeg)
 
 锁的结构是什么？开锁师傅对你的锁做了什么？
 
 现代的门锁进化自挂锁。而今天的挂锁和它一百多年前的版本没什么不同，起作用的就是这个弹子锁芯。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191749415.jpeg)
+![Vol/Vol.121 开锁师傅对你的锁做了什么/2.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.121%20开锁师傅对你的锁做了什么/2.jpeg)
 
 弹子指的是内部这些小金属块。当插入钥匙时，上下弹子的分割线刚好位于切线时，锁芯即可旋转，锁也就打开了。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191749500.jpeg)
+![Vol/Vol.121 开锁师傅对你的锁做了什么/3.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.121%20开锁师傅对你的锁做了什么/3.jpeg)
 
 但如果没有钥匙，这样一把扭力扳手（tension wrench）和一支单勾（pick）也能开锁。开锁时扭力扳手需要持续施加扭转力，同时另一只手用单勾慢慢顶起弹子。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191750781.jpeg)
+![Vol/Vol.121 开锁师傅对你的锁做了什么/4.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.121%20开锁师傅对你的锁做了什么/4.jpeg)
 
 刚开始顶起时，单勾受到的力主要是弹簧向下的弹力和上弹子与锁体两边的摩擦力。继续向上顶弹子，当上弹子刚好被顶过切线时，上弹子和锁体之间的摩擦力消失，只剩下弹簧弹力。这时候如果继续向上顶，弹子会和外锁体碰撞，碰撞瞬间压力增大，之后就又只剩下弹力和下弹子与锁体的摩擦力。我们要找的， 就是刚刚这个受力最小的位置。这就是弹子的开锁位置。
 
 但是锁有一排弹子。当一个弹子拨对位置后，剩下的怎么办？如何固定住第一个已经到正确位置的弹子？
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191749704.jpeg)
+![Vol/Vol.121 开锁师傅对你的锁做了什么/5.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.121%20开锁师傅对你的锁做了什么/5.jpeg)
 
 现实中，由于加工精度限制，弹子不会在一条直线上。所以每拨开一个弹子，扭力扳手都会使锁芯稍微旋转，从而固定住那个已经拨到切线之上的弹子。于是便可以逐个击破剩下的弹子，将锁打开了。
 
 但是一个弹子一个弹子地开锁还是太慢了，而且还极度依赖经验和手感。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191749433.jpeg)
+![Vol/Vol.121 开锁师傅对你的锁做了什么/6.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.121%20开锁师傅对你的锁做了什么/6.jpeg)
 
 刷勾（rake）是一个更高效的开锁工具，捅一次就能拨动多个弹子，大大减少了开锁时间。从此开锁只需反复瞎捅。
 
 那能不能同时搞定所有弹子？撞匙的原理更巧妙些，它考虑的更本质：要开锁，只要让切线位置没有障碍即可。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191749730.jpeg)
+![Vol/Vol.121 开锁师傅对你的锁做了什么/7.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.121%20开锁师傅对你的锁做了什么/7.jpeg)
 
 这是你见过牛顿摆。当敲击一组互相接触的小球时，动量传导会让远端的小球弹起。
 
 将上下弹子当作牛顿摆，问题就解决了。敲击撞匙，能量会通过下弹子传给上弹子，最终上弹子弹起。当上弹子弹过切线时锁芯即可扭转。有经验的老手撞一下即可开锁。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191749817.jpeg)
+![Vol/Vol.121 开锁师傅对你的锁做了什么/8.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.121%20开锁师傅对你的锁做了什么/8.jpeg)
 
 撞匙枪（pick gun）是撞匙的改良版，甚至不用掌握敲击的力道和方向，只需扣动板机就能打开。
 
 这种秒开技术让锁商有了危机感。他们开始研究如何让锁变得更难开。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191749121.jpeg)
+![Vol/Vol.121 开锁师傅对你的锁做了什么/9.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.121%20开锁师傅对你的锁做了什么/9.jpeg)
 
 一种思路是改变锁孔形状。传统弹子锁的直线锁孔能让单勾、撞匙和撞匙枪随意活动，而复杂锁孔就限制了它们的活动范围。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191749148.jpeg)
+![Vol/Vol.121 开锁师傅对你的锁做了什么/10.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.121%20开锁师傅对你的锁做了什么/10.jpeg)
 
 这几种钥匙对应的锁，就是简单弹子锁的升级版，只是锁孔形状从竖向改为横向。这样原始单勾就不能伸进去了。
 
@@ -63,40 +60,38 @@
 
 除了增加锁孔复杂度，增加单个弹子的开启难度也能提高锁的安全性。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191749129.jpeg)
+![Vol/Vol.121 开锁师傅对你的锁做了什么/11.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.121%20开锁师傅对你的锁做了什么/11.jpeg)
 
 蘑菇形、工字形等异形弹子让单勾开锁的难度上了一个台阶。像这样，就算下弹子没有完全推上切线，锁芯仍然可以转动。当有一排弹子时，你很难判断是哪个弹子没有推上去。但撞匙仍然能破解，因为判断单个弹子的状态对它而言并不重要。
 
 要获得更高的安全性就得搞定撞匙。边柱（side bar）就是一种方案。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191750588.jpeg)
+![Vol/Vol.121 开锁师傅对你的锁做了什么/12.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.121%20开锁师傅对你的锁做了什么/12.jpeg)
 
 在边柱锁中，防止锁芯扭转的除了弹子还有边柱。
 
 这把锁上的边柱由五个侧弹子控制。只有它们处于特定位置时，边柱才能落下。因此，撞匙在此毫无用处。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191749282.jpeg)
+![Vol/Vol.121 开锁师傅对你的锁做了什么/13.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.121%20开锁师傅对你的锁做了什么/13.jpeg)
 
 刷勾开锁成功几率也极低。因为每打开一个弹子，由于边柱的存在，锁芯不能旋转，无法固定住单个已经打开的弹子。
 
 根据中国最新的机械防盗锁国家标准，锁具被分为 ABC 三个等级，其中等级最高的 C 级锁，使用专业工具技术开启的时间必须大于 10 分钟。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191749249.jpeg)
+![Vol/Vol.121 开锁师傅对你的锁做了什么/14.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.121%20开锁师傅对你的锁做了什么/14.jpeg)
 
 这类锁大多都用上了边柱以及其他更复杂的机械结构，即便是经验老道的开锁师傅也很难快速开启。常常只能另辟蹊径，比如撬开猫眼，使用特殊工具从里面的把手开门。
 
 对于大部分人来说，合格的 C 级锁其实已经够用。且反锁之后，普通猫眼工具也无法开门。如果你还是特别担心，在门口加装一个摄像头也足以让想要入室盗窃的不法分子败兴而归。
 
-
-
 !!! note "该文件编辑日志"
 
 	* 	MAY 24, 2020.
 		By [FlyingSky-CN](https://github.com/FlyingSky-CN)
-	
+
 			📦 Update Vol.120-Vol.122
-		
+
 	*	SEP 19, 2021.
 		By [Just-Prog](https://github.com/Just-Prog)
-		
+
 			图片链修复

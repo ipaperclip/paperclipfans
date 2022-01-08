@@ -6,21 +6,13 @@
 
 结尾有一个非常有趣的招募，不要错过 :-)
 
-
-
 嗨，我是回形针的制作人吴松磊。
 
 有段时间没见了！今天这支视频主要是向大家汇报过去半年我们的工作，也预告一些回形针未来的计划。
 
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/1.png)
 
-
-![image-20210911221229622](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112212484.png)
-
-
-
-![image-20210911221348351](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112213222.png)
-
-
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/2.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/2.png)
 
 如果我们把今年 3 月底的肉蛋奶、停更、复更作为一个节点，那么过去半年，我们也有没有做出更好的内容来回馈观众呢？
 
@@ -40,35 +32,25 @@
 
 但也有好消息，这半年我们组织了一个 150 多人、来自各行各业的审稿志愿者团队，帮我们挑出了不少错误。非常感谢群里的各位老师，也感谢扫码提交申请的 5000 多位观众。每一份申请都在激励我们做出更好的内容。
 
-
-
 这半年我直接参与的回形针内容变少了很多，有几位新作者加入了进来。
 
 再次向大家介绍：
 
-![林檎](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112233432.png)
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/3.png(林檎)](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/3.png)
 
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/4.png(张甲木)](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/4.png)
 
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/5.png(季文仪)](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/5.png)
 
-![张甲木](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112233736.png)
-
-
-
-![季文仪](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112233289.png)
-
-他们也在不断成长和探索回形针的风格，希望大家可以多多鼓励。 
-
-
+他们也在不断成长和探索回形针的风格，希望大家可以多多鼓励。
 
 说回来，我参与回形针变少，是因为我一直扑在去年年底就预告的交视频项目上。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109120923125.gif)
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/6.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/6.gif)
 
 对，就是这个。这个项目本来计划在今年春天发售，但我还是太乐观了。
 
-这半年我们重做了大量的交互，加入了一堆狂野的新内容，还做了移动端的适配，所以——
-
-**顺利跳票了**
+这半年我们重做了大量的交互，加入了一堆狂野的新内容，还做了移动端的适配，所以 —— **顺利跳票了**
 
 为了防止再次跳票的风险， 今天在这里我也必须放出狠话。
 
@@ -80,17 +62,15 @@
 
 希望感兴趣的朋友可以扫码加入，挽救我们工厂将要被解散的命运。
 
-![image-20210911224755018](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112247173.png)
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/7.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/7.png)
 
 除了交互项目，还有一些工作我们也在持续进行中。
 
 首先是我们的第三张原声音乐专辑，应该会收录过去回形针节目中 60 多首我们的原创音乐，和前两张专辑一样，这张专辑也遵守 CC BY 4.0 协议，你可以免费使用我们的音乐。
 
-![image-20210911225114596](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112251026.png)
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/8.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/8.png)
 
 新专辑应该会在 10 月发布，希望你们喜欢。
-
-
 
 然后就是回形针手册 2.0 的全新版本。
 
@@ -100,27 +80,25 @@
 
 未来两个月我们会正式发布，敬请期待。
 
-
-
 最后我也想聊聊观众们的评论。
 
 我是非常喜欢看评论的，观众的反馈是我们评价视频好坏的重要指标。不过这半年来最吸引我注意力的还是各种批评回形针的评论。
 
 比如有让我们再表演一下肉蛋奶的，有讨论屁股问题的，有批评我们控评、拉黑的，也有列出一长串回形针夹带私货黑历史的，有嘲讽我们内外网双标题的……
 
-![image-20210911225438048](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112254182.png)
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/9.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/9.png)
 
-![image-20210911225449469](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112254609.png)
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/10.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/10.png)
 
-![image-20210911225509991](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112255139.png)
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/11.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/11.png)
 
-![image-20210911225557393](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112255535.png)
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/12.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/12.png)
 
-![image-20210911225601723](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112256866.png)
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/13.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/13.png)
 
-![image-20210911225618420](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112256561.png)
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/14.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/14.png)
 
-![image-20210911225639368](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112256506.png)
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/15.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/15.png)
 
 但其实没有。
 
@@ -130,13 +108,11 @@
 
 我始终相信，平等和坦诚的交流一定可以让我们都收获点什么。如果顺利的话，我们或许可以把这个过程 一刀不剪地录制下来，说不定也会是一个很有价值的视频内容。
 
-![image-20210911230127717](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109112301858.png)
+![Sp/Sp.007 工作汇报：最近半年我们都干了什么？/16.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.007%20工作汇报：最近半年我们都干了什么？/16.png)
 
 如果你对这个活动感兴趣的话，可以扫描屏幕上的二维码报名加入。 我相信你们花费这么多的精力来批评我们，一定是有理由的。
 
 我们大概会选出10个人，你们可以当面直接喷我，聊点让我尴尬的东西。
-
-
 
 好，今天的工作汇报就到这里。很高兴能和你们聊聊这些琐事。
 

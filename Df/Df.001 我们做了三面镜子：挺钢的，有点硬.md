@@ -1,8 +1,8 @@
-
+# Df.001 我们做了三面镜子：挺钢的，有点硬
 
 嗨，我是吴松磊。欢迎来到干燥工厂的全新栏目——提前动手。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151032869.png)
+![Df/Df.001 我们做了三面镜子：挺钢的，有点硬/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.001%20我们做了三面镜子：挺钢的，有点硬/1.png)
 
 去年年底我向大家介绍过我们的实体产品项目，希望深入到工厂和流水线，理解一款消费品到底是怎么被设计和生产出来的。
 
@@ -12,7 +12,7 @@
 
 好，隆重介绍，提前动手的第一款产品——很钢镜。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151032863.png)
+![Df/Df.001 我们做了三面镜子：挺钢的，有点硬/2.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.001%20我们做了三面镜子：挺钢的，有点硬/2.png)
 
 简单来说，就是一面钢做成的镜子。特点是硬。
 
@@ -20,7 +20,7 @@
 
 我们在中学物理课本上就学过光的反射，表面越光滑，反射率越高，镜面反射的效果就越好，我们日常见到的大多数镜子都依赖背面的镀银或者镀铝等金属完成对光的反射，让你看清自己。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151032043.png)
+![Df/Df.001 我们做了三面镜子：挺钢的，有点硬/3.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.001%20我们做了三面镜子：挺钢的，有点硬/3.png)
 
 但是玻璃镜子也有一个非常明显的缺点，容易碎。
 
@@ -28,43 +28,43 @@
 
 不啰嗦，直接看样品。
 
-##### **一｜撕裂**
+## **一｜撕裂**
 
 将一块被机械抛光的镜面板，用激光从中间开出一道缝隙，然后通过钣金折弯将板材右侧弯折到一定角度，让它稳稳地立在桌面上。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151032211.jpg)
+![Df/Df.001 我们做了三面镜子：挺钢的，有点硬/4.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.001%20我们做了三面镜子：挺钢的，有点硬/4.jpg)
 
-##### **二｜折纸**
+## **二｜折纸**
 
 这个很有意思，你会拿到一块平板，需要你自己动手将它弯折成这个造型。这种工艺叫「工业折纸」。也是通过激光切割，降低折线处的刚度，让它易于弯折。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151032354.jpg)
+![Df/Df.001 我们做了三面镜子：挺钢的，有点硬/5.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.001%20我们做了三面镜子：挺钢的，有点硬/5.jpg)
 
-##### **三｜拉丝**
+## **三｜拉丝**
 
 这是最简洁的一款，在镜面板上做拉丝的效果也挺好看的。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151032402.jpg)
+![Df/Df.001 我们做了三面镜子：挺钢的，有点硬/6.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.001%20我们做了三面镜子：挺钢的，有点硬/6.jpg)
 
 它们背面都使用了「乱纹处理」，让你感受打磨前后的钢材料对比。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151032846.jpg)
+![Df/Df.001 我们做了三面镜子：挺钢的，有点硬/7.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.001%20我们做了三面镜子：挺钢的，有点硬/7.jpg)
 
 拿出这三款样品并不容易，这是我们的一个样品。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151033474.jpg)
+![Df/Df.001 我们做了三面镜子：挺钢的，有点硬/8.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.001%20我们做了三面镜子：挺钢的，有点硬/8.jpg)
 
 打磨后的效果没那么光滑，还达不到可以作为镜子的程度。也没能体现出钢材料在抛光过程中的变化。
 
 之后的几个月， 我们又陆续找其他工厂做出来这 6 个新样品。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151033878.png)
+![Df/Df.001 我们做了三面镜子：挺钢的，有点硬/9.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.001%20我们做了三面镜子：挺钢的，有点硬/9.png)
 
 但还是不太行，问题在于我们就不应该让工厂手动打磨，天津市南开区的不锈钢交易城的庞厂长告诉我们，通常镜面板是不锈钢制品厂向上游的抛光厂采购的，而抛光厂的镜面抛光机都长这样，只能将整块大不锈钢板进行整体打磨。
 
 最后历经波折，我们搞出了这三款镜子。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151033390.jpg)
+![Df/Df.001 我们做了三面镜子：挺钢的，有点硬/10.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.001%20我们做了三面镜子：挺钢的，有点硬/10.jpg)
 
 好，这就是提前动手的第一款产品「很钢镜」，考虑到包装和包邮成本，我们的定价大概是 50 块钱左右。
 
@@ -80,9 +80,8 @@
 
 具体规则大概就是这样：
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151033018.jpg)
+![Df/Df.001 我们做了三面镜子：挺钢的，有点硬/11.jpg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.001%20我们做了三面镜子：挺钢的，有点硬/11.jpg)
 
 差不多了。之后的每隔一段时间，我们都会拿出一个奇奇怪怪的产品想法，找你要 1 块钱支持一下。如果你也有想做的东西，或者对我们的产品有任何的想法或者建议，都欢迎留言，或者给我们发邮件 factory@ipaperclip.org，下次见，拜拜。
 
-![](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151033490.png)
-
+![Df/Df.001 我们做了三面镜子：挺钢的，有点硬/12.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Df/Df.001%20我们做了三面镜子：挺钢的，有点硬/12.png)

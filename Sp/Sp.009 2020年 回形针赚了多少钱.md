@@ -2,103 +2,120 @@
 
 嗨，我是干燥工厂的 CEO，回形针PaperClip 的制作人吴松磊。
 
-
 今天是 2020 年 12 月 31 日，这一年终于要结束了。和我们在 2018 年、2019 年做的一样，我们会在这支视频里向大家汇报：2020 年回形针到底赚了多少钱？
 
-
-
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451752.gif)
+![Sp/Sp.009 2020年 回形针赚了多少钱/1.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/1.gif)
 
 让我先回答一个很多朋友经常会问的问题：我们为什么要这么坦诚地公开收支数据呢？
+
 作为你的当代生活说明书，说明我们自己其实也是工作的一部分。
+
 但更重要的原因是，这就是我们的沟通方式。我们相信，公开、透明、坦诚的对话，真的可以让这个世界变得更美好。所以我们希望能定期向观众汇报我们的工作，甚至直接和批评者们面对面聊天。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221452748.gif)
+![Sp/Sp.009 2020年 回形针赚了多少钱/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/2.gif)
 
 这也是我们向观众朋友表达感谢的方式，谢谢大家过去这一年来的支持！
-除了我们，你可能也找不到第二个千万级营收的新媒体公司或者网红向大家公布收支情况了，所以也挺有趣的。
-好，2020 年我们的全年收入是 1985.6 万，其中绝大多数都是我们来自我们的视频制作和广告业务 (1908.5 万)
-。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451784.jpeg)
+除了我们，你可能也找不到第二个千万级营收的新媒体公司或者网红向大家公布收支情况了，所以也挺有趣的。
+
+好，2020 年我们的全年收入是 1985.6 万，其中绝大多数都是我们来自我们的视频制作和广告业务 (1908.5 万)。
+
+![Sp/Sp.009 2020年 回形针赚了多少钱/3.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/3.jpeg)
 
 今天，我们在各个平台已经拥有了总计超过 1700 万的关注者，也有越来越多的客户开始认同我们的技术可视化能力，让我们能用一个直观的视频把他们的技术方案和复杂原理讲清楚。
+
 感谢所有的客户！
+
 除了我们现在的风格，新的一年我们还会探索实拍素材的可视化方案，甚至是长纪录片的可能性。如果你是纪录片导演或者有实拍经验，欢迎发送邮件到 wusonglei@ipaperclip.org，我们或许可以合作，一块做点新东西。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451530.png)
+![Sp/Sp.009 2020年 回形针赚了多少钱/4.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/4.png)
 
 虽然收入变多了，但我们的成本也翻了好几倍。今年，我们的总支出是 1613.9 万。一年前，我们还只是一个 20 人的小团队。现在，我们已经有了 55 名全职同事，今年的人力成本就差不多得 900 万了。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451188.gif)
+![Sp/Sp.009 2020年 回形针赚了多少钱/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/5.gif)
 
 人一多，各方面的支出其实都不是小数字。比如今年电费就交了 8 万 5000 块钱，花了 60 万用来提供午餐、零食和聚餐，交了 100 多万的税，还花了 50 多万用来购买正版字体、软件、音乐、图片。虽然贵，但该花的钱还是得花。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451471.png)
+![Sp/Sp.009 2020年 回形针赚了多少钱/6.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/6.png)
 
 支出的另一个大头是我们开始了两个亏钱的新业务：实体产品和基本操作。
+
 今年 11 月，我们的淘宝店开张，发售了三款新产品。虽然看起来挺简单的，但其实用了整整 8 个月才做出来。这是因为我们从零开始设计、打样、接触供应商，调整产品的每一个细节，而不是简单地贴牌或者印个 logo。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451150.gif)
+![Sp/Sp.009 2020年 回形针赚了多少钱/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/7.gif)
 
 对于我们的实体产品业务，赚钱还没那么重要，更重要的是让我们有机会深入工厂和流水线，理解一款商品究竟是如何做出来的。
+
 未来我们每做一个新东西，都会做成视频，为你展现真实世界里的消费品工业。如果你感兴趣，请关注我们的频道：干燥工厂。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451181.png)
+![Sp/Sp.009 2020年 回形针赚了多少钱/8.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/8.png)
 
 另一个新业务是我们投入了巨大精力的交互视频项目——基本操作。
+
 我们相信，可操作、可互动的可视化视频会成为在线教育的未来。经过两年的漫长开发，无数个版本的重构和迭代，终于赶在年底发布了，我们还开了一场线上发布会向大家介绍基本操作的第一个交互项目《一个人工智能的诞生》。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221452553.gif)
+![Sp/Sp.009 2020年 回形针赚了多少钱/9.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/9.gif)
 
 把这件事做出来真的太难了，所以请让我再放一段 20 秒的宣传片，开心一下。
+
 欢迎大家关注基本操作，花一块钱体验我们的项目！
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451175.gif)
+![Sp/Sp.009 2020年 回形针赚了多少钱/10.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/10.gif)
 
 过去的两周，我们已经卖出了接近一万份《一个人工智能的诞生》的抢先体验版，也收到了非常多观众的评价，真的非常感谢大家！
+
 抢先体验版的定价是 49 元，我们会持续更新，在明年春天升级为正式版。你也可以在干燥工厂淘宝店买到价格相同而且包邮的实体卡版本。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451356.gif)
+![Sp/Sp.009 2020年 回形针赚了多少钱/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/11.gif)
 
 截止今天，基本操作大概给我们带来了五十多万的收入，相比于我们投入的成本还是挺亏钱的。但我觉得这是一个好的开始，我们终于可以为你带来对得起定价的服务，和你发生纯粹的金钱交易了，这很健康。
+
 无论是基本操作还是实体产品，我们都需要更优秀的工程师、设计师和产品经理加入我们。你可以扫描屏幕上的二维码，填写表单，每一份申请我们都会看到。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221452715.png)
+![Sp/Sp.009 2020年 回形针赚了多少钱/12.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/12.png)
 
 基本操作也在寻找技术负责人，如果你有兴趣的话，也可以发邮件到 wusonglei@ipaperclip.org，期待和你一块工作。
+
 当然，如果继续招人的话，我们的办公室好像又有点坐不下了。
+
 所以，我们把隔壁的办公室也租了下来。然后，把两个办公室的二楼打通。现在，我们可以坐下 150 多个人了。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451210.gif)
+![Sp/Sp.009 2020年 回形针赚了多少钱/13.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/13.gif)
 
 但人多也未必是好事，人多意味着更高的管理成本和沟通成本，一不留神就可能出错。
+
 在公司规模快速增长的这一年，我们也暴露出了很多小作坊时期遗留的问题，比如今年 3 月的「地图」和「肉蛋奶」问题就引发了很多观众的批评。
+
 今天再次为我们视频里的失误向大家道歉。我们也更新了制作流程，改掉了小作坊时期的那些随意、不严谨的毛病。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451762.gif)
+![Sp/Sp.009 2020年 回形针赚了多少钱/14.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/14.gif)
 
 但批评和谣言、恶意攻击混杂在一起，其实造成了很多观众对我们的误解。我们能做的只有尽可能地坦诚回复、直面观众，面对面沟通。但对于很多不关注我们，不看这些回复的朋友们来说，误解一旦形成，就很难消除了。
+
 被误解的感觉其实不太好，但我们好像也没有什么好办法。能做的只有继续工作，做得再好一点。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451882.gif)
+![Sp/Sp.009 2020年 回形针赚了多少钱/15.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/15.gif)
 
 所以，我们到底是一家什么样的公司？我们在为了什么而工作？
+
 我们研究的话题看起来五花八门，各类业务好像也不太一样，但是内核其实是一致的。
+
 回形针为你探究一个个具体事物、现象背后的原因和技术原理；基本操作把基础科学和成体系的学科知识变得可视化和可交互；干燥工厂的实体产品会更聚焦大众消费品、工业自动化和流水线。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451240.gif)
+![Sp/Sp.009 2020年 回形针赚了多少钱/16.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/16.gif)
 
 这些工作都是在研究和探索这个世界的运转逻辑，为你解释这个技术高度复杂的当代生活。
+
 这就是我们要做的，为中国新一代年轻人提供世界一流的中文知识视频，通过严肃、可靠、高信息密度的可视化方案，回答你关于当代生活的一切问题。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451092.gif)
+![Sp/Sp.009 2020年 回形针赚了多少钱/17.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/17.gif)
 
 我们希望为中文互联网创造一些可以留下来的东西，一些在几年后仍然会有价值的内容，一些我们不做就不会有人做的事情。
+
 我们要做的是填补空白。
+
 这真的很难，充满未知和风险，还很可能失败。但这就是我们的工作。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221451876.gif)
+![Sp/Sp.009 2020年 回形针赚了多少钱/18.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.009%202020年%20回形针赚了多少钱/18.gif)
 
 2020 年真的是不太容易的一年，希望新的一年，我们都能更松弛一点。祝大家新年快乐，拜拜。

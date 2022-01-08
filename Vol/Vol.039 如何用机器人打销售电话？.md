@@ -1,4 +1,5 @@
 # Vol.039 如何用机器人打销售电话？
+
 今天的呼叫中心是一项非常成熟的产业，在工信部审批发放的《增值电信业务经营许可证》中，呼叫中心被归类为第二类增值电信业务。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaYxaBecU69elAIQnehqyI8zCRWCakANz9zZ2LQ6mwA71of625aKT02piaTLUPFZRWykUhPia1VFNfuw.gif)

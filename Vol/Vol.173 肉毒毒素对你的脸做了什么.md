@@ -6,7 +6,7 @@
 
 2017 年肉毒毒素以「万能药」标签登上时代周刊封面，目前它在全球已被应用于几十种适应症，仅在 2019 年，接受注射的就已超过 620 万例。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151122006.gif)
+![Vol/Vol.173 肉毒毒素对你的脸做了什么/1.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.173%20肉毒毒素对你的脸做了什么/1.gif)
 
 但不要忘了，肉毒毒素更是一种神经毒素，还曾被当做生化武器使用。为什么这种剧毒物质如今却受人追捧？肉毒毒素对你到底做了什么？
 
@@ -14,13 +14,13 @@
 
 事后调查发现，中毒者都在聚餐时吃过烟熏火腿，且感到味道怪异；而没中毒的都没吃过火腿。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151122800.gif)
+![Vol/Vol.173 肉毒毒素对你的脸做了什么/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.173%20肉毒毒素对你的脸做了什么/2.gif)
 
 一切证据都指向了那块变质火腿。
 
 根特大学的微生物学家 Ermengem 作为事件调查员，从尸体、火腿等样品中找到了元凶——肉毒杆菌。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151122828.png)
+![Vol/Vol.173 肉毒毒素对你的脸做了什么/3.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.173%20肉毒毒素对你的脸做了什么/3.png)
 
 这份发表于 1897 年的报告详述了中毒者的症状，大多为视力受损、眼睑不受控制、吞咽困难、肌肉无力等。
 
@@ -30,7 +30,7 @@
 
 一旦接收到神经信号刺激，突触便会释放神经递质来引起肌肉收缩，产生运动。肉毒毒素进入人体后则会阻断神经递质的释放，神经信号因此受到屏蔽，肌肉麻痹停止工作并出现中毒症状。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151122043.gif)
+![Vol/Vol.173 肉毒毒素对你的脸做了什么/4.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.173%20肉毒毒素对你的脸做了什么/4.gif)
 
 但事情也有另一面，很多毒药只要剂量严控在安全范围内，就能完成身份转换。
 
@@ -38,13 +38,13 @@
 
 从此开始，肉毒毒素的应用便多点开花，一发不可收拾。其中，最让它名声大噪，走进万千普众视野的应用——祛皱，是由加拿大医生 Carruther 夫妇发现的。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151122055.png)
+![Vol/Vol.173 肉毒毒素对你的脸做了什么/5.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.173%20肉毒毒素对你的脸做了什么/5.png)
 
 为什么肉毒毒素会让皱纹消失呢？
 
 不妨从皱纹形成中找找答案。这是孟心一俊俏的脸庞，剖开皮肤，他的面部肌肉主要由这几个肌肉群组成。面部肌肉牵动着皮肤，表现出喜怒哀乐等丰富的表情。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151122638.jpeg)
+![Vol/Vol.173 肉毒毒素对你的脸做了什么/6.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.173%20肉毒毒素对你的脸做了什么/6.jpeg)
 
 但当你在做各种表情时，肌肉会拉着皮肤一起收缩，形成了这一道道的褶皱，也就是皱纹。
 
@@ -52,7 +52,7 @@
 
 动态纹只在做表情时出现，比如这样、还有这样。但在面无表情时，还能看到清晰纹路的便是静态纹。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151122745.gif)
+![Vol/Vol.173 肉毒毒素对你的脸做了什么/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.173%20肉毒毒素对你的脸做了什么/7.gif)
 
 如果动态纹放任不管，便会随着时间流逝逐渐向静态纹转变而难以处理。所以早期控制动态纹是减缓静态纹发生的第一步，也是关键所在。你可以通过表情管理来预防，但对自控能力有一定考验。
 
@@ -60,19 +60,19 @@
 
 只要向靶肌肉注射肉毒毒素来阻断神经信号，让肌肉放松不再收缩，眉间纹也就不会产生了。即便你心里想皱眉，肌肉却不为所动。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151123134.gif)
+![Vol/Vol.173 肉毒毒素对你的脸做了什么/8.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.173%20肉毒毒素对你的脸做了什么/8.gif)
 
 不过这就要小心脸僵的发生，毕竟当你想笑的时候却面如死灰，也是一件痛苦的事情。当然不是只要注射肉毒毒素就会造成脸僵，选对产品和医生是关键。决定产品质量的因素很多，比如来源、配方、生产工艺等。
 
 查询药监局官网发现，目前国内经批准上市的只有这四家。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151122824.png)
+![Vol/Vol.173 肉毒毒素对你的脸做了什么/9.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.173%20肉毒毒素对你的脸做了什么/9.png)
 
 也就是说，那些活跃在隐秘市场和朋友圈里的粉毒、绿毒等均为非法走私产品。虽然未获批，但其实早在 2014 年就有韩国向中国出口的记录，且出口份额逐年增加。
 
 除了非法走私外，医美市场同样充斥着各种假货。肉毒毒素作为一种生物制剂，生产工艺复杂且研发门槛高，所以当你买到极低价格产品时，很可能就是假货。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151122665.gif)
+![Vol/Vol.173 肉毒毒素对你的脸做了什么/10.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.173%20肉毒毒素对你的脸做了什么/10.gif)
 
 根据中整协数据显示，国内市场上销售的肉毒毒素有 70% 都是水货假货，凭借着低价竞争而广泛流通在非正规的私人美容院等场所。
 
@@ -80,20 +80,20 @@
 
 当然正规产品也会因配方不同而具有差异。比如明胶蛋白作为产品的赋形剂，由于来源于动物，为人体非同源蛋白，相对发生过敏的概率更高；而同为赋形剂的人血白蛋白源于健康人血浆，无免疫原性和生物兼容性好，致敏风险相对更低。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151122381.gif)
+![Vol/Vol.173 肉毒毒素对你的脸做了什么/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.173%20肉毒毒素对你的脸做了什么/11.gif)
 
 另外就是弥散度。面部肌肉极为精细复杂，要精准控制并非易事。如皱眉肌面积只有 3 c㎡ 左右，如果弥散度过高，势必会影响到邻边肌肉群，可能产生上睑下垂、眼睑闭合不全等后果。
 
 不过弥散度并非固定，它会受针头尺寸、稀释度、推注速度、注射部位等因素影响。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151122349.png)
+![Vol/Vol.173 肉毒毒素对你的脸做了什么/12.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.173%20肉毒毒素对你的脸做了什么/12.png)
 
 除了选对产品，还要选对医生。但相比于广阔的市场需求，我国专业的整形医生并不多，每百万人均整形医生 2.1 人，与爆炸式增长的需求完全不符。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151122913.gif)
+![Vol/Vol.173 肉毒毒素对你的脸做了什么/13.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.173%20肉毒毒素对你的脸做了什么/13.gif)
 
 巨大的利益下，市面上打着「四天成为微整形医生，七天学会微整形」等幌子的培训班应运而生，它们往往通过招募学员、培训技术，贩卖违规产品等手段扩张灰色产业链，对消费者而言，意味着难以预计的风险。
 
 半个多世纪以来，肉毒毒素从「毒」到「药」转变，以及在医疗医美领域取得的成果，是靠严谨的、正规的技术和医生实现的。不要让地下黑产，让「药」再变成「毒」。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108151122444.gif)
+![Vol/Vol.173 肉毒毒素对你的脸做了什么/14.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.173%20肉毒毒素对你的脸做了什么/14.gif)

@@ -2,31 +2,31 @@
 
 毛发，有的人嫌少想生发，有的人嫌多想脱毛。脱毛到底有多难？如何科学脱毛？
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221333543.gif)
+![Vol/Vol.159 人类脱毛指南/1.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/1.gif)
 
 先来认识一下人体的毛发。
 
 在你全身就遍布着这样的长毛、短毛、毳毛。虽然特性不同，但结构基本一致，皮肤以外的为毛干，以内的为毛根。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221338786.gif)
+![Vol/Vol.159 人类脱毛指南/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/2.gif)
 
 包裹毛根的为一袋状毛囊，深度大约在 1 ~ 5 mm。毛囊分为三个部分：漏斗部、峡部和毛球。毛球下端凹入部位为毛乳头，维持毛发的营养和生长。
 
 靠近毛乳头的毛基质是毛发及毛囊的生长区，并为毛发提供色素。年轻时期毛发生长更加旺盛，毛发粗壮且颜色更深。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221333582.gif)
+![Vol/Vol.159 人类脱毛指南/3.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/3.gif)
 
 但它并不会这样一直生长，所有毛发都会经历三个生长周期。生长期的毛发快速增生；退行期毛乳头缩小，毛囊缩短，毛根上升；休止期毛囊萎缩，毛发脱落，直到进入新的生长期，周而复始。
 
 不同部位毛发的生长周期不同，比如头发的生长期可持续约 2 ~ 6 年，而眉毛只有 1 ~ 2 个月，所以眉毛的长度要远远短于头发。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221333308.gif)
+![Vol/Vol.159 人类脱毛指南/4.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/4.gif)
 
 而在相同部位的毛发，有的疯狂生长，而有的正在脱落。显然等它们自己集体消失不可能，还得我们动手。
 
 方法有很多，包括传统的物理脱毛、化学脱毛和光学脱毛。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221333977.gif)
+![Vol/Vol.159 人类脱毛指南/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/5.gif)
 
 最原始粗暴的方法就是将毛发一根根地拔除，如果你能忍受拔毛带来的酸爽，说不定还会上瘾，但千万要小心别患上「拔毛癖」。
 
@@ -34,11 +34,11 @@
 
 另外拔毛会对毛囊有损伤，存在诱发毛囊炎的风险。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221333760.png)
+![Vol/Vol.159 人类脱毛指南/6.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/6.png)
 
 相比拔毛，剃毛来得无痛一些。放心，并不会越剃越多，剃掉的只是毛干，并没有触及毛囊，由于发根部的硬度和直径都大于发梢，才让你误以为毛发变粗变多。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221333726.gif)
+![Vol/Vol.159 人类脱毛指南/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/7.gif)
 
 但要注意在摩擦部位如腋下或私密部位，会存在擦伤和刮伤感染的风险。
 
@@ -46,27 +46,25 @@
 
 原理很简单，脱毛膏的成分中大多含有巯基乙酸盐，它能够打断毛发中角蛋白的二硫键，溶解毛发结构，并从发根部脱落。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221333925.gif)
-
+![Vol/Vol.159 人类脱毛指南/8.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/8.gif)
 
 脱毛膏对皮肤有刺激，如果肌肤敏感或频繁使用，很容易诱发红肿过敏反应，使用前一定要做局部过敏测试。
 
 提醒一下，记得让你的脱毛膏离洗发水远一点，不然很可能让你所剩无几的头发雪上加霜。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221338913.gif)
-
+![Vol/Vol.159 人类脱毛指南/9.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/9.gif)
 
 虽然这几种方式都能达到脱毛目的，但不得不面对毛发很快就长出来的问题，且这场战斗将持续一生。
 
 搜索永久脱毛，会发现少不了激光脱毛和光子脱毛的身影，它们是什么？到底有没有用呢？
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221333652.gif)
+![Vol/Vol.159 人类脱毛指南/10.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/10.gif)
 
 这一切还需要追溯到 Anderson 在 1983 年提出的「选择性光热理论」，靶组织在吸收光子能量后，温度急剧升高造成凝固坏死，而周围正常组织不会发生病变。
 
 所以只需要向毛囊发射激光或脉冲光，破坏毛囊就能实现脱毛。听起来简单，但要想实现并不容易。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221333513.gif)
+![Vol/Vol.159 人类脱毛指南/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/11.gif)
 
 首先，要选择合适的波长。
 
@@ -74,7 +72,7 @@
 
 皮肤中的色基主要有黑色素、血红蛋白和水，不同色基对光吸收能力不同。脱毛需要的靶色基为黑色素，就要选择血红蛋白和水相对吸收较少的光，波长大约在红光和近红外波段。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221333781.gif)
+![Vol/Vol.159 人类脱毛指南/12.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/12.gif)
 
 另外不同波长的光在组织中的穿透深度不同，考虑到毛囊深度，激光脱毛多选用 694 nm 以上固定波长。
 
@@ -82,16 +80,16 @@
 
 其次是能量密度。研究表明要想破坏毛囊需达到 5 J/cm² ，过低则不能造成毛囊损伤，达不到长久脱毛效果。
 
-
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221333885.png)
+![Vol/Vol.159 人类脱毛指南/13.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/13.png)
 
 最后是脉冲时间。毛囊受热会使周围组织温度升高，但这需要时间，只要毛囊受热时间小于热量向周边组织散失的时间，就能够将热量局限于毛囊上。
 
 满足这三个条件，调整合适参数，就能够实现安全有效的脱毛。在这份经脉冲光脱毛的 1038 例临床疗效结果显示，各部位有效率在 62.50% ~ 100% ，总体有效率达到 92.80%，效果可观。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221333817.gif)
+![Vol/Vol.159 人类脱毛指南/14.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/14.gif)
 
 但要注意脱毛效果会受皮肤毛发颜色、产品参数和身体部位等影响；同时还需要足够长的疗程，因为每次破坏的只是部分处于生长期的毛囊，只有经历多次轮番攻击，才能达到满意的效果。
+
 当然你也可以像这位小哥一样来个全身上下无死角脱毛，回味无穷。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108221333068.gif)
+![Vol/Vol.159 人类脱毛指南/15.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Vol/Vol.159%20人类脱毛指南/15.gif)

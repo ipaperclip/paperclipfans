@@ -1,41 +1,79 @@
 # PaperClip × 沃尔沃 汽车车身如何护你周全？
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212218675.png)
+![x/x.沃尔沃_1 汽车车身如何护你周全？/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.沃尔沃_1%20汽车车身如何护你周全？/1.png)
+
 汽车的结构到底要多强，才能实现这样的「叠叠乐」？
+
 扒掉为你遮风挡雨的机盖、车门，你就能看到汽车的金属骨架，它撑起了汽车完整的躯体。
+
 汽车发展的历程中，车架结构逐渐进化出了两种类型：承载式和非承载式。
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212218770.png)
+
+![x/x.沃尔沃_1 汽车车身如何护你周全？/2.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.沃尔沃_1%20汽车车身如何护你周全？/2.png)
+
 非承载式车身的核心结构是这样独立的刚性车架，车身直接扣在车架上，车轮通过悬架装置连接在车架上，在面对颠簸时，车轮的震动不易传递到车身。
+
 但假如突遇车祸，所有的冲击都要由不易形变的车架承受。这就使得非承载式车身常见于底盘较高的货车及越野车。
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212219458.gif)
+
+![x/x.沃尔沃_1 汽车车身如何护你周全？/3.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.沃尔沃_1%20汽车车身如何护你周全？/3.gif)
+
 但我们在公路上常见的家用车发生的车祸往往是这样、这样、或者这样——所有冲击力几乎都直接作用在车身上。所以，常见的家用轿车往往采用车架与车身契合的承载式车身。
+
 承载式车身的核心，是这部分由左右 A、B、C 柱和门槛梁组成的，呈鸟笼状环绕在车厢外的结构，它的作用是尽可能保护车身不被外界冲击摧毁。
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212218840.png)
+
+![x/x.沃尔沃_1 汽车车身如何护你周全？/4.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.沃尔沃_1%20汽车车身如何护你周全？/4.png)
+
 在上一期与沃尔沃合作的视频中我们知道，正面碰撞是最常见的汽车事故，为了应对正面碰撞，汽车会通过前部低强度钢材构成冲击溃缩区吸能，而座舱区的笼式结构则要采用极高强度钢材，防止撞击时产生形变造成乘员受伤。
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212218076.png)
+
+![x/x.沃尔沃_1 汽车车身如何护你周全？/5.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.沃尔沃_1%20汽车车身如何护你周全？/5.png)
+
 什么样的钢材才能满足笼式结构的强度需求？
+
 这是一张不同类型钢材的强度表，纵坐标为钢材的断后延伸率，数值越高则意味着可塑性越强。而横坐标为抗拉强度，表示钢材在静拉伸条件下的最大承载能力，反映了钢材的强度。
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212218217.png)
+
+![x/x.沃尔沃_1 汽车车身如何护你周全？/6.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.沃尔沃_1%20汽车车身如何护你周全？/6.png)
+
 对于溃缩区，往往采用这部分延伸率高，强度较低的材料。而车架的笼式结构，则要选择这些高强度钢材。怎样才能让钢材强度变强？
+
 众所周知，钢是铁元素与碳元素构成的合金，而碳元素的含量，决定了钢材的强度。
+
 常温下的钢，铁原子主要以体心立方 α-Fe 的方式排列，这样的排列下最多只能溶解 0.0218% 的碳。而把钢材加热到 912℃ 以上时，铁原子的排列会转化为面心立方 γ-Fe，被称作奥氏体。
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212219352.gif)
+
+![x/x.沃尔沃_1 汽车车身如何护你周全？/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.沃尔沃_1%20汽车车身如何护你周全？/7.gif)
+
 在面心立方的排列下，铁原子之间会产生更大的空隙来容纳更多的碳原子，最高可以溶解 2.11% 的碳。
+
 高温下的奥氏体虽然溶碳能力强，但已接近熔融状态，要在常温下保留碳原子，就要进行淬火——将高温钢材投入水或油中，使其急速降温并回归 α-Fe 状态，让碳元素在来不及反应的瞬间留在其中。
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212218322.gif)
+
+![x/x.沃尔沃_1 汽车车身如何护你周全？/8.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.沃尔沃_1%20汽车车身如何护你周全？/8.gif)
+
 α-Fe 在残存碳原子的挤压下， 会产生畸变并展现出坚硬的特性，这种构造叫做马氏体。要想让钢材的强度足够强，就要想办法获得更多的马氏体。
+
 只有每秒 300℃ 的降温才能锁住碳原子，生成马氏体，材料一旦过大或形状不规则，都可能导致马氏体生成不均匀或效率低下，产生其他结构。
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212218396.png)
+
+![x/x.沃尔沃_1 汽车车身如何护你周全？/9.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.沃尔沃_1%20汽车车身如何护你周全？/9.png)
+
 行业内的普遍做法是在原始的钢坯中中加入硼元素。研究表明，只要加入极其少量硼元素，就能在淬火的过程中极大提升马氏体的生成效率。
+
 以一根正面碰撞中首当其冲的 A 柱为例，要获得超高强度的 A 柱，就要将含硼元素的钢坯连续加热直到完全奥氏体化，再迅速使用热冲压模具冲压成型，接下来瞬间淬火冷却。
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212219702.gif)
+
+![x/x.沃尔沃_1 汽车车身如何护你周全？/10.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.沃尔沃_1%20汽车车身如何护你周全？/10.gif)
+
 这样工艺叫做「热成型」，无需锻造即可获得完整的超高强度 A 柱，根据沃尔沃提供的数据，抗拉强度能达到 1500 MPa，相当于每平方厘米都能承受 10 吨左右的拉力。
+
 它真的很强吗？我们查询了 IIHS 的正面碰撞测试，其中采用超高强度硼钢 A 柱的沃尔沃车辆均表现出极高的分数。
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212218996.gif)
+
+![x/x.沃尔沃_1 汽车车身如何护你周全？/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.沃尔沃_1%20汽车车身如何护你周全？/11.gif)
+
 不仅 A 柱，超高强度钢材为整车也赋予了强大的安全实力。这是 IIHS 的顶盖抗压测试，目标是测得在车身型变量 127 mm 的范围内峰值载荷与车重之比。而这台采用了 34% 硼钢的沃尔沃 XC60，测试结果值达到了 5.18，也就是车顶单边就可以承受车辆自重的 5.18 倍。
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212218052.gif)
+
+![x/x.沃尔沃_1 汽车车身如何护你周全？/12.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.沃尔沃_1%20汽车车身如何护你周全？/12.gif)
+
 目前的钢材市场中，热成型硼钢这样的超高强度钢材已经接近量产钢材强度的天花板，而沃尔沃在 XC90 这样的高端车型中将硼钢使用率提升到了 40%。
+
 对安全无比狂热的沃尔沃，在 IIHS 2021 年的测试中，共 14 款车型拿下了顶级安全至尊奖 TSP+，成为拥有拿到此奖项车型最多的生产商。
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212218879.gif)
+
+![x/x.沃尔沃_1 汽车车身如何护你周全？/13.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.沃尔沃_1%20汽车车身如何护你周全？/13.gif)
+
 沃尔沃的设计追求即是如此：将汽车打造成「路上坦克」。正是在这样的追求下，才能让一辆辆汽车也能轻松如积木般实现「叠叠乐」。
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202108212218199.gif)
+
+![x/x.沃尔沃_1 汽车车身如何护你周全？/14.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.沃尔沃_1%20汽车车身如何护你周全？/14.gif)

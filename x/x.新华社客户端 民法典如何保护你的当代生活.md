@@ -1,6 +1,6 @@
 # PaperClip x 新华社客户端 民法典如何保护你的当代生活
 
-![image-20210920065251279](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200735227.png)
+![x/x.新华社客户端 民法典如何保护你的当代生活/1.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/1.png)
 
 2020年5月22日， 十三届全国人民代表大会三次会议正式召开。
 
@@ -8,11 +8,9 @@
 
 今年我们就能看到新中国历史上第一部民法典的正式颁布和其他九部单行法律的废止。
 
-![image-20210920065552982](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200736567.png)
+![x/x.新华社客户端 民法典如何保护你的当代生活/2.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/2.png)
 
 而这部共 1260 个条文的法典，将深远地影响我们的当代生活。
-
-
 
 民法典希望保障你生活中的各种权利。
 
@@ -20,7 +18,7 @@
 
 近代民法典的制定可以追溯到 1804 年的《法国民法典》，分为三个篇章：人、财产和取得财产的方法。
 
-![动画](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200734618.gif)
+![x/x.新华社客户端 民法典如何保护你的当代生活/3.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/3.gif)
 
 到 1900 年，德国颁布了极富逻辑性和体系性的《德国民法典》，和《法国民法典》并肩为各国民法典的基石。“总分则分开编纂”的模式也被中国采用。
 
@@ -30,17 +28,17 @@
 
 新中国成立以来曾先后四次尝试制定民法典，但都因为条件不成熟而没有结果。
 
-![image-20210920072725696](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200735347.png)
+![x/x.新华社客户端 民法典如何保护你的当代生活/4.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/4.png)
 
 所以，我们先分别制定各类单行法，比如《婚姻法》、《合同法》、《物权法》等等等等。
 
 当我们拥有一系列成熟的民事法律，形成完整体系后，就可以在这些法案的基础上修订完整的民法典了。
 
-![动画](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200735485.gif)
+![x/x.新华社客户端 民法典如何保护你的当代生活/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/5.gif)
 
 2014 年 10 月，十八届四中全会的这份决议开启了新中国第 5 次民法典编纂计划。
 
-![image-20210920073753890](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200737275.png)
+![x/x.新华社客户端 民法典如何保护你的当代生活/6.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/6.png)
 
 先被通过的是民法典的第一阶段：民法总则。
 
@@ -54,59 +52,58 @@
 
 现在，我们可以来看看新中国几代人努力而来的重要立法成果了。
 
-![image-20210920075140765](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200751104.png)
+![x/x.新华社客户端 民法典如何保护你的当代生活/7.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/7.png)
 
 这部《民法典（草案）》一共有 1260 个条文，分成了七个大篇章：总则编、物权编、合同编、人格权编、婚姻家庭编、继承编、侵权责任编。
 
 作为之前颁布的单行法的整合，民法典正式实施后，这些单行法将同时废止。
 
-![image-20210920075343177](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200753434.png)
+![x/x.新华社客户端 民法典如何保护你的当代生活/8.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/8.png)
 
 同时，在这些单行法的基础上，民法典也做了不少更新。
 
 比如关于“高空抛物”的第 1254 条，之前属于侵权责任法第 87 条，在原法条基础上，民法典新增了对高空抛物的禁止、追偿条款、对于物业责任的认定和有关机关的规定。
 
-![image-20210920075635176](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200756458.png)
+![x/x.新华社客户端 民法典如何保护你的当代生活/9.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/9.png)
 
-![image-20210920075739195](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200757441.png)
+![x/x.新华社客户端 民法典如何保护你的当代生活/10.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/10.png)
 
 除此以外，民法典也关注新技术引发的新问题。比如第 512 条中对电子合同的认定规则。
 
-![动画](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200759407.gif)
+![x/x.新华社客户端 民法典如何保护你的当代生活/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/11.gif)
 
 第 1009 条中对人体胚胎和基因等科研活动的规定等等。
 
-![image-20210920080103899](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200801360.png)
+![x/x.新华社客户端 民法典如何保护你的当代生活/12.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/12.png)
 
 除了对原有单行法的完善，这部《民法典》最大的亮点是之前没有单行法而这次独立成编的“人格权编”。
 
-![image-20210920080431916](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200804240.png)
+![x/x.新华社客户端 民法典如何保护你的当代生活/13.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/13.png)
 
 “人格权编”关心你的身体、姓名、肖像、名誉和隐私。这些在之前民法中仅有原则性规定的权利现在都有了对应的章节，我们也因此获得了更多保护。
 
 比如之前的《民法通则》对肖像权的规定是“未经本人同意，不得以营利为目的使用公民肖像”，但在“人格权编”中，肖像权的范围变得更大了，不再以“是否盈利”作为衡量标准。如果未经同意，即使你给同学同事拍张照发朋友圈，也是侵犯了他们的肖像权。
 
-![动画2](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200813777.gif)
+![x/x.新华社客户端 民法典如何保护你的当代生活/14.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/14.gif)
 
 而“姓名权”中，现在有一定影响力的艺名、笔名，尤其是网名，也和你的姓名一样受到保护。
 
-![image-20210920081433235](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200814462.png)
+![x/x.新华社客户端 民法典如何保护你的当代生活/15.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/15.png)
 
 对于“性骚扰“这样的社会热点问题，”人格权编“中 1010 条也做了完善。性骚扰受害者不再只有女性，而企业、学校等单位也应当明确责任，防止和制止利用职权、从属关系的性骚扰。
 
-![image-20210920081516467](https://cdn.jsdelivr.net/gh/Just-Prog/static@7cedd95b2a4827e93e4dbddb563fbf0684c82f8f/img/202109200815821.png)
+![x/x.新华社客户端 民法典如何保护你的当代生活/16.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/16.png)
 
 结合 191 条中的性侵害诉讼时效，那些因为害怕和无助错过起诉机会的孩子也可以在十八岁之后继续拿起法律武器，勇敢的维护自己的权利。
 
-![image-20210920081843875](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200818199.png)
+![x/x.新华社客户端 民法典如何保护你的当代生活/17.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/17.png)
 
 2020 年的民法典不仅仅是对过去九本单行法的整合和完善，像胎儿权益范围的增加、 对婚姻权益的保护、对高利放贷的禁止、对个人信息的保护等等，都体现了民法典对于社会议题和弱势群体的关注。
 
-![动画](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200822582.gif)
+![x/x.新华社客户端 民法典如何保护你的当代生活/18.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/18.gif)
 
 无数法律界人士夜以继日、呕心沥血的付出，就是为了这一天的到来——
 
 编纂一部我们自己的民法典，让每一个中国人都能更平等、更安全、更有尊严地生活。
 
-![动画](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109200828114.gif)
-
+![x/x.新华社客户端 民法典如何保护你的当代生活/19.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/x/x.新华社客户端%20民法典如何保护你的当代生活/19.gif)

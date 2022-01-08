@@ -4,110 +4,110 @@
 
 在他们的小程序上，我曾买到了 1996 年版吴清源自传《天外有天》，也卖掉了中二时期读过的村上春树、安妮宝贝、韩寒以及《刀剑神域》，获得了 539.5 元的巨款收入。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933276.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/1.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/1.jpeg)
 
 多抓鱼是如何科学买卖二手书的？从回收到卖出，一本二手书都经历了什么？
 
 当你用多抓鱼的 app 或小程序扫描一本书的 ISBN 号，就能立刻得知这本书收不收，能卖多少。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191934714.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/2.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/2.jpeg)
 
 对于是否回收，多抓鱼有着明确的拒收标准。倡导反智价值观、伪科学以及非法、违禁出版物，一律不收。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191934564.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/3.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/3.jpeg)
 
-另外这本 2005 年出版的房产导购类书籍《第一次买房》，其中北京的房价还停留在二环内每平米 8000~12000 元的白菜价，除了让你感叹物是人非，已经没有实用价值，也会拒收。
+另外这本 2005 年出版的房产导购类书籍《第一次买房》，其中北京的房价还停留在二环内每平米 8000\~12000 元的白菜价，除了让你感叹物是人非，已经没有实用价值，也会拒收。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933317.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/4.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/4.jpeg)
 
 接着，多抓鱼还要根据出版社、作者、题材等判断一本书的销售前景，决定是否回收。工程师根据以往近 1000 万本书籍的数据，训练出了一个算法模型。今天，在多抓鱼每天回收的近 20000 本书中，有 95% 都由算法判定是否回收。
 
 此外，还要考虑库存。多抓鱼会根据一本书的供求关系来动态调整价格，一旦一本书有库存积压，也会被归到「暂时不收」的小黑屋中。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933389.png)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/5.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/5.png)
 
 提交完你要卖的书，多抓鱼不会立刻打钱给你，因为这些书还要人工鉴定正盗版。
 
 市面上的盗版书比你想象的多，畅销书、教材教辅、少儿图书都是盗版的重灾区。
 
-对正规出版社来说，除去编辑、排版、校对、印刷等生产成本，再扣掉税、后期给批发商的折扣等，在刚好卖掉首印的情况下，一本书的利润一般是标价的 5%~15%。
+对正规出版社来说，除去编辑、排版、校对、印刷等生产成本，再扣掉税、后期给批发商的折扣等，在刚好卖掉首印的情况下，一本书的利润一般是标价的 5%\~15%。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933220.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/6.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/6.jpeg)
 
 而盗版书可以直接省去校对、稿费等固定成本，还能在印刷、装订方面省钱，即便低价卖，利润依然惊人。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933084.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/7.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/7.jpeg)
 
 没有人希望自己辛苦淘来的二手书居然还是盗版，那么多抓鱼是如何鉴定正盗版的呢？
 
 低劣的盗版书，肉眼就能识别。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933264.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/8.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/8.jpeg)
 
 比如在英文类外文书封底看到拼音或者中文，腰封印在封面上。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191934055.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/9.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/9.jpeg)
 
 更复杂的鉴定需要借助特征放大器，也就是这个最高放大 250 倍的专业定焦放大镜的帮助。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933379.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/10.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/10.jpeg)
 
 特征放大器可以从油墨、纸张、颜色三个角度辨别盗版书。
 
 在低倍镜下，肉眼观察时感觉良好的文字边缘开始呈锯齿状。这是盗版书籍印刷用墨不均的结果。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933854.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/11.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/11.jpeg)
 
 不同纸张的纹理也能通过特征放大器轻松辨别。右边是盗版书，它通过加网点让纸张看起来像是原木色，而正版纸张是这样的纤维结构。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933643.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/12.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/12.jpeg)
 
 下面两本书，颜色纸张似乎并无区别，但放大一点，再放大一点，你就会看到右边的这本出现了明显的网点。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933193.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/13.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/13.jpeg)
 
 这是因为印刷方式不同。大多数彩图是由基本的 C、M、Y、K 四色油墨叠成，如盗版书的这页绿色是在白纸上叠上了黄色和青色网点实现。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191934591.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/14.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/14.jpeg)
 
 但正版书是直接印上了预先调制的绿色油墨，因此就算放大也看不到网点。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933393.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/15.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/15.jpeg)
 
 这些细微的区别特征都被多抓鱼记录在数据库中。除了纸张、油墨之外，其中还会记录堵头布、衬页、防伪 LOGO 等特征点。这样，审核人员只需一一比对每个项目即可得出结论。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191934652.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/16.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/16.jpeg)
 
 如这本他们曾收到过的上万本、其中 15% 是盗版的《解忧杂货店》，数据库现已记录了堵头布颜色、内封皮材质、前衬页颜色三个特征点。现在，每收到一本书，审核人员都会重点观察这三个部位，确保是正版。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933018.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/17.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/17.jpeg)
 
 今天，这个数据库已经记录了近 4000 本正版书的特征，且书目种类还在每天扩充中。
 
 正版鉴定这个步骤会在仓库收到书的 48 小时内完成，这之后多抓鱼就会把书款打给你。而这些书也不会立刻转卖出去，因为二手书上常见的污渍和霉斑等依然会影响下一任主人的阅读体验。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933759.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/18.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/18.jpeg)
 
 为此，多抓鱼设计了打磨、清洁、消毒流程。人工打磨结合特制机器打磨，去掉泛黄的边缘和霉斑；严密的干湿处理，清洁书籍的封皮和内页。
 
 最后，它们还要在臭氧消毒室体验一个半小时的消毒流程。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933311.png)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/19.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/19.png)
 
 根据这份中化所检验报告，书籍暴露在臭氧消毒仓 30 分钟后，表面 99% 的病菌能被杀灭。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933525.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/20.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/20.jpeg)
 
 针对童书，多抓鱼还采用了更严格的清洁标准，人工一页页擦拭附膜的内页。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933542.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/21.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/21.jpeg)
 
 之后，这些二手书就会在多抓鱼上架。如果有人购买成功，多抓鱼就会提醒你，你卖出的二手书到了谁的手上，让你获悉书的归宿。
 
 毕竟，一本书最好的归宿就是被至少两个人读过。
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933623.jpeg)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/22.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/22.jpeg)
 
 **扫描下方二维码** **前往多抓鱼开启你的二手书之旅**
 
-![img](https://cdn.jsdelivr.net/gh/just-prog/static/img/202109191933216.png)
+![Ad/回形针事务所 016 - 如何科学地买卖二手书？/23.png](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20016%20-%20如何科学地买卖二手书？/23.png)

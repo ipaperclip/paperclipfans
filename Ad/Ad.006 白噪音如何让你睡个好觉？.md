@@ -1,24 +1,24 @@
 # 回形针事务所 006 - 白噪音如何让你睡个好觉？
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211650232.jpeg)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/1.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/1.jpeg)
 
 我是孟心一，这里是回形针事务所。今天我们要研究的产品是 Bose 的这款遮噪睡眠耳塞。
 
 当你戴上它并连接手机后，将会听到“瀑布声”、“下雨声”这类舒缓助眠的白噪音。是的，这款耳塞的唯一初心就是让你能好好睡觉，它是如何做到这一点的呢？
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211650468.jpeg)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/2.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/2.jpeg)
 
 不是所有人都能睡个好觉，假如你经常乘坐飞机、隔壁邻居正在装修、或者养了一只活泼的猫咪，那你很可能被吵得难以入睡。
 
 长期有睡眠问题的人往往对周围的声音非常敏感，当你躺在床上，闭上眼睛，如果你的猫在挠墙，就会吸引你的注意力，大脑非常亢奋，你是睡不着的。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211650505.jpeg)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/3.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/3.jpeg)
 
 当然，你可以选择塞上一个隔音海绵耳塞，世界安静了。但你发现你还是会分辨出猫挠墙的声音，只是它变小了，你的注意力还是在墙上，没有改变。
 
 不过，当你戴上合适尺寸的Bose遮噪睡眠耳塞 ，在APP中选择这样一首舒缓的白噪音开始播放，你会发现，你听不见墙被猫挠，于是心无杂念的你很快就昏昏欲睡。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211651141.jpeg)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/4.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/4.jpeg)
 
 而这有两点原因：首先，具有独特伞形结构的耳塞起到了一定程度的物理隔音效果。其次，白噪音在这里掌握了关键作用。
 
@@ -26,33 +26,33 @@
 
 一段声波，如果在人耳可听范围 20Hz - 20000Hz 内的各个频段中功率一致，那这段声波就是白噪音，听起来是这样的。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211651602.jpeg)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/5.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/5.jpeg)
 
 那么白噪音是怎么隔绝其他噪音呢？答案是掩蔽效应。比如这两段声音，分开听都能分辨清楚，合在一起你就只能听到一段。也就是在你耳中，一个声音被另一个声音所掩盖。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211651116.jpeg)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/6.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/6.jpeg)
 
 每个频率的声音都可以屏蔽强度更弱的其他频率声音，这个屏蔽的强度与频率构成的范围，叫做掩蔽阈。
 
 像这段频率为 1kHz ，声压级为 70dB 的声音，就可以屏蔽掉约 30dB 的 0.75 kHz 和 2kHz的声音。不同频率范围的声音有着不同的掩蔽阈范围。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211651879.jpeg)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/7.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/7.jpeg)
 
 这就是 BOSE 遮噪睡眠耳塞遮噪的原理，它发出的白噪音，理论上在全频域 0Hz - 20000Hz 都是同等强度的。
 
 你的猫挠墙的声音中的各个频率段，都被你耳中的白噪音掩蔽掉了。你的耳朵里充满白噪音，根本不知道该把注意力放在哪，久而久之，你就睡着了。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211651849.jpeg)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/8.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/8.jpeg)
 
 而且白噪音还能帮你睡得更好。
 
 你的一场睡眠中，可以根据熟睡程度分为五个阶段的反复循环：思睡期、浅睡期、快速眼动期、中度睡眠期和深度睡眠期。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211651815.jpeg)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/9.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/9.jpeg)
 
 根据美国睡眠医学学会（AASM）的报告，每个阶段，都会有不同的脑电波（EEG）特征，在浅睡期、中度睡眠期和深度睡眠期，脑电波中频率为 1~3Hz，幅度为 20~200μV 的 δ 波会从浅睡期的小于 20% 上升到深度睡眠期的大于 50% 。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211651471.jpeg)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/10.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/10.jpeg)
 
 所以，或许能有一种方法，能通过刺激脑电波中的 δ 波的强度，来促进你的深度睡眠。
 
@@ -60,26 +60,26 @@
 
 例如这张图，图中的大本钟在加入噪点图像后，细节并未被掩盖，反而增多。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211651332.gif)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/11.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/11.gif)
 
 这样的原理在声波和脑电波之间可行吗？我们找到了这篇发表在 Medicine 上的论文，它的实验提供了听觉噪音可以与脑电波产生随机共振并增强脑电波的证据。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211651691.jpeg)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/12.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/12.jpeg)
 
 全频段的白噪音可以在你入眠时更专注，并增强你的脑电波，比如 δ 波，让你更容易进入深度睡眠。
 
 兼具“遮噪 + 助眠”的 Bose 遮噪睡眠耳塞已经给好睡眠上了双重保险，同时显而易见的小巧身材和适配耳朵的设计，也为各种睡姿人士规避了咯耳朵的异物感和耳塞掉落的风险。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211651796.jpeg)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/13.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/13.jpeg)
 
 至于小巧设计的关键就是它抛去了所有其他降噪耳机需要的麦克风、播放单元，专注保障睡眠质量。
 
 在续航上，它使用了小巧的银锌电池，起码保证你能睡 16 个小时不断电，绝大多数情况你都不需要睡那么久。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211652138.jpeg)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/14.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/14.jpeg)
 
 接下来就剩下最后的问题：如果我睡得太香起不来怎么办？
 
 别担心，这款耳塞还内置了闹钟，即使播放过程中手机断电，到了约定时间，它依然会在你耳边响起叫你起床，同时不会吵醒其他人。
 
-![img](https://cdn.jsdelivr.net/gh/Just-Prog/static/img/202109211652811.jpeg)
+![Ad/回形针事务所 006 - 白噪音如何让你睡个好觉？/15.jpeg](https://cdn.jsdelivr.net/gh/just-prog/static/image/Ad/回形针事务所%20006%20-%20白噪音如何让你睡个好觉？/15.jpeg)
