@@ -62,11 +62,9 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NaaASFyYS8kWNjfiaKpTzq0YwytmNBmdSFyX37keZicWFeCJAQyrraPB1h9J6e9nQricNMbRMhNGECNvQ.gif)
 
-色谱柱是一根 10-30cm 的空心金属管，里面注满了硅胶，根据不同成分经过色谱柱的时间，就能得到一张这样的色谱图。 
+色谱柱是一根 10-30cm 的空心金属管，里面注满了硅胶，根据不同成分经过色谱柱的时间，就能得到一张这样的色谱图。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaaASFyYS8kWNjfiaKpTzq0YwcPujiawRBcdnYiber3HwCibibvKziaqEMpsJoOZSSJRjhIxY9jpDsIxwJbg.gif)
-
-​         
 
 横坐标是被测成分穿过色谱柱进入检测器的时间，纵坐标对应被测成分吸收的紫外线强度。
 

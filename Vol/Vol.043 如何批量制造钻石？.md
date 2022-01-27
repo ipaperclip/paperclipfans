@@ -22,7 +22,7 @@
 
 这个区间就是天然钻石的形成条件。
 
-在地下 100~300km，约 4.5~6GPa 、1000~1500℃ 的环境下，碳元素经过两三百万年的挤压汇聚才形成钻石，最后由火山活动带到地表。
+在地下 100~300km，约 4.5~6GPa 、1000&#126;1500℃ 的环境下，碳元素经过两三百万年的挤压汇聚才形成钻石，最后由火山活动带到地表。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZCquz9RCZIMRWbV0EGIj6IhboiaK8YWiboDSPmiap3ricCLz37uLaUdF3OUj7DuToiaJlqufsu28icNialA.gif)
 
@@ -32,7 +32,7 @@
 
 最简单粗暴的是爆炸法。
 
-把含碳原子的 TNT 和轰爆压力非常高的 RDX 两种炸药混合，在钢制厚壁罐体中引爆，产生 1000℃ 以上的高温和 30GPa 的超高压，TNT 中的一部分碳原子就会聚合成 5~15nm 大小的钻石，称为金刚石粉。
+把含碳原子的 TNT 和轰爆压力非常高的 RDX 两种炸药混合，在钢制厚壁罐体中引爆，产生 1000℃ 以上的高温和 30GPa 的超高压，TNT 中的一部分碳原子就会聚合成 5&#126;15nm 大小的钻石，称为金刚石粉。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZCquz9RCZIMRWbV0EGIj6IaC0Zyian7NbBjC0ibvmt4sVcNXSblRyJ9tPwJLXBvw54CscFqbUXHuCQ.gif)
 
@@ -82,7 +82,7 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZCquz9RCZIMRWbV0EGIj6IJY7gibnx3mQgd0W3Qibu5mzjQHhfPlYUTalx6tVysFLxeQRfYngXfBBw.gif)
 
-放在只有十分之一大气压的真空室中，注入甲烷气体和氢气，通过微波等方式加热到 800~1000℃。
+放在只有十分之一大气压的真空室中，注入甲烷气体和氢气，通过微波等方式加热到 800&#126;1000℃。
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZCquz9RCZIMRWbV0EGIj6IaSF38YnmCnrWnqTQ7Gzq51iaQXqAS8VsjqEuFxJH9jJl2vCcnibapH5Q.gif)
 
@@ -116,7 +116,7 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NaZCquz9RCZIMRWbV0EGIj6ItCKrmfSwmXSSI8Uyhs5zICPd9L0OLiaic8Pv9nuxoMuoSYecr9j8KVrg.gif)
 
-但以豫金刚石为例，除了传统的工业级金刚石，每年制造的无色宝石级钻石也可达 200~300 万克拉。
+但以豫金刚石为例，除了传统的工业级金刚石，每年制造的无色宝石级钻石也可达 200&#126;300 万克拉。
 
 论技术实力，中国每年一千万克拉的宝石级钻石进口量很快就可以由河南一省来生产，不过，就看你愿不愿意买了。
 

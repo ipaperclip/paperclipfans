@@ -22,7 +22,7 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1Naa7ZXPXPrzypibvHba2SQsyVKibGLQoIibq6Uhe24TFRD2nV4InmxPgpLCE0NBs0WWbiaia3g0rqAvTokw.gif)
 
-和我们在 12306 看到的时刻表不同，组织列车运行的基础是列车运行图。它大概长这样。   
+和我们在 12306 看到的时刻表不同，组织列车运行的基础是列车运行图。它大概长这样。
 
 ![img](https://paperclip.host/static/U6yRaDu1Naa7ZXPXPrzypibvHba2SQsyVZLj18zcl4mfMQ71ibH7SXD8A67XGU64lHqwFxj8mgnQWs8XNPVbo3bA.gif)
 

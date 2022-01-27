@@ -1,4 +1,5 @@
 # Vol.035 如何科学地炸倒一栋楼？
+
 作为一门严谨优雅的工程科学，拆除爆破的核心理念不是把整座建筑炸得灰飞烟灭。
 
 ![img](https://paperclip.host/static/U6yRaDu1NabWibD2hyKZ3pHnkqSZNa9YqCgZcON0Mfib5H03QG6nvpyaqngSKIRyBMO8qTGUjbnjWeLbCVLibcyYQ.gif)
@@ -39,7 +40,7 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NabWibD2hyKZ3pHnkqSZNa9YqLAZj4q9F74rkUiapVhMd6S4ZkQqEbq8XmscAvjibvkvo9lPiapuHUOtLg.gif)
 
-然后再根据建筑的长宽、重心高度等信息算出切口的高度。   
+然后再根据建筑的长宽、重心高度等信息算出切口的高度。
 
 切口高度如果过小，有可能造成爆破后倾而不倒的尴尬局面，过大则可能酿成上层建筑倾覆翻滚的危险情况。
 
@@ -51,7 +52,7 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NabWibD2hyKZ3pHnkqSZNa9YqW8QPsZRwlrEmRqpOA4d3MIkRiaYK9DlKYFU9PdQb0NZtH2xYSqf4klw.gif)
 
-根据 W 结合墙体的厚度强度可以计算出炮孔的间距 a 和排距 b，再通过以上数值就可以计算出每个炮孔的炸药量。   
+根据 W 结合墙体的厚度强度可以计算出炮孔的间距 a 和排距 b，再通过以上数值就可以计算出每个炮孔的炸药量。
 
 ![img](https://paperclip.host/static/U6yRaDu1NabWibD2hyKZ3pHnkqSZNa9YqgD2mjf0YJTEsWZggM86VOJnt0rxegY7TC59MLVXtZV2DA3SB7woWeQ.gif)
 

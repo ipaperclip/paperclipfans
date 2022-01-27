@@ -4,6 +4,7 @@
  * 自动构建 Mkdocs 预处理
  * 
  * @author FlyingSky-CN
+ * Modified By Just-Prog
  */
 
 function includeFile($file, $name) {
@@ -48,6 +49,8 @@ $yml = file_get_contents('mkdocs.yml');
 addClass('Vol');
 addClass('Sp');
 addClass('Ad');
+addClass('x');
+addClass('Df');
 
 file_put_contents('mkdocs.yml', $yml);
 

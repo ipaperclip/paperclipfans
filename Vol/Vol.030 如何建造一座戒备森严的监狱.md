@@ -64,7 +64,7 @@
 
 而中国之所以要大力建设高科技监狱，很大程度上是为了应对警力的不足。
 
-按司法部标准，狱警与犯人的比例应为 18% ，但实际上真正在一线的狱警不到 5% ，大大低于国外通行 25%~30% 警囚比的水平。
+按司法部标准，狱警与犯人的比例应为 18% ，但实际上真正在一线的狱警不到 5% ，大大低于国外通行 25%&#126;30% 警囚比的水平。
 
 ![img](https://paperclip.host/static/U6yRaDu1Naa9kWqISdYQ7ZKLrKHay1YlFJpZU7htK6mPEeaHXEPloKGmSBQRtFcPW6OibhbUBdyjrCBiaQwBmNcw.gif)
 

@@ -4,31 +4,31 @@
 
 今年 3 月，我们开始独立运营，到现在为止一共制作了 45 支视频。截止到今天，我们的收入是62.7 万元，其中 9.7 万元来自视频制作，53 万元来自广告。
 
-![Pic](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200322100010.gif)
+![Sp/Sp.001 2018 年回形针如何赚钱？/1.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.001%202018%20年回形针如何赚钱？/1.gif)
 
 我们的支出是 110.2 万，其中办公室租赁 20 万，硬件和办公室装修 12 万， 537 元用来买转发抽奖的礼物了。
 
-![Pic](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200322100011.gif)
+![Sp/Sp.001 2018 年回形针如何赚钱？/2.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.001%202018%20年回形针如何赚钱？/2.gif)
 
 剩下的 70 多万是人力成本：我们现在有 3 个作者，3 个动效师，2 个分镜师，1 个程序员和 4 个实习生。
 
-![Pic](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200322100012.gif)
+![Sp/Sp.001 2018 年回形针如何赚钱？/3.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.001%202018%20年回形针如何赚钱？/3.gif)
 
 所以，我们今年亏损了 47.5 万元。
 
-![Pic](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200322100013.webp)
+![Sp/Sp.001 2018 年回形针如何赚钱？/4.webp](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.001%202018%20年回形针如何赚钱？/4.webp)
 
 应该会赚回来的？
 
 我们的广告收入分为两类，一类是联合出品，我们今年和汽车 MCN 老司机联合出品了 11 支视频，我们会得到老司机支付的制作费和商务分成。
 
-![Pic](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200322100014.gif)
+![Sp/Sp.001 2018 年回形针如何赚钱？/5.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.001%202018%20年回形针如何赚钱？/5.gif)
 
 另一类是视频定制，比如和腾讯围棋合作的《围棋AI养成指南》，和滴滴合作的《如何准确定位你的手机》、和联想合作的《如何显示准确的颜色》。
 
 我们单支广告视频定制的最新报价是 12 万。但做一期广告视频并不容易，需要在内容深度和客户需求之间寻找平衡。
 
-![Pic](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200322100015.gif)
+![Sp/Sp.001 2018 年回形针如何赚钱？/6.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.001%202018%20年回形针如何赚钱？/6.gif)
 
 在这些广告视频中，我们比较满意的是和滴滴的合作，这是因为滴滴技术团队给了我们大量的材料和技术细节，让我们可以做出扎实的技术可视化。
 
@@ -44,6 +44,6 @@
 
 这是我们独立运营的第一年，以后每一年的年末我们都会制作一支关于我们营收情况的视频，希望明年能有更多好消息告诉大家。
 
-![Pic](https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200322100016.gif)
+![Sp/Sp.001 2018 年回形针如何赚钱？/7.gif](https://cdn.jsdelivr.net/gh/just-prog/static/image/Sp/Sp.001%202018%20年回形针如何赚钱？/7.gif)
 
 祝大家新年快乐。

@@ -1,24 +1,12 @@
-//在文章前插入Vue.js 和 ElementUI 文件
-<script src="https://cdn.jsdelivr.net/npm/vue"></script>
-<script src='https://unpkg.com/element-ui@2.13.0/lib/index.js'></script>
+# Vol.115 为什么你要献血
 
-# <i class="fa fa-hashtag" aria-hidden="true"></i> Vol.115 为什么你要献血
-
-<div id="yc">
-<el-tag type="info">原创</el-tag>  张每羊/孙玮辰
-</div>
-
-<div id="hr">
-<el-divider content-position="center">文字稿</el-divider>
-</div>
-//文字稿正文
 在你体内，大约流着 5 升血液，主要包含血浆、红细胞、白细胞、血小板，分别起到运输血细胞、输送氧气、免疫、止血等作用。
 
 如果你突遭意外，失血超过四成就可能死亡，必须紧急输血，而这些救你一命的血液几乎都来自他人的无偿捐献。
 
 在中国，血液是如何捐献、使用的？为什么你要献血？
 
-献血主要在各地的血站完成，可分为政府设立的提供临床用血的公益性血站，属于无偿献血；还有企业以营利为目的，用于生产各种血液制品而设立的单采血浆站，会提供一定报酬。 
+献血主要在各地的血站完成，可分为政府设立的提供临床用血的公益性血站，属于无偿献血；还有企业以营利为目的，用于生产各种血液制品而设立的单采血浆站，会提供一定报酬。
 
 公益性血站大多会采集全血，即直接收集血液保存。献血者经过简单的体检和健康问询后就可开始采集，单次最多可捐献 400 mL 。
 
@@ -65,18 +53,3 @@
 当然，你可能听过关于献血的各种谣言，但要知道，按规范献血并不会危害健康。
 
 而且你会发现，献血的真正意义是让所有人救所有人。在这次新冠肺炎疫情中，用于治疗重症患者的人免疫球蛋白，每一瓶都包含了上千个人的血液成分，因为人越多，其中包含的抗体种类就越多。是的，在人类选择集群而居的时候，每个人的体内就已经开始流动着他人之血。
-//正文结束
-//声明标签
-//在Github上编辑此页面
-<div id="link">
-<div>
-  <el-link href="github地址(保留,无需更改)" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> 编辑此页面 ></el-link>
-</div>
-</div>
-//编辑此页面
-<script>
-new Vue().$mount('#hr')
-new Vue().$mount('#app')
-new Vue().$mount('#yc')
-new Vue().$mount('#link')
-</script>

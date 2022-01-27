@@ -10,7 +10,7 @@
 
 #### GitHub Pages
 
-![Publish docs via GitHub Pages](https://github.com/ipaperclip/paperclipfans/workflows/Publish%20docs%20via%20GitHub%20Pages/badge.svg)
+[![Publish docs via GitHub Pages](https://github.com/ipaperclip/paperclipfans/actions/workflows/main.yml/badge.svg)](https://github.com/ipaperclip/paperclipfans/actions/workflows/main.yml)
 
 <https://paperclip.wiki>
 
@@ -26,4 +26,4 @@ git clone https://github.com/ipaperclip/paperclipfans.git -b gh-pages
 
 ## 贡献
 
-请前往 [这里](https://paperclip.wiki/contribution/) 。
+请前往 [原项目贡献地址](https://paperclip.wiki/contribution/)  或 [提起 Pull Request](https://github.com/ipaperclip/paperclipfans/pulls)。
