@@ -1,6 +1,6 @@
 # PaperClip Fans
 
-氦，这里是 回形针 PaperClip 内容收录仓库的一个维护分支（由Just Prog个人维护），你可以在这里找到往期节目的相关内容。
+氦，这里是 回形针 PaperClip 内容收录仓库的一个维护分支，你可以在这里找到往期节目的相关内容。
 
 ## 使用
 
@@ -12,7 +12,7 @@
 
 [![自动生成 GitHub Pages](https://github.com/Just-Prog/paperclipfans/actions/workflows/main.yml/badge.svg)](https://github.com/Just-Prog/paperclipfans/actions/workflows/main.yml)
 
-<https://just-prog.github.io/paperclipfans>
+<https://paperclip.justprog.tk>
 
 该站点由 GitHub Actions 自动构建并部署在 GitHub Pages。通常情况下，站点内容与仓库同步。如果你对该站点有任何疑问，可以直接发 issue ~~或联系 fly@paperclip.wiki~~ 。
 
