@@ -4,7 +4,7 @@
  * 自动构建 Mkdocs 预处理
  * 
  * @author FlyingSky-CN
- * @modify Just-Prog
+ * Modified By Just-Prog
  */
 
 function includeFile($file, $name) {

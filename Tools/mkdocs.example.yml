@@ -31,12 +31,12 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/telegram-plane
-      link: https://t.me/papercliphub
+      link: https://t.me/paperclipgroup
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/ipaperclip
+      link: https://github.com/Just-Prog/paperclipfans
 
 google_analytics:
-  - UA-154880396-4
+  - G-G2F4F2DSHK
   - auto
 
 # Extensions
