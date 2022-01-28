@@ -16,7 +16,7 @@ jobs:
           mkdir docs
           cp Tools/mkdocs.example.yml mkdocs.yml
           cp Start/* docs/
-          php autobuild
+          php autobuild.php
           
       - name: Throw mkdocs.yml (debugger)
         run: cat mkdocs.yml

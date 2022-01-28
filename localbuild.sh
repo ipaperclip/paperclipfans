@@ -1,3 +1,4 @@
+#!/bin/bash
 
 rm -rf docs/
 mkdir docs
