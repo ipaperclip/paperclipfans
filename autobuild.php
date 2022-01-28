@@ -36,11 +36,11 @@ function addClass($name)
         ['.', '..']
     );
 
-    $name = ucwords($name);
+    $ucname = ucwords($name);
     $yml .= "\n  - $name: ";
 
     foreach ($files as $file) {
-        $filename = $name . '.' . explode('.', explode(' ', $file)[0])[1];
+        $filename = $ucname . '.' . explode('.', explode(' ', $file)[0])[1];
         includeFile("$name/$file", "$filename");
         $f = str_replace('.md', '', ucwords($file));
         $yml .= "\n    - $f: $filename.md";
