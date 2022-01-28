@@ -37,7 +37,7 @@ function addClass($name)
     );
 
     $ucname = ucwords($name);
-    $yml .= "\n  - $name: ";
+    $yml .= "\n  - $ucname: ";
 
     foreach ($files as $file) {
         $filename = $ucname . '.' . explode('.', explode(' ', $file)[0])[1];
@@ -57,7 +57,7 @@ function listContributor()
 {
     if (!file_exists('docs/contributor.json') or !file_exists('docs/contribution.md')) return false;
     $contributors = json_decode(file_get_contents('docs/contributor.json'), true);
-    $out = '<style>[class*="mdui-row-"] {margin-left: -8px;margin-right: -8px} [class*="mdui-row-"]:after {isplay: table;clear: both;content: \'\'}.mdui-row-xs-1 .mdui-col {float: left;width: 100%}@media (min-width: 600px) {.mdui-row-sm-2 .mdui-col {float: left;width: 50%}}.mdui-card {position: relative;-webkit-box-sizing: border-box;box-sizing: border-box;overflow: hidden;color: #000;background-color: #fff;border-radius: 2px;-webkit-box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12)}.mdui-card-header {position: relative;height: 72px;-webkit-box-sizing: border-box;box-sizing: border-box;padding: 16px;}.mdui-card-header-avatar {float: left;width: 40px;height: 40px;border-radius: 50%}.mdui-card-header-title, .mdui-card-header-subtitle {display: block;margin-left: 52px;overflow: hidden;line-height: 20px;text-overflow: ellipsis;white-space: nowrap;}.mdui-card-header-title {font-size: 16px;font-weight: 500;opacity: .87}.mdui-card-header-subtitle {font-size: 14px;font-weight: 400;opacity: .54}.mdui-card-content {position: relative;padding: 4px 16px 16px;font-size: 14px;line-height: 24px} .mdui-p-a-1 {padding: 8px!important}</style>';
+    $out = '';
     $out .= '<div><div class="mdui-row-xs-1 mdui-row-sm-2" style="display: table">';
     foreach ($contributors as $contributor) {
         $contributor['link'] = [];
