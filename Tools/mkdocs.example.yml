@@ -22,22 +22,19 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  include_search_page: false
-  search_index_only: true
   features:
-    - instant
-    - tabs
+    - navigation.instantinstant
+    - navigation.tabs
 
 extra:
   social:
     - icon: fontawesome/brands/telegram-plane
-      link: https://t.me/paperclipgroup
+      link: https://t.me/papercliphub
     - icon: fontawesome/brands/github-alt
       link: https://github.com/ipaperclip
-
-google_analytics:
-  - UA-154880396-4
-  - auto
+  analytics:
+    provider: google
+    property: UA-154880396-4
 
 # Extensions
 markdown_extensions:
@@ -50,4 +47,3 @@ nav:
   - Home: 
     - 开始: index.md
     - 贡献: contribution.md
-    - 声明: license.md
