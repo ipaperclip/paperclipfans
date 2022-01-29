@@ -1,0 +1,82 @@
+[class*="mdui-row-"] {
+    margin-left : -8px;
+    margin-right: -8px
+}
+
+[class*="mdui-row-"]:after {
+    display : table;
+    clear  : both;
+    content: \'\'
+}
+
+.mdui-row-xs-1 .mdui-col {
+    float: left;
+    width: 100%
+}
+
+@media (min-width: 600px) {
+    .mdui-row-sm-2 .mdui-col {
+        float: left;
+        width: 50%
+    }
+}
+
+.mdui-card {
+    position          : relative;
+    -webkit-box-sizing: border-box;
+    box-sizing        : border-box;
+    overflow          : hidden;
+    color             : #000;
+    background-color  : #fff;
+    border-radius     : 5px;
+    -webkit-box-shadow: 0 0.2rem 0.5rem rgba(0,0,0,.05),0 0 0.05rem rgba(0,0,0,.1);
+    box-shadow        : 0 0.2rem 0.5rem rgba(0,0,0,.05),0 0 0.05rem rgba(0,0,0,.1);
+}
+
+.mdui-card-header {
+    position          : relative;
+    height            : 72px;
+    -webkit-box-sizing: border-box;
+    box-sizing        : border-box;
+    padding           : 16px;
+}
+
+.mdui-card-header-avatar {
+    float        : left;
+    width        : 40px;
+    height       : 40px;
+    border-radius: 50%
+}
+
+.mdui-card-header-title,
+.mdui-card-header-subtitle {
+    display      : block;
+    margin-left  : 52px;
+    overflow     : hidden;
+    line-height  : 20px;
+    text-overflow: ellipsis;
+    white-space  : nowrap;
+}
+
+.mdui-card-header-title {
+    font-size  : 16px;
+    font-weight: 500;
+    opacity    : .87
+}
+
+.mdui-card-header-subtitle {
+    font-size  : 14px;
+    font-weight: 400;
+    opacity    : .54
+}
+
+.mdui-card-content {
+    position   : relative;
+    padding    : 4px 16px 16px;
+    font-size  : 14px;
+    line-height: 24px
+}
+
+.mdui-p-a-1 {
+    padding: 8px !important
+}
