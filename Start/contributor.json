@@ -1,7 +1,7 @@
 [
     {
         "github": "a77uu",
-        "avatar": "https://avatars0.githubusercontent.com/u/45524688?s=160",
+        "avatar": "https://avatars.githubusercontent.com/u/45524688?s=160",
         "commit": true,
         "email": "admin@paperclip.wiki",
         "object": [
@@ -11,7 +11,7 @@
     },
     {
         "github": "FlyingSky-CN",
-        "avatar": "https://avatars0.githubusercontent.com/u/29764514?s=160",
+        "avatar": "https://avatars.githubusercontent.com/u/29764514?s=160",
         "commit": true,
         "email": "fly@paperclip.wiki",
         "object": [
@@ -21,8 +21,26 @@
         ]
     },
     {
+        "github": "Just-Prog",
+        "avatar": "https://avatars.githubusercontent.com/u/62735122?s=160",
+        "commit": true,
+        "email": false,
+        "object": [
+            "📰 Editor"
+        ]
+    },
+    {
+        "github": "zhao-robert",
+        "avatar": "https://avatars.githubusercontent.com/u/52877222?s=160",
+        "commit": true,
+        "email": false,
+        "object": [
+            "📰 Editor"
+        ]
+    },
+    {
         "github": "lcandy2",
-        "avatar": "https://avatars0.githubusercontent.com/u/45784494?s=160",
+        "avatar": "https://avatars.githubusercontent.com/u/45784494?s=160",
         "commit": true,
         "email": "lcandy@paperclip.wiki",
         "object": [
@@ -30,35 +48,8 @@
         ]
     },
     {
-        "github": "Zhao-Robert",
-        "avatar": "https://avatars0.githubusercontent.com/u/52877222?s=160",
-        "commit": true,
-        "email": false,
-        "object": [
-            "📰 Editor"
-        ]
-    },
-    {
-        "github": "voidge",
-        "avatar": "https://avatars1.githubusercontent.com/u/54477765?s=160",
-        "commit": true,
-        "email": false,
-        "object": [
-            "📰 Editor"
-        ]
-    },
-    {
-        "github": "XxLittleCxX",
-        "avatar": "https://avatars0.githubusercontent.com/u/26459759?s=160",
-        "commit": true,
-        "email": false,
-        "object": [
-            "📰 Editor"
-        ]
-    },
-    {
-        "github": "Just-Prog",
-        "avatar": "https://avatars0.githubusercontent.com/u/62735122?s=160",
+        "github": "Ceebyu",
+        "avatar": "https://avatars.githubusercontent.com/u/63044872?s=160",
         "commit": true,
         "email": false,
         "object": [
@@ -75,8 +66,26 @@
         ]
     },
     {
+        "github": "XxLittleCxX",
+        "avatar": "https://avatars.githubusercontent.com/u/26459759?s=160",
+        "commit": true,
+        "email": false,
+        "object": [
+            "📰 Editor"
+        ]
+    },
+    {
+        "github": "ObserverAlpha",
+        "avatar": "https://avatars.githubusercontent.com/u/40122820?s=160",
+        "commit": true,
+        "email": false,
+        "object": [
+            "📰 Editor"
+        ]
+    },
+    {
         "github": "tnqzh123",
-        "avatar": "https://avatars0.githubusercontent.com/u/16630630?s=160",
+        "avatar": "https://avatars.githubusercontent.com/u/16630630?s=160",
         "commit": false,
         "email": "tnqzh123@paperclip.wiki",
         "object": [

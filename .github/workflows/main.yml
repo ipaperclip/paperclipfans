@@ -1,4 +1,4 @@
-name: 自动生成 GitHub Pages
+name: Publish docs via GitHub Pages
 on:
   push:
     branches: [ master ]
@@ -8,20 +8,20 @@ jobs:
     name: Deploy docs
     runs-on: ubuntu-latest
     steps:
-      - name: 查验
+      - name: Checkout master
         uses: actions/checkout@v2
       
-      - name: 预处理
+      - name: Pretreatment
         run: |
           mkdir docs
           cp Tools/mkdocs.example.yml mkdocs.yml
-          cp Start/* docs/
-          php autobuild
+          cp -r Start/* docs/
+          php autobuild.php
           
-      - name: 打印 mkdocs 配置文件 （调试用）
+      - name: Throw mkdocs.yml (debugger)
         run: cat mkdocs.yml
       
-      - name: 部署
+      - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -2,9 +2,9 @@ site_name: PaperClip Fans
 site_description: Hi~ 这里是回形针非官方的资料整理仓库. 
 
 # Repository
-repo_name: Just-Prog/paperclipfans
-repo_url: https://github.com/Just-Prog/paperclipfans
-edit_uri: https://just-prog.github.io/paperclipfans/contribution/?file=
+repo_name: ipaperclip/paperclipfans
+repo_url: https://github.com/ipaperclip/paperclipfans
+edit_uri: https://paperclip.wiki/contribution/?file=
 
 # Copyright
 copyright: 
@@ -22,22 +22,22 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  include_search_page: false
-  search_index_only: true
   features:
-    - instant
-    - tabs
+    - navigation.instantinstant
+    - navigation.tabs
 
 extra:
   social:
     - icon: fontawesome/brands/telegram-plane
-      link: https://t.me/paperclipgroup
+      link: https://t.me/papercliphub
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/Just-Prog/paperclipfans
+      link: https://github.com/ipaperclip
+  analytics:
+    provider: google
+    property: UA-154880396-4
 
-google_analytics:
-  - G-G2F4F2DSHK
-  - auto
+extra_css:
+  - extra.css
 
 # Extensions
 markdown_extensions:
@@ -50,4 +50,3 @@ nav:
   - Home: 
     - 开始: index.md
     - 贡献: contribution.md
-    - 声明: license.md
