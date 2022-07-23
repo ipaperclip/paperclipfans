@@ -26,4 +26,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
-          CUSTOM_DOMAIN: paperclipfans.justprog.tk
+          CUSTOM_DOMAIN: paperclipfans.justprog.eu.org
