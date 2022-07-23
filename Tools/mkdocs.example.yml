@@ -28,7 +28,7 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/telegram-plane
+    - icon: fontawesome/brands/telegram
       link: https://t.me/papercliphub
     - icon: fontawesome/brands/github-alt
       link: https://github.com/ipaperclip
