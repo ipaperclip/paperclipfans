@@ -1,0 +1,5595 @@
+
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Hi~ 这里是回形针非官方的资料整理仓库.">
+      
+      
+      
+      
+        <link rel="prev" href="../Vol.030/">
+      
+      
+        <link rel="next" href="../Vol.032/">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.17">
+    
+    
+      
+        <title>Vol.031 怎样打造逼真的引擎声 - PaperClip Fans</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.bcfcd587.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","UA-154880396-4"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","UA-154880396-4",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=UA-154880396-4",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="white" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#vol031" class="md-skip">
+          跳转至
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="页眉">
+    <a href=".." title="PaperClip Fans" class="md-header__button md-logo" aria-label="PaperClip Fans" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M364.2 83.8c-24.4-24.4-64-24.4-88.4 0l-184 184c-42.1 42.1-42.1 110.3 0 152.4s110.3 42.1 152.4 0l152-152c10.9-10.9 28.7-10.9 39.6 0s10.9 28.7 0 39.6l-152 152c-64 64-167.6 64-231.6 0s-64-167.6 0-231.6l184-184c46.3-46.3 121.3-46.3 167.6 0s46.3 121.3 0 167.6l-176 176c-28.6 28.6-75 28.6-103.6 0s-28.6-75 0-103.6l144-144c10.9-10.9 28.7-10.9 39.6 0s10.9 28.7 0 39.6l-144 144c-6.7 6.7-6.7 17.7 0 24.4s17.7 6.7 24.4 0l176-176c24.4-24.4 24.4-64 0-88.4z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            PaperClip Fans
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Vol.031 怎样打造逼真的引擎声
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="查找">
+        
+        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/ipaperclip/paperclipfans" title="前往仓库" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    ipaperclip/paperclipfans
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="标签" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href=".." class="md-tabs__link">
+          
+  
+  Home
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../Vol.001/" class="md-tabs__link">
+          
+  
+  Vol
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../Sp.001/" class="md-tabs__link">
+          
+  
+  Sp
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../Ad.001/" class="md-tabs__link">
+          
+  
+  Ad
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../X.OLAY/" class="md-tabs__link">
+          
+  
+  X
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../Df.001/" class="md-tabs__link">
+          
+  
+  Df
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="导航栏" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="PaperClip Fans" class="md-nav__button md-logo" aria-label="PaperClip Fans" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M364.2 83.8c-24.4-24.4-64-24.4-88.4 0l-184 184c-42.1 42.1-42.1 110.3 0 152.4s110.3 42.1 152.4 0l152-152c10.9-10.9 28.7-10.9 39.6 0s10.9 28.7 0 39.6l-152 152c-64 64-167.6 64-231.6 0s-64-167.6 0-231.6l184-184c46.3-46.3 121.3-46.3 167.6 0s46.3 121.3 0 167.6l-176 176c-28.6 28.6-75 28.6-103.6 0s-28.6-75 0-103.6l144-144c10.9-10.9 28.7-10.9 39.6 0s10.9 28.7 0 39.6l-144 144c-6.7 6.7-6.7 17.7 0 24.4s17.7 6.7 24.4 0l176-176c24.4-24.4 24.4-64 0-88.4z"/></svg>
+
+    </a>
+    PaperClip Fans
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/ipaperclip/paperclipfans" title="前往仓库" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    ipaperclip/paperclipfans
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Home
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    开始
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../contribution/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    贡献
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Vol
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Vol
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.001/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.001 摄像头如何监控十三亿人
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.002/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.002 如何制造爆款冥币
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.003/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.003 垃圾短信群发指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.004/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.004 为什么中国人总是在安检
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.005/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.005 如何实现逼真的砍头
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.006/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.006 烂牙修复指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.007/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.007 如何科学地执行死刑
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.008/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.008 如何给猪盖章
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.009/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.009 跑车凭什么这么贵
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.010/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.010 混音师如何拯救歌手
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.011/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.011 如何制造爆款烟花
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.012/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.012 坦克驾驶指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.013/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.013 如何拯救秃顶
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.015/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.015 如何经营一家鬼屋
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.016/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.016 自来水都从哪来
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.018/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.018 高速公路收费指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.019/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.019 如何实现一次华丽的漂移
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.020/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.020 围棋 AI 养成指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.021/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.021 如何科学地给机票定价
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.022/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.022 如何科学地戒毒
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.023/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.023 如何准确定位你的手机
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.024/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.024 如何用煤烧出 4 万亿度电
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.025/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.025 牛如何变成速冻牛排
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.026/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.026 摄像头如何抓住你超速、压线、闯红灯
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.027/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.027 如何制造婴儿奶粉
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.028/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.028 如何显示准确的颜色
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.029/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.029 如何打造一款有用的美白护肤品
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.030/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.030 如何建造一座戒备森严的监狱
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Vol.031 怎样打造逼真的引擎声
+  </span>
+  
+
+      </a>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.032/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.032 双眼皮手术指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.033/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.033 电动汽车制造指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.034/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.034 你拉的屎都去哪儿了？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.035/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.035 如何科学地炸倒一栋楼？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.036/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.036 如何设计一个逼真的三维模型
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.037/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.037 快递是如何送到你手中的
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.039/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.039 如何用机器人打销售电话？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.040/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.040 如何给无骨鸡爪脱骨？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.041/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.041 暖气是如何送到你家的？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.042/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.042 如何制造爆款宠物
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.043/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.043 如何批量制造钻石？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.044/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.044 锂电池如何拯救当代生活？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.045/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.045 今天的汽车和百年前有什么区别？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.046/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.046 手术如何拯救近视眼？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.047/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.047 低焦油香烟的骗局
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.048/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.048 你的 App 为什么知道你想买什么？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.049/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.049 如何做一根懂事的路灯
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.050/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.050 如何为十三亿人调度列车
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.051/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.051 如何花 10 亿美元研发一款有效的抗癌药
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.052/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.052 你的手机是怎么上网的？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.053/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.053 助听器如何拯救耳聋？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.054/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.054 ATM如何保护人民币的安全 ？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.055/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.055 怎样才能种出刚正不阿的行道树？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.056/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.056 如何科学地吃辣椒？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.057/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.057 原子弹制造指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.058/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.058 香烟如何让你上瘾？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.059/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.059 如何在中国修建 5000 公里地铁 ？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.060/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.060 如何打造一双顶级篮球鞋？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.061/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.061 如何科学的离婚
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.062/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.062 你买机票的时候究竟发生了什么？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.063/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.063 如何打造一座爆款公墓？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.064/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.064 你的手机是如何拍照的？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.065/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.065 如何防止你的电动车自燃？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.066/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.066 X光如何看穿你的颈椎、腰椎病？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.067/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.067 你家装修的时候究竟发生了什么？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.068/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.068 如何打造一款顶级润滑油？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.069/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.069 如何科学地配一副眼镜？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.070/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.070 一秒到底有多长？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.071/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.071 如何科学地分析你的口水
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.072/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.072 你的硬盘是如何储存数据的
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.073/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.073 怎样活着从电梯走出来
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.074/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.074 如何靠养鳖发家致富
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.075/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.075 别再问我什么是BT种子
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.076/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.076 如何科学地火化遗体
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.077/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.077 中国的网盘为什么这么难用
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.078/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.078 淘金致富指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.079/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.079 如何成为一名钓鱼高手
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.080/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.080 如何打造一把爆款键盘
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.081/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.081 5G是如何诞生的
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.082/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.082 如何成为一名动感DJ
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.083/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.083 如何科学地消灭蟑螂
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.084/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.084 期货和你的生活有什么关系
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.085/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.085 你丢的垃圾都去哪了？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.086/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.086 如何建造一座人工岛
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.087/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.087 你吃的盐都从哪来
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.088/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.088 为什么中国的足球赛这么难看
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.089/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.089 如何打造一款强劲的马达
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.090/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.090 如何科学地制造降雨
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.091/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.091 如何做出鲜活的动物标本
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.092/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.092 如何打造顺滑好写的圆珠笔
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.093/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.093 为什么你炒股总是亏钱
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.094/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.094 假肢如何拯救身体残疾
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.096/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.096 如何科学地矫正牙齿
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.097/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.097 为什么在中国买彩票一定亏
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.098/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.098 不粘锅如何拯救你的厨房
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.099/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.099 造假币为什么这么难
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.101/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.101 如何做出令人欲罢不能的炸鸡
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.102/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.102 怎样画一张地图
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.103/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.103 防弹衣如何救你的命
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.104/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.104 你好！查水表
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.105/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.105 如何科学地管理图书馆
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.106/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.106 过山车如何让你尖叫
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.107/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.107 如何成为一个有身份的人
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.108/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.108 怎样科学地放电影
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.109/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.109 马桶如何吸走你的大便
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.110/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.110 如何建一座人畜无害的动物园
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.111/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.111 如何做一块逼真的人造肉
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.112/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.112 区块链到底是什么？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.113/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.113 如何科学地刷信用卡？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.114/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.114 如何为14亿人调度飞机
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.115/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.115 为什么你要献血
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.116/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.116 如何把一只羊变成毛衣？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.117/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.117 为什么你还买不到口罩？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.118/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.118 你的 App 对你的隐私做了什么
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.119/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.119 如何准确地预报天气？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.120/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.120 二维码的秘密
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.121/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.121 开锁师傅对你的锁做了什么
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.122/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.122 ICU 病房里究竟发生了什么
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.123/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.123 如何吃上肥美的大鱿鱼
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.124/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.124 海底光缆如何连接全球互联网
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.125/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.125 生物类似药如何抗击乳腺癌
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.126/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.126 如何让帆船逆风航行
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.127/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.127 为什么女生的内衣总是不合身
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.128/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.128 光盘里究竟有什么
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.129/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.129 为什么你的脚这么臭
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.130/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.130 北斗卫星为你做了什么
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.131/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.131 为什么拍电影要用斯坦尼康
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.132/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.132 如何科学测量你的体温
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.133/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.133 如何科学地消灭蚊子
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.134/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.134 核酸检测如何高效筛查新冠肺炎
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.135/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.135 养蜂致富指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.136/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.136 如何成为一名金牌电焊工
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.137/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.137 如何在纳米尺度雕刻芯片
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.138/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.138 如何用 DNA 追捕真凶
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.139/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.139 如何精确控制母鸡批量下蛋
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.140/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.140 如何科学地拆除炸弹
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.141/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.141 氢弹制造指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.142/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.142 水痘-带状疱疹病毒如何伴你一生
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.143/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.143 嫦娥五号：重返地球
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.144/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.144 AED 如何拯救濒死的人
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.145/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.145 HIV 自救指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.146/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.146 速溶咖啡为什么这么难喝
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.147/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.147 长租公寓是如何爆雷的
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.148/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.148 如何让你的胃免受伤害
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.149/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.149 螺蛳粉如何制霸中国
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.150/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.150 狙击手如何一枪毙命
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.151/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.151 为什么你的皮肤这么干
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.152/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.152 脂肪去除指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.153/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.153 如何成为双板滑雪高手
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.154/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.154 手语的秘密
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.155/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.155 托尼老师如何给你染发
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.156/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.156 春运抢票之战
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.157/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.157 一个完美的速冻水饺是怎样炼成的
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.158/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.158 寻找地球上最冷的冬天
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.159/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.159 人类脱毛指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.160/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.160 吊威亚如何让你飞檐走壁
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.161/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.161 挖掘机驾驶指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.162/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.162 赌场为什么稳赚不赔
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.163/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.163 打呼噜到底有多危险
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.164/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.164 免税店为什么能让你薅羊毛
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.165/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.165 电信网络诈骗如何让你倾家荡产
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.166/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.166 人群踩踏保命指南
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.167/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.167 可控核聚变如何制造终极能源
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.168/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.168 夜视仪如何看透黑夜
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.169/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.169 水族馆养鱼到底有多难
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.170/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.170 基金经理对你的钱做了什么
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.171/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.171 F1 赛车如何靠「作弊」夺冠
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.172/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.172 麻醉医生如何让你活着醒来
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.173/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.173 肉毒毒素对你的脸做了什么
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.174/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.174 抓娃娃机如何伤透你的心
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.175/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.175 血糖监测对糖尿病人到底有多重要
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.176/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.176 你喝的牛奶从哪来
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vol.177/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vol.177 地震预报为什么这么难
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Sp
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Sp
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sp.001/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sp.001 2018 年回形针如何赚钱？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sp.002/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sp.002 我们做了一个真正的当代生活说明书
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sp.003/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sp.003 解谜 PaperClip100：球赛、机票、 脚本和 DDos 攻击
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sp.004/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sp.004 2019 年回形针赚了多少钱？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sp.005/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sp.005 关于新冠肺炎的一切
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sp.006/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sp.006 幕后故事：回形针是怎么做视频的
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sp.007/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sp.007 工作汇报：最近半年我们都干了什么？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sp.008/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sp.008 和 10 个批评者一块聊天
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sp.009/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sp.009 2020年 回形针赚了多少钱
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sp.010/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sp.010 直面问题 我们为什么又上热搜了
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ad
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Ad
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.001/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.001 运动鞋和非牛顿流体的秘密
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.002/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.002 做完 1135 道题，我们看透了科目一
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.003/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.003 电池是怎么做出来的？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.004/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.004 固态硬盘到底好在哪？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.005/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.005 如何设计一个自动进化的知识网络？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.006/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.006 白噪音如何让你睡个好觉？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.007/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.007 游戏手机到底好在哪？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.008/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.008 为什么你的手机充电这么慢？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.009/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.009 如何造一台终生进化的风力发电机 ？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.010/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.010 你真的需要 120Hz 屏幕刷新率吗？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.011/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.011 回形针如何远程办公？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.012/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.012 为什么你家的 Wi-Fi 这么慢？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.013/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.013 如何踢出一记漂亮的弧线球？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.014/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.014 为什么手机需要人工智能？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.015/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.015 5G 如何改变直播
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.016/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.016 如何科学地买卖二手书？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.017/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.017 为什么你的西服总是不合身
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.018/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.018 你打电话时究竟发生了什么
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.019/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.019 为什么你的手机总拍不好明暗细节
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.020/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.020 为什么你家的油烟机这么难用
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.021/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.021 如何做一件轻暖兼备的保暖内衣
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.022/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.022 如何身临其境地观看篮球赛
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.023/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.023 手机导航如何给你指条明路
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.024/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.024 人工智能如何帮你看病
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.025/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.025 为什么视频会议总让你很累
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.026/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.026 如何打造一台懂事的吸尘器
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.027/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.027 如何饿死你床上的螨虫
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ad.028/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ad.028 戴耳机的你，听力为什么越来越差
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    X
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            X
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../X.OLAY/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    X.OLAY 是什么决定了你的肤色
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../X.OPPO/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    X.OPPO 如何成为碰碰车之王？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../X.PoleStar%E6%9E%81%E6%98%9F/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    X.PoleStar极星 安全气囊如何用炸药救人
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../X.WWF/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    X.WWF 如何快速消灭全世界的森林？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../X.dyson/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    X.dyson 直升机、斯特塔管与吸尘器
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../X.%E4%B8%9C%E6%96%B9%E6%97%B6%E7%A9%BA/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    X.东方时空 天问一号：登陆火星
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../X.%E4%B8%AD%E5%A4%AE%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E6%80%BB%E5%8F%B0/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    X.中央广播电视总台 如何下潜海底一万米？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../X.%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%AE%A2%E6%88%B7%E7%AB%AF/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    X.新华社客户端 民法典如何保护你的当代生活
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../X.%E6%9F%94%E5%AE%87%E7%A7%91%E6%8A%80/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    X.柔宇科技 你究竟需要怎样的屏幕？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../X.%E6%A2%85%E8%B5%9B%E5%BE%B7%E6%96%AF-%E5%A5%94%E9%A9%B0/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    X.梅赛德斯-奔驰 汽车仪表盘如何帮你好好开车？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../X.%E6%B2%83%E5%B0%94%E6%B2%83_1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    X.沃尔沃_1 汽车车身如何护你周全？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../X.%E6%B2%83%E5%B0%94%E6%B2%83_2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    X.沃尔沃_2 如何造一辆舍己救人的汽车？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../X.%E8%94%9A%E6%9D%A5_1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    X.蔚来_1 为什么你的电动汽车越来越不值钱
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../X.%E8%94%9A%E6%9D%A5_2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    X.蔚来_2 自动驾驶为什么这么难？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Df
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Df
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Df.001/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Df.001 我们做了三面镜子：挺钢的，有点硬
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Df.002/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Df.002 我们做了个公开成本的 T 恤套装
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="vol031">Vol.031 怎样打造逼真的引擎声</h1>
+<p>轰鸣的汽车引擎满足了原始的人类本能——对力量的宣示。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKa1ACXt7AO2Ilzamia9e4dmWAKRslwAQdTLK7d5MXOf4z5fEsOIKNoM5A.gif" /></p>
+<p>在人们心中，引擎声越高亢，动力就越强劲。但在倡导环保，节油，</p>
+<p>排量的今天，家用汽车的引擎已经越来越安静。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKa0SkylnlAFvUrOKs1P8D2T2mticHowUwCCrksgqa9nM2JhB1hT3FIkvQ.gif" /></p>
+<p>为了让客户重燃激情，各家汽车厂商给出了新时代的引擎声播放方案。</p>
+<p>这是一个典型的四冲程汽车发动机，你有一分钟的时间观赏这些结构。其实没有。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKa0ic528uDicauNlMVibBs7rLFlLp8icNUMoTicUfxw0XpfTURfNbT3EA1R5w.gif" /></p>
+<p>最重要是这里：进气歧管，火花塞，活塞，排气歧管。发动机的一次完整做功有四个冲程。</p>
+<p>吸气：进气管打开，吸入空气和汽油的混合气体，活塞向下运动。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKaR2u464EuxahiaHJHQE4G4bGynVlcmUiboZLNRHqXn39BHsryuibCrp2xg.gif" /></p>
+<p>压缩：进气管关闭，活塞向上运动，压缩混合气体。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKaQGnniaoZLuT6u9fBsO1N5xRGIWCPfiasf2uvREEHctW6rFeyUXGJnnSw.gif" /></p>
+<p>燃烧：火花塞点火点燃气体，释然压力推动活塞向下运动。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKaUu9MdBgeDpdytulAZuDIAAFoiaPgWy937zm6sicr8icUQ1peAYVFibrTTQ.gif" /></p>
+<p>排气：排气管打开，活塞向上运动，排出废气。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKanBibnrubWW8jF41bT0rBWKia29Yum69Cn7c9jxJUxCBCvEOia36wMNlvA.gif" /></p>
+<p>以此循环往复，引擎声就来自活塞运动的机械噪音和吸气排气的气流。</p>
+<p>这也是为什么涡轮增压引擎声音小的原因。涡轮增压技术可以利用废气带动涡轮，驱动进气端的涡轮压入更多空气。这样虽然能利用废气能量提高效率，但是在进气和排气两端的涡轮破坏了原本顺畅的气流，进一步减弱了引擎声。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKaca6txlpvG8lPfh612Uox6xiaJGUh4zOJPjiaJjVpLx9rg2xssiakibfhibg.gif" /></p>
+<p>拯救引擎声的工程师团队被称为 NVH —— Noise, vibration, harshness。</p>
+<p>通常有三种方案：排气泄压阀，声浪传导和电子声浪模拟。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKal0mPAtsKicvBsxcRJxicvibN35ydtp1rySp03cL0Mq306eGellnWTOgMw.gif" /></p>
+<p>排气泄压阀是一个位于排气歧管后，涡轮增压器之前的旁路阀门，由机械或电子控制阀门的开合。当阀门打开后，废气将不经过涡轮，发出更加嘹亮的排气声浪。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKauZopIycPkTZKuQgaPMFrG4wxvkFJKedzWzj4pIRSnmmPvq0jjLz8lQ.gif" /></p>
+<p>声浪传导的目的则是将发动机的声浪尽可能透过车身传导到驾驶室内。</p>
+<p>保时捷和福特等厂商用一根声浪导管将进气歧管和驾驶室直接相连，以使驾驶室中的声浪更响亮。福特的福克斯ST还在导管内安装了拨片，用于放大 200-450hz 的低音。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKavOBmX3sc2PGE55JklwYntdmJ9ia1gfLxU6H7X7KKNTsSAD77ibicr5Msg.gif" /></p>
+<p>相比机械手段，动用车载音响是最直接的方案。</p>
+<p>汽车模拟引擎声的技术与赛车游戏类似，主要是根据录制得到的声音制作声学模型。常见的建模方法有交叉渐变循环和颗粒合成。</p>
+<p>交叉渐变循环在目前的应用更加广泛，这项技术将经过编辑的录音片段根据不同的引擎转速、档位和引擎负载等参数循环播放，并在不同循环切换的时候通过淡入淡出避免不自然的感觉。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKa36h7cCppT95Hn4eaKr97CQLKxiaoRO5icMfha5XtS9O4Jd0tt0NscXcA.gif" /></p>
+<p>另一种新型的技术是颗粒合成，首先把声音切分成以毫秒为单位的片段。然后根据当前参数对这些片段进行重复和组合，这样就能模拟出自然的引擎声。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKa8ysaWV149wKM2fsGyFyGpXGFmAA5icLJ89qLiaVstgfTrtGhriaALudGA.gif" /></p>
+<p>宝马 M5 在将原先声音浑厚的 V10 引擎更换为 V8 涡轮增压引擎时就同步引入了这套名为 Active Sound Design 的声浪模拟系统。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKaxceNehuKAGPEh2OVRxYbxGJGzWDsgku6FHo4Hiae5o5j4u4VBCQDm5A.gif" /></p>
+<p>而被大众汽车广泛应用于高尔夫和捷达等车型的 Soundaktor 系统则是通过一个贴在汽车防火墙外的扬声器，把引擎声放大并叠加一部分合成的声音传导到车厢内。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKa4ibS6sEI9bCgicq8GEfDwVWe7icdHtYHCPcemEMibU8JmfiarmKCYcPQeqQ.gif" /></p>
+<p>模拟的声音也会带给人幻觉，让高尔夫车主也有十足底气的和法拉利在路上飙车。</p>
+<p><img alt="img" src="https://paperclip.host/static/U6yRaDu1NaZQotSNrVicvkWD4gAHtokKap4fLecLOynYqNaDvRPdJicaZuwP7wEZqOJjzxlPNQ6jaibEErb8jVUqA.gif" /></p>
+<div class="admonition note">
+<p class="admonition-title">该文件编辑日志</p>
+<ul>
+<li>
+<p>Mar 29, 2020.
+    By <a href="https://github.com/Zhao-Robert">Zhao-Robert</a></p>
+<div class="codehilite"><pre><span></span><code>创建文件 &amp; Markdown 格式化
+</code></pre></div>
+
+</li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://t.me/papercliphub" target="_blank" rel="noopener" title="t.me" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M248 8C111.033 8 0 119.033 0 256s111.033 248 248 248 248-111.033 248-248S384.967 8 248 8Zm114.952 168.66c-3.732 39.215-19.881 134.378-28.1 178.3-3.476 18.584-10.322 24.816-16.948 25.425-14.4 1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25 5.342-39.5 3.652-3.793 67.107-61.51 68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608 69.142-14.845 10.194-26.894 9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7 18.45-13.7 108.446-47.248 144.628-62.3c68.872-28.647 83.183-33.623 92.511-33.789 2.052-.034 6.639.474 9.61 2.885a10.452 10.452 0 0 1 3.53 6.716 43.765 43.765 0 0 1 .417 9.769Z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/ipaperclip" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M186.1 328.7c0 20.9-10.9 55.1-36.7 55.1s-36.7-34.2-36.7-55.1 10.9-55.1 36.7-55.1 36.7 34.2 36.7 55.1zM480 278.2c0 31.9-3.2 65.7-17.5 95-37.9 76.6-142.1 74.8-216.7 74.8-75.8 0-186.2 2.7-225.6-74.8-14.6-29-20.2-63.1-20.2-95 0-41.9 13.9-81.5 41.5-113.6-5.2-15.8-7.7-32.4-7.7-48.8 0-21.5 4.9-32.3 14.6-51.8 45.3 0 74.3 9 108.8 36 29-6.9 58.8-10 88.7-10 27 0 54.2 2.9 80.4 9.2 34-26.7 63-35.2 107.8-35.2 9.8 19.5 14.6 30.3 14.6 51.8 0 16.4-2.6 32.7-7.7 48.2 27.5 32.4 39 72.3 39 114.2zm-64.3 50.5c0-43.9-26.7-82.6-73.5-82.6-18.9 0-37 3.4-56 6-14.9 2.3-29.8 3.2-45.1 3.2-15.2 0-30.1-.9-45.1-3.2-18.7-2.6-37-6-56-6-46.8 0-73.5 38.7-73.5 82.6 0 87.8 80.4 101.3 150.4 101.3h48.2c70.3 0 150.6-13.4 150.6-101.3zm-82.6-55.1c-25.8 0-36.7 34.2-36.7 55.1s10.9 55.1 36.7 55.1 36.7-34.2 36.7-55.1-10.9-55.1-36.7-55.1z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instantinstant", "navigation.tabs"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.1e8ae164.min.js"></script>
+      
+    
+  </body>
+</html>
